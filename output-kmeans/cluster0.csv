@@ -1,0 +1,2957 @@
+id,name,price,brand
+0,Lasanha Bolonhesa Congelada,12.99,LeBon
+3,Aperitivo Bitter Campari 900ml,42.5,Campari
+4,Adoçante Líquido Adocyl Sacarina,3.89,Adocyl
+7,Água Gás Zero,3.69,Smart Water
+8,Abobrinha Italiana Orgânica,8.99,Sentir Bem
+11,Sorvete Biscoito Gingerbread Bacio,39.9,Bacio di Latte
+12,Mistura Bolo Milho,5.19,Fleischmann
+13,Massa Talharim Italiany 500g,7.19,Italiany
+14,Barra Cereal Nuts,6.39,Nutry
+19,Filezinho Peito,31.5,Korin
+20,Sanduíche Hot Hit Bacon,6.49,Seara
+22,Granola Maçã Canela,10.5,Jasmine
+23,Ovo Codorna,19.99,Petry
+24,Cerveja Lager Premium Puro,7.69,Bellavista
+26,Margarina Sal +,3.2,Delícia
+28,Biscoito Maisena Mabel Pacote,5.69,Mabel
+29,Ovinhos Amendoim Elma,12.5,Elma Chips
+30,Pão Forma Macadâmia,8.99,Confiare
+31,Ketchup Original Sabores Cepêra,8.79,Sabores Cepêra
+33,Costela Traseiro Fatiada,36.31,Swift
+34,Pastilha Frutas Gusta,2.69,Tic Tac
+35,Merluza Barrinhas Empanadas,18.9,Pescanova
+36,Coco Ralado Úmido Adoçado,3.29,Coco do Vale
+37,Uva Passa Clara,11.99,Big Hiper
+38,Espinafre Congelado Folhas,11.99,D'aucy
+40,Filé Tilápia,24.99,Confiare
+41,Whisky Escocês Blended Grand,119.9,Grand Old Parr
+46,Coxão Mole Resfriado Porcionado,56.39,Friboi
+47,Wrap Costelinha Barbecue,6.99,Seara
+49,Salame Italiano Fatiado Seara,15.5,Seara
+50,Rum Brasileiro Carta Cristal,26.99,Montilla
+51,Cogumelo Shitake,15.99,Big Hiper
+52,Vinagre Maçã Toscano,5.79,Toscano
+54,Alface Americana Orgânica,7.99,Sentir Bem
+55,Polvilho Azedo Yoki Pacote,11.99,Yoki
+58,Amendoim Torrado Boteco,4.09,Dori
+59,Biscoito Maçã,3.49,Nestlé
+61,Bala Mastigável Lua Cheia,3.99,Dori
+64,Alface Hidropônica,2.99,Big Hiper
+66,Café Cerrado Mineiro Gourmet,13.9,Confiare
+67,Queijo Cream Cheese Tradicional,6.19,Danubio
+68,Barbecue Hellmann's Tradicional Frasco,15.99,Hellmann's
+69,Chá Preto Ice Tea,5.89,Leão
+73,Farofa Apimentada Swift 400g,11.47,Swift
+74,Cerveja American Lager Premium,3.25,Skol
+75,Seleta Legumes Vapza,11.99,Vapza
+76,Adoçante Líquido Diet Sucralose,10.49,Zero Cal
+77,Lambrusco Italian Dell'emilia,32.99,II Roccolo
+79,Leite Fermentado Tradicional Zero,2.19,Activia
+83,Ovos Vermelhos Caipira Grande,13.99,Fazenda da Toca
+84,Ervilha Reidratada Conserva,2.49,Petitosa
+87,Chá Camomila Madrugada,3.29,Madrugada
+88,Castanha-de-Caju Torrada Salgada,13.5,Amigos Do Bem
+89,Espumante Rosé Brasileiro Natural,28.5,Garibaldi
+90,Creme Cebola Swift,12.86,Swift
+91,Melhorador Farinha,2.99,Fleischmann
+94,Mistura Panqueca Americana,6.89,Dr. Oetker
+95,Creme Vegetal Sal,6.79,Cremosy
+100,Bebida Mista Alcoólica Gaseificada,4.09,51
+101,Pão Bisnaguinha Tradicional Confiare,4.79,Confiare
+102,Salame Pepperoni Fatiado Seara,11.5,Seara
+103,Hambúrguer Carne Bovina,22.99,Sadia
+104,Cereal Matinal Kellogg's Sucrilhos,12.99,Kellogg's
+105,"Chá Camomila, Capim-Cidreira, Hortelã",14.5,Dr. Oetker
+106,Sweet Grape Trebeschi Pote,14.5,Trebeschi
+107,Queijo Prato Fatiado Lac,19.99,Lac Lélo
+109,Rosquinha Polvilho Cebola,4.49,Gusman
+110,Rum Brasileiro Carta Ouro,32.99,Bacardi
+111,Geleia Frutas Vermelhas Diet,19.5,Queensberry
+114,Pão Forma Tradicional,7.19,Bauducco
+116,Whisky Jim Beam Fire,94.5,Jim Beam
+117,Patê Atum Light,9.99,Gomes da Costa
+118,Gin & Tonica Flor,18.5,Tanqueray
+120,Cenoura Ralada La Vita,4.99,La Vita
+123,Canjica Milho Branca,4.59,Kisabor
+124,Cebola Roxa,2.4,Big Hiper
+126,Manteiga Coco,11.99,Qualicoco
+127,Bolo Toons Sabor Baunilha,1.29,Isabela
+128,Granola Light Kobber Pacote,17.9,Kobber
+130,Massa Pizza Brotinho,7.49,Mezzani
+133,Sorvete Chambinho Nestlé Pote,24.99,Nestlé
+134,Presunto Serrano Fatiado Haciendas,22.99,Haciendas Reserva
+135,Sidra Cereser Garrafa 660ml,9.79,Cereser
+137,Farinha Empanar Yoki,11.99,Yoki
+139,Batata Frita Ondulada Cebola,7.99,Elma Chips
+140,Goma Mascar Tangerina,10.5,Trident
+141,Sal Grosso Ajinomoto Aji-Sal,5.39,Aji-No-Moto
+142,Sopa Individual Batata,3.99,Vono
+145,Pimenta Cominho,14.5,Kitano
+149,Granola Banana Canela,10.5,Jasmine
+152,Sopa Individual Mandioquinha,3.99,Vono
+153,Sorvete Cheesecake Mega Nestlé,10.5,Nestlé
+154,Nhoque Batata Romanha,9.79,Romanha
+157,Catchup Oderich Sachê 340g,3.59,Oderich
+160,Tortinha Congelada Palmito,31.5,Catupiry
+163,Ovos Vermelhos Caipira Ares,16.99,Ares Do Campo
+164,Batata Palha Mesa,5.59,Elma Chips
+169,Linguiça Toscana Swift 700g,32.9,Swift
+170,Bebida Frutas Cítricas Frukito,5.79,Frukito
+172,Chiclete Ácido Melancia Fini,6.49,Fini
+174,Queijo Processado UHT Original,9.09,Polenghi
+178,Barriga Suína Fatiada Aprox.,10.8,Big Hiper
+179,Suco Concentrado Manga,6.69,Maguary
+180,Cogumelo Shimeji Vivere,12.99,Vivere Santé
+183,Cubos Músculo Swift,19.96,Swift
+185,Polpa Fruta Acerola,1.69,Polpanorte
+187,Lasanha Bolonhesa Congelada,12.99,Rezende
+188,Cheiro Picado La,3.99,La Vita
+190,Maionese Tradicional Liza Pote,4.39,Liza
+191,Polpa Fruta Frutas,2.69,Polpanorte
+192,Castanha-de-Caju Caramelizada Amigos,29.9,Amigos Do Bem
+193,Caldo Tablete Legumes,1.99,Maggi
+194,Cerveja Pilsen Brahma Lata,4.29,Brahma
+195,Linguiça Pernil Suíno,19.99,Sabor de Bragança
+196,Batata Rústicas Cubos,8.99,Top Chef
+201,Queijo Parmesão Fatiado Faixa,53.99,Faixa Azul
+202,Batata Palha Tradicional Elma,5.39,Elma Chips
+203,Gelatina Folha,13.5,Dr. Oetker
+204,Café Solúvel Liofilizado Classique,8.19,L'or
+205,Salsicha Tradicional Sadia Pacote,12.5,Sadia
+207,Pack Fórmula Infantil,65.5,Nestlé
+210,Suplemento Alimentar Líquido Lemon,8.99,Reign
+211,Pizza Calabresa Seara Caixa,15.99,Seara
+212,Óleo Soja Confiare,7.68,Confiare
+214,Bolo Laranja Pullman,7.59,Pullman
+215,Açúcar Cristal Purinha Pacote,14.5,Purinha
+217,Tempero Legumes Sazón,3.69,Sazón
+218,Mortadela Defumada Sadia Pacote,8.99,Sadia
+219,Polaca Alasca,34.66,Confiare
+223,Suco Frutas Cítricas,2.89,Del Valle
+224,Sorvete Pistacchio Bacio di,39.9,Bacio di Latte
+225,Torrada Light Marilan Lev,4.49,Marilan
+226,Contrafilé Bovino Resfriado Peça,143.97,Big Hiper
+228,Açaí Swift 500g,13.96,Swift
+229,Gin London Pink Strawberry,179.0,Beefeater
+230,Chá Abacaxi Hortelã,7.99,Leão
+231,Massa Folhada Laminada Congelada,13.99,Arosa
+232,Suco Laranja,10.99,Com/Tem
+233,Óleo Coco Copra,17.99,Copra
+234,Leite Fermentado Activia Chai,5.09,Activia
+235,Ovo Vermelho Grande Caipira,19.9,Gralha Azul
+236,Pão Mel Bauducco,1.99,Bauducco
+240,Azeitona em Conserva,6.49,Hemmer
+243,Cidra Maça Cereser,12.5,Cereser
+244,Geleia Blueberry Linea Vidro,19.99,Linea
+248,Energético Lemon Dragon Ice,7.99,Monster
+251,Alcatra Bovina 1Kg,46.99,Big Hiper
+255,Pipoca Pronta Doce Caramelizada,2.99,Elma Chips
+261,Tempero Alho Sal,4.39,Sabor a Mi
+262,Catchup Oderich Bisnaga 200g,3.19,Oderich
+263,Amendoim Torrado Salgado,10.89,DaColônia
+264,Caldo Tablete Carne,2.89,Knorr
+267,Bolo Aipim Romanato,5.39,Romanato
+270,Aroma Idêntico Natural,5.29,Dr. Oetker
+271,Biscoito Bolo Mel,7.59,Zezé
+272,Bala Gelatina Haribo,7.69,Haribo
+274,Sorvete Cioccolato Jundiá Pote,20.99,Jundiá
+276,Lima Pérsia,1.8,Big Hiper
+277,Bombom Chokito Nestlé Pacote,2.29,Nestlé
+278,Creme Chantilly Fleischmann Caixa,2.85,Fleischmann
+280,Aveia Flocos Quaker,3.29,Quaker
+281,Farofa Milho Temperada,11.99,Yoki
+282,Damasco Seco,15.99,Big Hiper
+283,Farinha Tempurako Karui Oriental,19.5,Karui
+284,Sorvete Cioccolato Belga Bacio,39.9,Bacio di Latte
+285,Suco Uva,3.99,Natural One
+287,Pipoca Doce Pronta,8.59,Mãe Terra
+288,Coxinha Costela Swift,13.93,Swift
+289,Néctar Todo Sabor Pessêgo,3.29,Cy
+290,Pão Chapa,10.5,Pullman
+291,Arroz Trench Caramelizado 100g,6.89,Trench
+292,Açaí Guaraná Orgânico,24.9,Sambazon
+293,Paleta Bovino Osso,28.4,Big Hiper
+295,Manga Palmer,2.0,Big Hiper
+296,Folhado Recheado Peito,4.99,Big Hiper
+298,Burrito Carne Cheddar Nacho,24.99,Nacho Loco
+300,Café Mogiana Gourmet Especial,13.9,Confiare
+301,Atum Pedaços,9.39,Confiare
+304,Maionese Maria Pote 500g,4.49,Maria
+306,Soja Grãos Cozida,6.29,Vapza
+308,Pack Cerveja Pilsen Skol,31.5,Skol
+310,Sal Parrilla,18.93,Swift
+311,Caldo Tablete Bacon,3.59,Maggi
+313,Leite Condensado Semidesnatado Nestlé,7.09,Nestlé
+314,Whisky Escocês Blended Double,205.0,Johnnie Walker
+317,Peito Peru Fatiado,15.99,Seara
+320,Bolinhos Mandioca,13.93,Swift
+321,Pescada Goete Cabeça,14.9,Confiare
+322,Suco Limão Del Valle,1.49,Del Valle
+323,Lombo Suíno Temperado Swift,17.38,Swift
+324,Espumante Brasileiro Rosé Brut,29.99,Salton
+325,Costela Suína Fatiada Resfriada,27.99,Big Hiper
+326,Energético Monster Lata 473ml,7.99,Monster
+327,Whisky Escocês Blended Extra,229.0,Chivas Regal
+328,Filé Pescada Amarela,42.63,Swift
+330,Bebida Funcional Uva,5.95,Life Mix
+331,Suco Uva,2.69,Natural One
+337,Amendoim Único Caldo Bom,9.59,Caldo Bom
+339,Pizza Calabresa Turma,14.5,Seara
+340,Filé Tilápia Copacol Pacote400g,25.99,Copacol
+343,Contrafilé Bovino Pedaço Aprox.,11.0,Big Hiper
+345,Biscoito Água Sal,6.39,Isabela
+346,Energético Ultra Violet Zero,7.99,Monster
+349,Milho Congelado D'aucy,10.5,D'aucy
+350,Mix Cereais Trato,17.99,Mãe Terra
+353,Vermute Martini 750ml,29.99,Martini
+356,Massa Lasanha,18.5,Barilla
+357,Figos Calda Cepêra,13.99,Cepêra
+359,Ketchup Kisabor Squeeze 380g,3.99,Kisabor
+360,Mostarda Dijon Sabores Cepêra,10.99,Sabores Cepêra
+362,Filés Sardinha,9.19,Gomes da Costa
+363,Ovos Codorna,3.99,Confiare
+364,Alcaparra Conserva La,10.5,La Pastina
+365,Espumante Moscato Sweet Dolce,62.99,Natale Verga
+366,Salsicha Longuette Seara Pacote,9.89,Seara
+368,Cubos Filé,21.96,Swift
+369,Cerveja Pilsen Coronita Extra,3.79,Coronita Extra
+372,Maionese Heinz Tradicional 390g,15.99,Heinz
+373,Pipoca Pronta Cobertura,6.97,Yoki
+374,Saquê Seco Fuji 740ml,20.5,Fuji
+375,Mix 4 Legumes Congelado,7.99,D'aucy
+378,Suco Uva Tial,6.49,Tial
+380,Maionese Heinz Receitas 405g,11.5,Heinz
+382,Pack Goma Mascar,7.19,Trident
+383,Palmito Açaí Tolete,26.99,Hemmer
+385,Cerveja Lager Dado Bier,3.39,Dado Bier
+386,Alface Crespa,2.09,Big Hiper
+387,Pão Alho Tradicional,12.99,Santa Massa
+389,Massa Lasanha,4.79,Pavioli
+392,Camarão Cinza Temperado,49.99,Noronha Pescados
+393,Sopão Galinha Legumes,6.29,Kisabor
+394,Biscoito Wafer Recheio Limão,1.39,Isabela
+395,Pipoca Pronta Cobertura,4.49,Yoki
+398,Cappuccino Solúvel Classic 3,12.5,3 Corações
+399,Coxão Mole Bovino 600g,30.9,Big Hiper
+402,Cerveja Pilsen Samba Lata,1.49,Samba
+403,Batata Pré-Frita Noisette Rústica,10.5,Sérya
+404,Pão Forma Pullman,7.49,Pullman
+406,Feijão Carioca Cozido,6.49,Vapza
+408,Salame Italiano Fatiado Ceratti,17.99,Ceratti
+409,Achocolatado Vitaminado Açúcar,13.99,Linea
+412,Queijo Prato Lanche Fatiado,7.49,Santa Clara
+413,Filé Tilápia Congelado,26.99,Geneseas
+416,Conhaque Espanhol Brandy Fundador,145.0,Fundador Solera
+417,Papinha Banana Aveia,3.49,Nestlé
+418,Panqueca Carne,19.97,Swift
+419,Uva Passa Clara,16.5,Big Hiper
+422,Queijo Frescal Ultrafiltrado Polenghi,22.99,Polenghi
+424,Queijo Cottage Quatá Pote,27.5,Quatá
+425,Néctar Laranja Adição,4.99,Maguary
+427,Bebida Adoçada Uva Maguary,4.99,Maguary
+428,Whisky Escocês Blended Black,165.0,Johnnie Walker
+429,Leite Fermentado Desnatado Frutap,2.29,Frutap
+430,Palmito Pupunha Rodelas Neofoods,12.9,NeoFoods
+433,Granola Light Cacau Kobber,17.9,Kobber
+435,Filé Mignon Extra Limpo,119.79,Swift
+436,Banana Caturra Especial Aprox.,4.39,Big Hiper
+437,Leite Desnatado Paulista Caixa,4.59,Paulista
+438,Lombo Fatiado Aprox.400g Embalagem,12.2,Big Hiper
+439,Atum Ralado Coqueiro Lata,6.95,Coqueiro
+442,Queijo Cream Cheese Light,12.99,Danubio
+443,Bolo Coco Pullman Pacote,7.59,Pullman
+446,Massa Pastel Nápoles,5.09,Nápoles
+447,Sorvete Mezcla Paviloche,22.99,Paviloche
+448,Massa Fillo Fina Congelada,17.99,Arosa
+449,Coco Seco Orgânico Aprox.,7.99,Sentir Bem
+451,Pipoca Micro-Ondas Natural,1.69,Yoki
+452,Pão Forma Estar,7.59,Wickbold
+454,Leite Fermentado Activia Amora,5.09,Activia
+455,Biscoito Cookie Shot Lacta,3.19,Lacta
+462,Massa Tapioca Nordeste,5.39,Nordeste
+463,Coxinha Asa,16.5,Super Frango
+464,Requeijão Cremoso Zero Lactose,8.99,Verde Campo
+467,Medalhão Filé Mignon,74.96,Swift
+468,Requeijão Cremoso Cheddar Polenghi,8.89,Polenghi
+470,Sopão Feijão Kitano Sachê,6.59,Kitano
+472,Salame Lemonástico Sadia Pacote,3.99,Sadia
+473,Tapioca Terrinha Pacote,13.99,Da Terrinha
+474,Batata Ondulada Congelada Top,9.99,Top Chef
+475,Patê Presunto Excelsior,2.59,Excelsior
+478,Azeitona Preta Fatiada Confiare,4.39,Confiare
+479,Mini Bolinho Congelado Pré-Frito,19.5,Catupiry
+480,"Queijo Árabe Orégano,",25.9,Chancliche
+482,Milho Pipoca Kisabor,3.69,Kisabor
+483,Sanduíche Congelado X-Burguer Barbecue,7.99,Sadia
+487,Creme Vegetal Multigrãos,4.89,Qualy
+488,Água Tônica 3 Limões,2.19,Antarctica
+490,Espetinho Kafta Swift,38.93,Swift
+492,Duckbeff Friboi 1953 Bandeja,16.05,Friboi
+493,Barra Castanha,7.99,Banana Brasil
+494,Geleia Amora Homemade,17.5,Homemade
+496,Goiabada Cascão Guimarães Plástico,38.99,Guimarães
+497,Energético Fusion 1l,6.65,Fusion
+498,Linguiça Lombo Fina,19.96,Swift
+499,Bife Tiras Swift,56.97,Swift
+500,Cogumelo Shitake Vivere Santé,18.5,Vivere Santé
+501,Bebida Adoçada Pêssego Del,1.99,Del Valle
+505,Geleia 100% Fruta,19.5,Queensberry
+506,Canela Moída CasaXa Pacote,8.35,Casaxa
+507,Açúcar Mascavo Orgânico Mãe,14.99,Mãe Terra
+508,Geleia Framboesa Classic Queensberry,17.99,Queensberry
+509,Cachaça Ypioca 150 Anos,69.99,Ypióca
+511,Suco Uva Turma,3.49,Life Mix
+512,Bebida Adoçada Maracujá Maguary,1.79,Maguary
+515,Ketchup Mel Sabores,14.99,Cepêra
+517,Bala Gelatina Fini,7.69,Fini
+518,Bebida Láctea UHT Banana,6.49,Yopro
+522,Vodka Destilada Absolut 1l,129.0,Absolut
+523,Polvilho Doce Caldo Bom,9.29,Caldo Bom
+524,Geleia 100% Fruta Damasco,19.5,Queensberry
+528,Lasanha Peito Peru,20.99,Sadia
+530,Licor Fino Gianduia Stock,69.99,Stock
+533,Espumante Brasileiro Terranova,47.99,Terranova
+535,Bombom Ferrero Rocher Caixa,34.5,Ferrero Rocher
+537,Salmão Pedaços Confiare,69.99,Confiare
+538,Fundo Alcachofra Swift,16.96,Swift
+542,Snack Presunto Defumado Panetini,2.69,Eqlibri
+546,Quiche Congelado Espinafre,8.99,Top Chef
+547,Biscoito Mignon Zezé Pacote,4.19,Zezé
+548,Azeitona com Caroço,4.89,La Violetera
+549,Talharim Mezzani Pacote 500g,7.29,Mezzani
+552,Leite Semidesnatado Languiru Caixa,3.59,Languiru
+553,Maionese Hellmann's Squeeze,8.69,Hellmann's
+555,Polpa Fruta Cupuaçu,3.49,Polpanorte
+557,Patê Presunto Oderich,3.59,Oderich
+558,Chá Maçã & Canela,7.29,Chá Leão
+559,Salame Hamburguês Seara Pacote,10.99,Seara
+561,Becel Original Sal,9.49,Becel
+564,Pão Sanduíche Tradicional,12.9,Jasmine
+565,Néctar Tangerina Maguary Caixa,1.19,Maguary
+566,Creme Queijo Swift,18.96,Swift
+567,Brócolis Congelado Veg&Tal Sadia,16.5,Sadia
+568,Abóbora Moranga,9.87,Big Hiper
+570,Pé Moça Santo,8.49,Santo Antônio
+572,Filé Peito,25.99,Sadia
+576,Bebida Mista Alcoólica Gaseificada,5.99,Smirnoff
+578,Polpa Fruta Uva,2.19,Polpanorte
+580,Lasanha Fango Aurora,12.99,Aurora
+582,Presunto Cru Fatiado Ceratti,14.99,Ceratti
+583,Torrada Multigrãos Isabela Pacote,3.39,Isabela
+588,Seleta Legumes Vapza,6.49,Vapza
+591,Bolo Coco Panco Pacote,7.39,Panco
+593,"Chá Camomila, Mel",17.5,Twinings
+594,Pão Doce Coco,23.9,Big Hiper
+596,Pizza Portuguesa Sadia Caixa,19.99,Sadia
+597,Filé Salmão Congelado,115.0,Komdelli
+600,Chá Preto Ice Tea,6.49,Leão
+601,Cerveja Puro Malte Tropical,2.49,Devassa
+602,Bolo Abacaxi Panco,7.39,Panco
+603,Bala Cereja Halls 84g,3.99,Halls
+604,Queijo Processado UHT Light,9.39,Polenghi
+605,Pack Goma Mascar,7.69,Trident
+606,Hambúrguer Bovino Swift 672g,21.96,Swift
+611,Creme Avelã,25.99,Top Chef
+612,Tempero Saladas Sazón,4.39,Sazón
+613,Cerveja Amber Lager Patagonia,5.99,Patagonia
+615,"Chá Cápsula Camomila,",12.99,Chá Leão
+621,Gin London Dry Tanqueray,145.0,Tanqueray
+622,Leite Desnatado Nilza Caixa,3.79,Nilza
+623,Pão Mel Zezé,7.69,Zezé
+625,Spaghetti Bolonhesa Pasta Pot,10.99,Knorr
+626,Canelone Presunto Queijo,18.99,Dona Thereza
+627,Queijo Cream Cheese Light,14.99,Philadelphia
+630,Kibe Carne Bovina,18.9,Aurora
+631,Ovinhos Amendoim Wasabi,6.49,Elma Chips
+634,Fubá Milho Pré-Cozido,3.69,Yoki
+635,Costela Bafo Swift Aprox.,40.54,Swift
+637,Brócolis Congelado Veg &,5.99,Sadia
+638,Milho Ervilha,2.99,Stella D'oro
+641,Pimenta Comari Conserva,11.9,Cepêra
+642,Pão Batata Doce,17.99,Wickbold
+643,Cerveja American Lager Premium,2.29,Skol
+644,Geléia Frutas Silvestres,13.99,Top Chef
+645,Bebida Mista Alcoólica Gaseificada,5.49,Skol
+646,Biscoito Amanteigado Coco Mabel,5.39,Mabel
+649,Feijão Oderich Lata,5.99,Oderich
+650,Coco,5.99,Big Hiper
+651,Ravioli 4 Queijos Pavioli,8.69,Pavioli
+652,Canela Casca Kitano,5.49,Kitano
+653,Bolinho Mini Muffin Little,2.99,Ana Maria
+654,Sorvete 4 1,32.99,Kibon
+655,Cebola Suave Fugita Pacote,3.99,Fugita
+656,Linguiça Toscana Salsichão Borrússia,19.35,Borrússia
+657,Manga Keit,8.99,Absolut
+663,Tequila Gold Sauza 750ml,69.9,Sauza
+665,Grão-de-Bico Yoki Pacote 500g,12.99,Yoki
+666,Batata Frita Ondulada Sal,5.2,Elma Chips
+667,Camarão Cinza Descascado Cozido,69.99,Netuno
+668,Queijo Coalho,14.1,Tirolez
+669,Biscoito Leite Vitamina,5.79,Isabela
+672,Lombo Inteiro Pedaço Aprox.,10.0,Big Hiper
+675,Espinafre Hig Sitio Hiromi,6.99,Sitio Hiromi
+676,Gran Ravióli Recheio Trufa,31.99,Rana
+679,Cubos Acém Swift,31.96,Swift
+681,Burrito Costelinha Barbecue,24.99,Nacho Loco
+682,Sobrecoxa Congelada Korin Bandeja,17.99,Korin
+683,Arroz Uncle Bens Original,6.99,Uncle Bens
+685,Mistura Sagu Uva,10.99,Dr. Oetker
+686,Chá Hortelã Chá Leão,6.19,Chá Leão
+691,Chá Pós-Refeição Barão,4.99,Barão de Cotegipe
+692,Sorvete Passas Rum,24.5,Kibon
+693,Tempero Aves Tempero,3.69,Maggi
+694,Linguiça Portuguesa Sadia Plástico,17.99,Sadia
+698,Cogumelo Secchi Shitake Karui,20.5,Karui
+701,Cerveja Lager Puro Malte,3.19,Amstel
+703,Cerveja Pilsen Antarctica Original,7.49,Antarctica Original
+705,Pé Moleque,5.69,Guimarães
+706,Manteiga Coco,11.99,Qualicoco
+708,Berinjela,3.3,Big Hiper
+709,Isotônico Uva I9,3.09,I9 Powerade
+710,Café Solúvel Granulado Suave,9.1,Nescafé
+711,Cerveja Lager Premium Puro,4.29,Bellavista
+712,Granola Frutas & Mel,12.99,Mãe Terra
+714,Snack Pão Sírio,3.39,Pita
+715,Pastilha Laranja Tic,2.69,Tic Tac
+719,Cereal Matinal Leite Condensado,15.5,Nestlé
+721,Ketchup Heinz Tradicional 397g,10.5,Heinz
+723,Caldo Tablete Galinha,3.29,Knorr
+725,Pizza Artesanal Calabrese Gourmet,33.5,Seara
+726,Sanduíche Congelado X-Bacon Hot,7.99,Sadia
+727,Queijo Brie Ile,31.99,Ile de France
+728,Ovos Grandes Brancos Marutani,6.99,Marutani
+730,Batata Palito Congelada Confiare,14.5,Confiare
+731,Bebida Láctea UHT,2.99,Nestlé
+734,Merengue Caseiro Tradicional Gusman,4.49,Gusman
+736,Salame Italiano Fatiado Fricasa,9.89,Fricasa
+738,Salaminho Sadia Pacote Aprox.,28.35,Sadia
+740,Chips Batata Tempero,5.29,Pic-Me
+742,Cebola,0.84,Big Hiper
+743,Biscoito Multigrãos Bisfit Orquídea,3.69,Orquídea
+744,Sopão Carne Legumes,5.99,Kisabor
+745,Linguiça Calabresa Defumada Swift,12.97,Swift
+746,Whisky Brasileiro Blend Seven,20.99,Blend 53
+748,Sopão Carne Kitano Sachê,6.59,Kitano
+749,Coquetel Alcoólico Composto Domecq,38.99,Domecq
+751,Cerveja Pilsen Antarctica Original,3.49,Antarctica Original
+752,Sal Refinado Diana Pacote,2.29,Diana
+753,Caldo Feijão Swift,12.86,Swift
+756,Mistura Bolo Extracremoso,6.69,Fleischmann
+757,Sorvete 3 Leites Special,21.5,Perfetto
+759,Nhoque Ricota Espinafre,10.99,Mezzani
+761,Biscoito Recheio Churros Bono,2.79,Nestlé
+765,Suco Manga Del,5.89,Del Valle
+767,"Chá Capim-Cidreira, Limão",6.89,Dr. Oetker
+768,Linguiça Portuguesa Defumada Perdigão,17.5,Perdigão
+769,Bolo Gotas Sabor,7.19,Panco
+770,Café Solúvel Granulado Extraforte,3.79,Nescafé
+772,Vodka Volcof Tradicional Garrafa,20.99,Muraro
+773,Linguiça Pimenta Biquinho,19.99,Seara
+775,Nhoque Gourmet Catupiry,10.99,Mezzani
+776,Queijo Cottage Regina Pote,14.9,Regina
+777,Lasanha Quatro Queijos Sadia,25.99,Sadia
+778,Leite Condensado Moça,8.29,Nestlé
+780,Mexilhão Swift 400g,25.96,Swift
+781,Maminha Bovina Resfriada Bife,37.19,Big Hiper
+783,Suco Veggie Limão,10.99,Natural One
+784,Couve Manteiga Orgânica Maço,6.99,Sentir Bem
+785,Suplemento Alimentar Sabor,119.0,Nestlé
+786,Azeitona Recheada Pimentão,11.99,Raiola
+791,Costela Fatiada 700g,18.89,Big Hiper
+792,Tempero Pipoca Manteiga,4.09,Sazón
+795,Pé Moleque Guimarães,8.79,Guimarães
+797,Cerveja Dunkel Erdinger Garrafa,25.9,Erdinger
+799,Batata Especial 1 Pacote,4.49,Big Hiper
+800,Bebida Alcoólica Gaseificada Tangerina,4.09,51
+804,Biscoito Leite Zero Lactose,5.49,Lowçucar
+805,Ravioli Carne Confiare,7.89,Confiare
+808,Hamburguer Salmão Damm,29.99,Damm
+810,Queijo Provolone Defumado Tirolez,27.5,Tirolez
+811,"Açaí Balde 3,6Kg Tradicional",105.0,Polpanorte
+812,Geleia Framboesa Homemade,17.5,Homemade
+814,Açúcar Demerara Guarani Pacote,3.59,Guarani
+816,Cerveja Bohemian Pilsener Patagonia,5.99,Patagonia
+817,Queijo Prato Fatiado Light,10.99,Tirolez
+818,Maionese Vegetal Original Not,11.99,NotCo
+820,Vinagre Álcool Sabor,4.99,Castelo
+822,Cerveja Pilsen Glacial Lata,3.09,Glacial
+823,Fettuccine Peru Brócolis,8.99,Seara
+825,Vodka Tridestilada Liquid 950ml,34.99,Liquid
+826,Mostarda Salsaretti Squeeze 350g,13.99,Salsaretti
+827,Saquê Seco Dourado Azuma,38.99,Azuma Kirin
+828,Adoçante Dietético Líquido Sweet,14.5,Linea
+831,Bebida Adoçada Abacaxi Del,1.99,Del Valle
+832,Centro Filé Mignon,74.66,Swift
+833,Sorvete Napolitano Paviloche,19.99,Paviloche
+834,Barra Cereal Nuts,3.89,Nutsbar
+835,Batata Palha Tradicional Visconti,6.59,Visconti
+836,Queijo Estepe Fracionado Cruzília,12.5,Cruzília
+837,Leite Fermentado Activia Café,4.99,Activia
+839,Bombom Nuts,9.49,Banana Brasil
+842,Suco Milho Natural,7.99,Natural Do Campo
+844,Açaí Banana Granola,10.5,Polpanorte
+845,Filezinho Sassami Empanado Swift,19.46,Swift
+846,Camarão Descascado Cozido,61.99,DellMare
+847,Açúcar Refinado Especial Caravelas,16.99,Caravelas
+854,Gin Dry Seagram's Garrafa,79.99,Pernod
+856,Polpa Congelada Cajú,2.99,Sentir Bem
+857,Rolinhos Wafer Cobertura,2.99,Barion
+858,Mix Grãos &,15.49,Maggi
+860,Atum Pedaços,7.79,Robinson Crusoe
+861,Espumante Rosé Brut Brasileiro,79.99,Casa Valduga
+862,Biscoito Leite Passatempo Nestlé,2.79,Nestlé
+863,Carne Moída Patinho Swift,22.97,Swift
+864,Castanha-de-Caju Torrada Salgada,8.49,Amigos Do Bem
+865,Leite Semidesnatado Zero Lactose,4.89,Tirol
+866,Pintado Inteiro Fresco 2kg,51.98,Big Hiper
+867,Carvão Acácia Negra Bom,32.99,Bom de Brasa
+868,Linguiça Toscana Perdigão,28.99,Perdigão
+870,Repolho,3.44,Big Hiper
+871,Cappuccino Solúvel Classic Iguaçu,11.5,Iguaçu
+872,Caldo de Fios,12.86,Swift
+875,Espumante Rosé Brut Brasileiro,47.99,Terranova
+876,Picanha Suína Congelada Temperada,31.99,Gran Corte
+878,Margarina Cremosa Sal,4.79,Qualy
+880,Melado Cana Homemade,7.99,Homemade
+881,Filé Polaca,29.59,Bacalanor
+885,Granola Cereais Maltados Jasmine,10.5,Jasmine
+886,Salsicha Viena Mostarda Ouro,11.99,Perdigão
+887,Maionese Tradicional Liza Pote,1.99,Liza
+889,Pão Hambúrguer Kim,3.99,Kim
+891,Massa Tortilha Tradicional Kim,5.49,Kim
+893,Pastilha Menta Zero Açúcar,9.89,Trident
+897,Tilápia Aperitivo Pedaços,13.5,Brazilian Fish
+901,Leite Semidesnatado Zero Lactose,6.19,Piracanjuba
+902,Óleo Coco,12.99,Dikoko
+904,Cerveja Lager Ribeirão Laranja,9.39,Colorado
+905,Cerveja American IPA Puro,12.99,Baden Baden
+906,Caldo Abóbora,12.86,Swift
+908,Vodka Askov Maracujá Remix,18.99,Askov
+910,Suco Manga Todo,3.29,Cy
+911,Champignon Conserva La,11.5,La Violetera
+912,Batata Frita Lisa Yokitos,5.89,Yoki
+913,Sal Rosa Himalaia,11.9,Villa Cerroni
+914,Rapadura Amendoim,6.79,Guimarães
+916,Contrafilé Bife Bandeja Aprox.,58.2,Big Hiper
+920,Bombom Sortido Favoritos Lacta,9.29,Lacta
+922,Tiras Filé Mignon,39.96,Swift
+924,Tempero Pronto Mix,10.99,Maggi
+925,Fusilli Cogumelos Pasta Pot,10.99,Knorr
+926,Mostarda Budweiser Squeeze 400g,15.99,Budweiser
+929,Bacon Fatiado Aurora 250g,19.5,Aurora
+930,Bebida Láctea Salada,4.99,Piá
+932,Cerveja Pilsen Schin Lata,2.19,Schin
+933,Canjica Milho Branca,5.99,Yoki
+934,Pão Forma Tradicional,5.19,Pullman
+935,Tempero Completo Pimenta,5.69,Arisco
+937,Pé Moleque DaColônia,5.89,DaColônia
+938,Amendoim Crocante Natural Dori,11.99,Dori
+939,Queijo Parmesão Ralado Campos,4.29,Campos de Vacaria
+944,Pizza Mussarela Sadia Caixa,19.99,Sadia
+945,Cerveja Lager Puro Malte,2.29,Devassa
+947,Suco Verde Com/Tem,14.99,Com/Tem
+948,Pipoca Pronta Doce Magitlec,4.99,Magitlec
+950,Farinha Linhaça Dourada,6.85,Mãe Terra
+951,Torta Palmito Congelada,18.99,Confiare
+953,Bala Wild Berry Skittles,2.79,Skittles
+954,Licor Fino Marula Stock,69.99,Stock
+955,Pipoca Pronta Cobertura,4.69,Yoki
+957,Cebolinha Orgânica Maço,5.99,Sentir Bem
+958,Purê Frutas Pera,4.59,Nestlé
+959,Energético Zero Açúcar Monster,7.99,Monster
+960,Polpa Cupuacu Nutricau,1.99,Nutricau
+962,Biscoito Cookie Baunilha,3.49,Lacta
+967,Pizza Micro-Ondas Mussarela,7.49,Mezzani
+968,Lombo Suíno Fatiado Resfriado,23.45,Big Hiper
+969,Ketchup Heinz Picante 397g,11.5,Heinz
+970,Cerveja Lager Puro Malte,3.69,Devassa
+972,Doce Leite,13.99,Predilecta
+974,Xarope Maçã Monin,59.99,Monin
+975,Azeitona Recheada Pimentão,13.99,La Violetera
+976,Aperitivo Alcachofra Cynar,18.99,Cynar
+977,Bebida Mista Alcoólica Gaseificada,5.89,51
+978,Linguiça Suína Bacon,17.5,Gran Corte
+979,Fórmula Infantil Confor 1,30.99,Nestlé
+983,Espumante Rosé Brut Brasileiro,41.99,Garibaldi
+984,Pimenta-Branca Moída Kitano Sachê,5.49,Kitano
+985,Açúcar Refinado Especial Confiare,3.49,Confiare
+987,Sobremesa Láctea Aerada,4.19,Danubio
+992,Batata Palha Extrafina Yoki,5.29,Yoki
+993,Bananinha Cristalizada Tradicional Guimarães,7.29,Guimarães
+994,Alho-Poró,4.99,Big Hiper
+996,Kit 2 Choco Boll,9.09,Alcafoods
+997,"Tempero Granulado Salsinha, Orégano",3.45,Maggi
+998,Queijo Frescal Ultrafiltrado Light,10.99,Polenghi
+999,Salada Primavera Orgânica Pacote,8.99,Sentir Bem
+1000,Farelo Aveia Orgânico,8.69,Quaker
+1001,Bala 7 Belo Arcor,5.49,Arcor
+1003,Bala Polar Dori Cereja,3.89,Dori
+1005,Espumante Francês Maison,42.9,Maison Castel
+1006,Chiclete Tutti Frutti,6.49,Fini
+1007,Cubos Carne Bovina,10.5,Ceratti
+1008,Requeijão Cremoso Cheddar Santa,5.59,Santa Clara
+1009,Bolo Toons Sabor Brigadeiro,1.29,Isabela
+1011,Vinho Sul-Africano Rosé Meio,77.99,Nederburg
+1012,Massas Caseiras Lasanha Confiare,4.49,Confiare
+1015,Pão Queijo Tradicional,40.5,Catupiry
+1019,Manga Rosa,3.0,Big Hiper
+1023,Carne Moída Light Swift,19.86,Swift
+1024,Whisky Escocês Blended Black,119.9,Johnnie Walker
+1025,Caldo Tablete Galinha,4.69,Maggi
+1028,Laranja Importada,2.1,Big Hiper
+1029,Adoçante Líquido Finn Xilitol,23.69,Finn
+1030,Biscoito Cream Cracker Manteiga,6.19,Marilan
+1031,Polpa Uva Nutricau,1.99,Nutricau
+1034,Chá Camomila Twinings Infusions,13.99,Twinings
+1035,Cereal Matinal Snow Flakes,8.25,Nestlé
+1037,Açúcar Refinado Barra,3.99,Da Barra
+1038,Pão Queijo Coquetel,5.19,Confiare
+1039,Bebida Pêssego Bem,2.49,Do Bem
+1043,Castanha-de-Caju Caramelizada Amigos,12.9,Amigos Do Bem
+1045,Néctar Caju Dafruta Premium,3.99,Dafruta
+1046,Mix Frutas,6.09,Mãe Terra
+1047,"Cebola, Alho Salsa",5.69,Kitano
+1053,Manteiga Sal Aviação,12.19,Aviação
+1054,Torradinhas Alho Via,6.99,Via Delícia
+1055,Pizza Portuguesa Seara Caixa,16.5,Seara
+1057,Pack Torrada Tradicional Isabela,6.69,Isabela
+1061,Filé Coxa,17.96,Swift
+1063,Requeijão Cremoso Light Catupiry,7.19,Catupiry
+1066,Adoçante Líquido Adocyl Frasco,6.09,Adocyl
+1068,Cerveja Pilsen Cristal Baden,5.39,Baden Baden
+1069,Penne Mini Almôndegas,18.99,Perdigão
+1073,Queijo Mussarela Fatiado Light,10.99,Tirolez
+1074,Creme Leite UHT,2.99,Piracanjuba
+1076,Sopão Galinha Legumes,9.19,Maggi
+1078,Carne Suína Desfiada Cozida,19.99,Vapza
+1082,Café Solúvel Granulado Extraforte,6.49,Nescafé
+1083,Galinha Inteira Swift Aprox.,27.78,Swift
+1085,Mini Churros Doce,13.96,Swift
+1086,Massa Pastel Romena,6.69,Romena
+1087,Mix Frutas Cacau,5.89,Mãe Terra
+1090,Granola Banana & Cacau,12.99,Mãe Terra
+1092,Lasanha Presunto Queijo,13.99,Seara
+1095,Sal Rosa Himalaia,23.9,Smart
+1096,"Papinha Carne, Feijão",5.69,Nestlé
+1097,Creme Avelã Nutella Ferrero,24.5,Nutella
+1099,Energético Juice Mango Loco,7.99,Monster
+1101,Pão Queijo Congelado,12.5,Perdigão
+1102,Pão Petropolis 400g,8.0,Big Hiper
+1105,Chá Hortelã Twinings Infusions,15.5,Twinings
+1106,Queijo Prato Fatiado Light,10.5,Tirolez
+1107,Biscoitos Amanteigados Nobres London,10.5,Confiare
+1110,Presunto Cru Espanhol Ceratti,14.99,Ceratti
+1111,Azeitona sem Caroço,4.49,Confiare
+1112,Massas Caseiras Pappardelle Confiare,9.99,Confiare
+1113,"Chá Camomila, Canela",17.5,Twinings
+1114,Azeitona com Caroço,15.99,Top Chef
+1115,Patê Peito,3.99,Sadia
+1116,Linguiça Calabresa Apimentada,16.99,Rei da Linguiça
+1117,Realçador Sabor Umami,6.45,Aji-No-Moto
+1118,Requeijão Cremoso Queijo,6.99,Qualy
+1119,Alho Triturado Alhofree Pote,20.99,Alhofree
+1120,Pipoca Pronta Cobertura,4.69,Yoki
+1121,Sorvete Doce Leite,39.9,Bacio di Latte
+1124,Queijo Danbo Fracionado Cruzília,18.99,Cruzília
+1125,Água Tônica Açúcar,2.79,Schweppes
+1127,Biscoito Wafer Recheio Coco,3.99,Nestlé
+1129,Sorvete Doce,27.99,Paviloche
+1130,Bebida Láctea UHT Milkshake,9.49,Yopro
+1131,Canjica Milho Branca,3.39,Caldo Bom
+1132,Barra Nuts Original,6.39,Nutry
+1133,Salsicha Hot-Dog Perdigão Pacote,9.99,Perdigão
+1135,Mortadela Defumada Fatiada Seara,6.59,Seara
+1136,Salada Campestre La Vita,7.89,La Vita
+1137,Filé Peito,24.99,Sadia
+1138,Cereal Matinal Sucrilhos Original,8.9,Kellogg's
+1142,Escondidinho Batata,25.97,Swift
+1144,Suco Manga Natural,10.5,Natural One
+1145,Polenta Pronta Yoki Pacote,10.5,Yoki
+1147,Mistura Bolo,2.89,Dr. Oetker
+1149,Banha Sadia Plástico 1kg,22.99,Sadia
+1150,Bolo Baunilha Recheio,1.79,Ana Maria
+1153,Bala Goma Frutas,2.99,Dori
+1154,Flanbeef Friboi 1953 Bandeja,16.05,Friboi
+1156,Biscoito Wafer Recheio Leite,1.59,Orquídea
+1157,Lasanha Congelada Calabresa,12.5,Aurora
+1159,Alecrim Casa Xa Caixa,7.49,Xa
+1160,Chá Preto Ice Tea,5.99,Lipton
+1162,Energético Red Bull Lata,8.49,Red Bull
+1163,Seleta Legumes,2.54,Oderich
+1164,Espumante Brasileiro Demi-Sec,82.5,Origem
+1166,Hambúrguer Bovino Tradicional Seara,14.5,Seara
+1168,Vodka Destilada Skyy 980ml,44.99,Skyy
+1169,Abobrinha Brasileira Orgânica,9.99,Sentir Bem
+1170,Espumante Brasileiro Moscatel,18.9,Santa Colina
+1171,Tilápia Inteira Aprox. 800g,11.19,Big Hiper
+1172,Ervilha Congelada Veg&Tal Sadia,19.99,Sadia
+1173,Atum Sólido Óleo,9.69,Confiare
+1174,Pão Coco Casa,7.69,Seven Boys
+1175,Fondue Queijo Gruyère,24.9,Supremo
+1176,Hambúrguer Carne Bovina,26.5,Seara
+1177,Bebida Adoçada Maracujá Dafruta,1.19,Dafruta
+1178,Biscoito Recheio Pretty Piraquê,3.59,Piraquê
+1179,Adoçante Sacarose Fit União,4.59,União
+1181,Biscoito Amendoim Glúten,9.89,DaColônia
+1182,Chá Frutas Bosque,6.89,Dr. Oetker
+1183,Açúcar Refinado Especial Guarani,3.79,Guarani
+1186,Abacaxi Rodelas,16.5,Big Hiper
+1187,Sorvete Nocciolina Bacio di,39.9,Bacio di Latte
+1189,Biscoito Recheio Leite Passatempo,1.69,Nestlé
+1190,Cerveja Lager Premium Puro,3.89,Bellavista
+1192,Ervilha Conserva Oderich,2.49,Oderich
+1194,Cerveja Pilsen Corona Garrafa,5.49,Corona
+1198,Biscoito Queijo Parmesão Bon,5.69,Bon Gouter
+1200,Sorvete Coco Abóbora,14.99,Jundiá
+1201,Pão Alho Baguete,11.96,Swift
+1202,Requeijão Cremoso Tradicional Confiare,5.69,Confiare
+1203,Atum Ralado Óleo,4.99,Confiare
+1204,Panettone Frutas Confiare,4.49,Confiare
+1205,Bebida Goiaba Bem,2.49,Do Bem
+1207,Barra Nuts Cranberry,7.29,&Joy
+1208,Torta Espinafre,18.99,Confiare
+1209,Salame Pepperoni Fatiado Sadia,17.5,Sadia
+1210,Energético Ultra Monster Lata,7.29,Monster
+1212,Energético Burn Lata 260ml,5.49,Burn
+1213,Hambúrguer Carne Bovina,27.99,Wessel
+1214,Pão Sovado Panco Pacote,12.99,Panco
+1216,Ravióli Recheio Cogumelos Porcini,24.99,Rana
+1219,Pão Caseiro Coco Panco,9.99,Panco
+1222,Ovinhos Amendoim Confeitado,5.19,Agtal
+1223,Hambúrguer Congelado Carne,1.49,Rezende
+1224,Leite Coco Light,6.59,Sococo
+1225,Camarão Empanado Swift 300g,46.93,Swift
+1227,Torrada Tradicional Adria Pacote,2.79,Adria
+1228,Torradinha Canapés Orgânico Bio,7.6,Bio Phorma
+1231,Sorvete Negresco Garoto Pote,21.99,Garoto
+1232,Bebida Mista Alcoólica Gaseificada,5.19,Topo Chico
+1237,Maionese Heinz Tradicional 215g,8.99,Heinz
+1238,Kit 3 Cafés Nescafé,13.5,Maggi
+1239,Néctar Goiaba Dafruta Premium,3.99,Dafruta
+1240,Burrito Costelinha Barbecue,19.96,Swift
+1241,Granola Multigrãos Aveia,14.71,Quaker
+1242,Batata Frita Ondulada Churrasco,7.99,Elma Chips
+1243,Creme Vegetal Sal,7.69,Qualy
+1245,Sal Rosa Himalaia,14.99,Villa Cerroni
+1247,Espetinho Bovino Swift 900g,37.96,Swift
+1248,"Mix Amêndoa, Uva-Passa,",17.5,Confiare
+1249,Canudinhos Italiany Pacote 200g,9.79,Italiany
+1252,Creme Avelã Moça,9.99,Nestlé
+1254,Biscoito Maria Tradicional Vitarella,4.89,Vitarella
+1256,Caldo Tablete Carne,2.55,Arisco
+1260,Caldo Tablete Costela,2.39,Knorr
+1263,Barra Frutas Banana,7.29,Banana Brasil
+1264,Linguiça Suína Pimenta,19.96,Swift
+1266,Grostoli Folhado Casa,8.59,Casa da Cuca
+1267,Chá Misto Ice Tea,7.99,Chá Leão
+1270,Linguiça Carne Suína,22.99,Perdigão
+1271,Farofa Tradicional Swift 400g,11.47,Swift
+1272,Mandioca Single Vapza Pacote,6.29,Vapza
+1273,Açaí Congelado Whaka Gourmet,26.9,Whaka
+1274,Whisky Escocês Blended White,78.5,White Horse
+1275,Sal Marinho Refinado Lebre,2.59,Lebre
+1276,Salame Espanhol Fatiado Haciendas,20.99,Haciendas Reserva
+1277,Azeitona Preta Caroço,7.69,La Violetera
+1280,Chá Maçã & Canela,6.89,Dr. Oetker
+1281,Pastilha Menta Crush Tic,2.69,Tic Tac
+1282,Ervilha Congelada Seara Nature,6.39,Seara
+1283,Polpa Fruta Limão,1.69,Polpanorte
+1285,Biscoito Recheio Goiaba Recheadinho,2.19,Bauducco
+1286,"Mix Amêndoa, Cranberry",21.5,Confiare
+1287,Linguiça Mista Fina Excelsior,7.69,Excelsior
+1288,Salsicha Nobre Pacote 3kg,32.97,Nobre
+1290,Cerveja Pilsen Samba Lata,2.49,Samba
+1291,Bebida Láctea Coco Piá,4.99,Piá
+1292,Moqueca Saint Peters,28.93,Swift
+1293,Massa Pizza Frigideira Mezzani,8.99,Mezzani
+1294,Fórmula Infantil Lactentes,46.99,Nestlé
+1295,Mistura Bolo Cenoura,6.69,Fleischmann
+1296,Aromatizante Artificial Amêndoa Dr.,9.69,Dr. Oetker
+1297,Chips Batata Rústica,7.49,Mãe Terra
+1298,Salada Atum Gomes,7.59,Gomes da Costa
+1300,Pão Forma Tradicional,6.29,Wickbold
+1302,Mix Frutas Vermelhas,13.97,Swift
+1303,Carne Bovina Moída Congelada,9.5,Friboi
+1306,Sorvete Torta Limão,22.99,Kibon
+1307,Carvão Tamanho Família Bom,29.99,Bom de Brasa
+1308,Creme Cebola Arisco Pacote,5.59,Arisco
+1312,Queijo Frescal Ultrafiltrado Light,17.45,Polenghi
+1313,Creme Vegetal Original,5.09,Becel
+1316,Salame Italiano Fatiado,9.99,Seara
+1317,Bombom Sortido Dadinho Exclusividades,9.49,Dadinho
+1319,Espumante Brasileiro Classic,17.99,Salton
+1320,Grão-de-Bico Conserva Knorr,6.39,Knorr
+1322,Atum Robinson Crusoe Sólido,19.5,Robinson Crusoe
+1325,Leite Semidesnatado Zero Lactose,5.29,Italac
+1326,Pêra Portuguesa Aprox. 1kg,6.99,Big Hiper
+1328,Queijo Gorgonzola Cruzília 200g,12.8,Cruzília
+1331,Salsicha Hot Dog Cry,10.5,Seara
+1333,Ketchup Picante Predilecta Squeeze,4.99,Predilecta
+1336,Queijo Mussarela Fatiado Zero,10.99,Lac Lélo
+1338,Margarina Manteiga Sal,15.99,Vigor
+1341,Gelatina Uva Zero,2.89,Linea
+1343,Petit Gâteau Leitinho,10.99,Mr. Bey
+1344,Pão 7 Grãos Benefice,6.49,Seven Boys
+1346,Espumante Brasileiro Brut,26.99,Aurora
+1347,Bebida Láctea Fermentada,3.49,Carolina
+1348,Cevada Torrada Moída,6.98,Superbom
+1350,Carne Moída Suína Swift,14.93,Swift
+1351,Filé Coxa,19.97,Swift
+1353,Mistura Bolo Churros,5.89,Dr. Oetker
+1354,"Fraldinha Swift Aprox. 1,6kg",68.74,Swift
+1356,Ervilha Congelada Ati-Gel Pacote,8.69,Ati-Gel
+1359,Caldo Tablete Bacon,1.09,Arisco
+1360,Kibe Bovino Swift 500g,19.96,Swift
+1362,Café Solúvel Liofilizado Nescafé,17.99,Nescafé Gold
+1363,Chips Mandioca Batata-Doce,5.99,Roots To Go
+1365,Margarina Sal +,13.5,Delícia
+1367,Maionese Cheddar Sabores Cepêra,9.99,Sabores Cepêra
+1369,Maracujá Azedo Sentir Bem,11.5,Sentir Bem
+1370,Carne Moída Paleta Swift,18.96,Swift
+1371,Mistura Japonesa Congelada Wok,8.49,D'aucy
+1373,Abóbora Cabotiá La Vita,8.99,La Vita
+1375,Suplemento Alimentar Líquido Melon,8.49,Reign
+1376,Energético Burn Garrafa 1l,8.79,Burn
+1377,Chá 6 Ervas Dr.,8.09,Dr. Oetker
+1378,Suco Concentrado Uva,5.99,Maguary
+1380,Pipoca Micro-Ondas Cobertura,4.89,Yoki
+1381,Isotônico Tangerina I9 Powerade,3.09,I9 Powerade
+1385,Café Leite Solúvel,12.99,Nescafé
+1388,Goma Mascar Strong,2.19,Mentos
+1391,Whisky Escocês Highland Cream,54.99,Teacher's
+1392,Cubos Acém Swift,17.96,Swift
+1393,Pé Moleque Santo,6.98,Santo Antônio
+1394,Sal Parrilha,22.9,Aji-No-Moto
+1397,Cerveja Pilsen Puro Malte,4.29,Eisenbahn
+1399,Aveia Flocos Finos,2.89,Sentir Bem
+1400,Batata Frita Ondulada Original,4.29,Elma Chips
+1402,Biscoito Doce Folhado Zezé,7.59,Zezé
+1403,Pão Tortilha Wrap 100%,7.59,Wickbold
+1404,Sal Moído Iodado Salazir,1.79,Salazir
+1406,Polpa Congelada Goiaba,2.49,Sentir Bem
+1409,Geléia Amora Queensberry Classic,17.99,Classic
+1411,Batata Bolinha Super Batata,5.99,Super Batata
+1416,Óleo Coco Extravirgem,16.99,Qualicoco
+1417,Barra Cereal Proteína,11.99,Kobber
+1418,Açúcar Cristal Guarani Pacote,2.39,Guarani
+1419,Queijo Parmesão Ralado Parmíssimo,4.99,Parmíssimo
+1420,Ketchup Heinz 567g,13.99,Heinz
+1423,Azeitona Fatiada La,12.99,La Violetera
+1425,Sorvete Vegetal Cocada,29.9,NotCo
+1426,Queijo Gorgonzola Classico Bergader,20.99,Bergader
+1428,Mistura Bolo Cremoso,6.69,Fleischmann
+1429,Pizza Artesanal Lombo Catupiry,31.5,Catupiry
+1430,Bebida Mista Alcoólica Gaseificada,5.89,Azuma Kirin
+1431,Empanado Soja,19.99,Seara
+1432,Mistura Bolo Chocom,7.69,Fleischmann
+1433,Rolinhos Wafer Recheio,2.99,Hershey's
+1435,Goma Mascar Uva,10.9,Mentos
+1437,Vinho Sul-Africano Meio,77.99,Nederburg
+1441,Pao Forma Leite,6.59,Charlotte
+1444,Bacon Cubos Sadia,14.5,Sadia
+1446,Queijo Frescal Ultrafiltrado Zero,22.5,Polenghi
+1449,Mix Amendoim Aperitivo,29.99,Big Hiper
+1452,Filé Peito,27.99,Perdigão
+1453,Feijão Preto Fritz &,4.29,Fritz & Frida
+1454,Mandioca La Vita 600g,5.89,La Vita
+1457,Goma Mascar Melancia,6.69,Trident
+1458,Purê Tomates Mastroiani,16.99,Mastroiani
+1459,Suco Pêssego,3.99,Tial
+1462,Cappuccino Solúvel Tradicional Café,9.39,Café Brasileiro
+1463,Cerveja Porter Avelã Way,24.99,Way Beer
+1464,Granola Banana Mel,7.89,Feinkost
+1465,Chá Capim-Cidreira Dr. Oetker,6.65,Dr. Oetker
+1466,"Chá Maçã, Abacaxi, Cravo",4.99,Barão de Cotegipe
+1467,Torta Palmito Requeijão,27.5,Sadia
+1468,"Açaí Banana Pote 1,02Kg",26.9,Polpanorte
+1469,Granola Superfrutas Zero Açúcar,10.99,Jasmine
+1471,Amido Milho Maizena,3.99,Maizena
+1477,Massa Ovos Ninho,6.99,Piraquê
+1478,Strogonoff Carne,22.96,Swift
+1479,Jerked Beef Dianteiro Friboi,21.99,Friboi
+1480,Queijo Parmesão Ralado Faixa,13.99,Faixa Azul
+1483,Ovos Caipira Caixa,12.5,Big Hiper
+1484,Manteiga Coco,11.99,Qualicoco
+1485,Filé Peito,18.99,Perdigão
+1486,Cogumelo Shiitake Fatiado Karui,20.99,Karui
+1487,Escondidinho Batata Doce,25.97,Swift
+1488,Farelo Aveia Mãe,6.79,Mãe Terra
+1489,Massa Lasanha Romanha,8.29,Romanha
+1491,Nhoque Batata Italiany,9.09,Italiany
+1492,Banana Prata Orgânica,1.6,Big Hiper
+1493,Café Solúvel Granulado Descafeinado,6.49,Nescafé
+1494,Hambúrguer Carne Bovina,22.99,Seara
+1496,Antepasto Bruschetta Pimentão,21.99,La Pastina
+1497,Cerveja Pilsen Cauim Colorado,11.5,Colorado
+1498,Sopão Galinha Knorr Sachê,9.39,Knorr
+1499,Barra Cereal Nuts,7.29,Agtal
+1501,Aroma Artificial Baunilha Dr.,9.09,Dr. Oetker
+1502,Filé Sardinha,9.53,Gomes da Costa
+1505,Hambúrguer Carne Bovina,28.99,Wessel
+1506,Milho em Conserva,2.49,Petitosa
+1508,Tempero Sabores Nordeste,4.09,Sazón
+1509,Mortadela Azeitona Perdigão,7.99,Perdigão
+1510,Pack Biscoito Queijo Club,3.49,Club Social
+1512,Leite Coco Tradicional,5.59,Sococo
+1513,Coxinha Asa,18.5,Sadia
+1514,Orégano Kitano Sachê 15g,6.19,Kitano
+1515,Espumante Chileno Moscatel,52.99,La Moneda
+1516,Mistura Muffin,6.89,Dr. Oetker
+1521,Café Solúvel Granulado Tradicional,3.59,3 Corações
+1522,Café Tradicional Vácuo,9.99,3 Corações
+1523,Queijo Frescal Ultrafiltrado Light,8.39,Polenghi
+1524,Lombo Suíno Temperado Fatiado,75.99,Seara
+1526,Coxão Mole Bovino Strogonoff,11.6,Big Hiper
+1527,Pepino Cornichon Conserva,15.5,La Violetera
+1532,Biscoito Wafer Recheio Limão,1.79,Marilan
+1533,Sanduíche Congelado X-Cheddar Cremoso,7.99,Sadia
+1536,Biscoito Coquetel Isabela Pacote,6.99,Isabela
+1538,Sorvete Creme Leite,39.9,Bacio di Latte
+1540,Couve Flor 1 Unidade,6.99,Big Hiper
+1541,Confeito Choc Bola DeCoração,6.89,Dr. Oetker
+1542,Feijão Carioca Premium Pantera,7.69,Pantera
+1547,Curry Indiano Karui Oriental,9.05,Karui
+1548,Bombom Wafer Garoto Serenata,1.99,Garoto
+1549,Amendoim Salgado Yoki Pacote,6.59,Yoki
+1550,"Sopinha Beterraba, Feijão",4.19,Nestlé
+1554,Champignon Inteiros Naturais Sachê,6.99,Big Hiper
+1555,Contrafilé Bovino Bife Friboi,16.1,Friboi
+1557,Biscoito Rosquinha Coco Piraquê,8.09,Piraquê
+1558,Bisteca Suína Swift 1kg,22.97,Swift
+1559,Ketchup Quero Tradicional 400g,3.69,Quero
+1560,Sorbet Açaí Guaraná,33.99,Frooty
+1561,Caldo Tablete Carne,4.05,Maggi
+1562,Queijo Cream Cheese Tradicional,10.99,Polenghi
+1563,Vodka Popokelvis 900ml,22.5,Popokelvis
+1564,Batata Frita Ondulada Sal,7.99,Elma Chips
+1565,Bebida 51 Ice Fruit,4.09,51 Ice
+1566,Paçoquinha Açúcar Mascavo,8.49,DaColônia
+1567,Uva Preta Semente,7.89,Big Hiper
+1568,Sorvete Flocos Nobrelli Pote,19.5,Nobrelli
+1569,Sal Rosa Himalaia,31.9,Smart
+1570,Batata Palito Congelada Sadia,10.9,Sadia
+1571,Batata Palha Extrafina Visconti,6.59,Visconti
+1573,Hambúrguer Gran Reserva Swift,18.96,Swift
+1574,Creme Cebola Maggi Equilibrium,8.19,Maggi
+1576,Rosca Coco Big,23.9,Big Hiper
+1577,Cerveja Duplo Malte Brahma,6.49,Brahma
+1578,Massa Pizza Italiany,3.79,Italiany
+1581,Café Solúvel Sebastião,11.9,Nescafé
+1582,Queijo Mussarela Fatiado Santa,7.49,Santa Clara
+1583,Prato Pronto Pasta Box,17.99,Sodebo
+1584,Nhoque Batata Romanha,16.5,Romanha
+1586,Pimenta Malagueta Conserva,10.5,Cepêra
+1589,Medalhões Salmão Temperado,69.99,Frescatto
+1592,Quirera Fina Milho,2.59,Caldo Bom
+1593,Bolo Baunilha Gotas,7.59,Pullman
+1594,Bife Copa Lombo,28.96,Swift
+1596,Filé Pescada Swift,19.96,Swift
+1597,Café Solúvel Liofilizado Classique,9.99,L'or
+1598,"Purê Frutas Pera,",4.99,Pic-Me
+1600,Cerveja Witbier Laranja,7.99,Hoegaarden
+1601,Suco Maçã Yakult,3.19,Yakult
+1604,Suco Maracujá Mid,0.99,Aji-No-Moto
+1605,Confeito Cobertura Choc Bolinha,6.89,Dr. Oetker
+1609,Margarina Cremosa Sal,14.99,Qualy
+1614,Milho Pipoca Kisabor,3.69,Kisabor
+1615,Patinho Bovino Pedaço Aprox.,52.79,Big Hiper
+1618,Queijo Processado UHT Prato,9.89,Polenghi
+1619,Espumante Brasileiro Moscatel Séries,29.99,Salton
+1620,Isotônico Laranja Gatorade Garrafa,3.99,Gatorade
+1622,Biscoito Rosquinha Leite Marilan,6.59,Marilan
+1624,Milho Pipoca Caldo,3.99,Caldo Bom
+1627,Vermute Extra Dry Martini,29.99,Martini
+1628,Couve-Flor Congelada Ati-Gel Pacote,5.79,Ati-Gel
+1629,Água Gás Tropical,3.39,Bonafont
+1630,Biscoito Wafer Recheio Amendoim,2.89,Dadinho
+1631,Achocolatado Moça Churros Nestlé,8.29,Nestlé
+1632,Sorvete Baunilha,26.5,Kibon
+1633,Capeletti Carne Mezzani Caixa,9.29,Mezzani
+1636,"Óleo Misto Milho,",14.5,Liza
+1637,Chá Laranja Dr.,13.99,Dr. Oetker
+1638,Cereal Matinal Cheerios 4,8.49,Nestlé
+1639,Pimenta-do-Reino Preta Moída Xa,7.99,Xa
+1641,Polvo Congelado Nigel Pacote,109.0,Nigel
+1642,Massa Caseira Ovos,6.99,Mosmann
+1643,Queijo Prato Fatiado Lac,7.69,Lac Lélo
+1646,Pão Forma Tradicional,7.99,Plusvita
+1649,Sal Marinho Grosso,23.9,Smart
+1650,Suco Veggie Beterraba,10.99,Natural One
+1652,Chiclete Ácido Salada,6.49,Fini
+1653,Quiche Congelado Presunto,11.99,Top Chef
+1655,Leite Fermentado Activia Shot,12.99,Activia
+1657,Massa Soja Missô,20.5,Sakura
+1658,Caldo Tablete Carne,3.05,Maggi
+1661,Inhame Orgânico Bandeja 600g,7.99,Sentir Bem
+1662,Alcatra Bovina Resfriado Bife,12.4,Big Hiper
+1664,Camarão Resfriado Cabeça,19.99,Confiare
+1665,Strogonoff Filé Peito,13.4,Big Hiper
+1666,Queijo Minas Padrao Cruzília,37.79,Cruzília
+1667,Salada Verão Congelada D'aucy,7.99,D'aucy
+1671,Néctar Misto Uva Maguary,4.99,Maguary
+1672,Strogonoff Camarão DellMare,34.99,DellMare
+1673,Pernil Suíno Pele,6.4,Big Hiper
+1675,Linguiça Guanabara Cozida,28.5,Sadia
+1676,Bala Gelatina Haribo,7.69,Haribo
+1677,Bolinho Baunilha Recheio Baunilha,2.49,Casa Suíça
+1679,Rosquinha Polvilho Linhaça,4.49,Gusman
+1681,Requeijão Cremoso Light Danone,5.89,Danone
+1682,Caldo Tablete Peixe,4.05,Sapore Dicucina
+1683,Pão Forma Nobre,9.49,Kim
+1684,Torradinha Bauducco Caixa 110g,5.29,Bauducco
+1685,Azeitona Preta Fatiada Raiola,10.99,Raiola
+1686,Biscoito Recheio,2.59,Nestlé
+1687,Pão Sírio Pequeno Tradicional,13.99,Pita Bread
+1688,Pastel Congelado Carne Mezzani,9.89,Mezzani
+1694,Salsa Kitano Sachê 8g,3.29,Kitano
+1695,Ketchup Tradicional Salsaretti Squeeze,8.99,Salsaretti
+1696,Chá Boldo Dr. Oetker,6.65,Dr. Oetker
+1699,Requeijão Cremoso Light Aviação,7.99,Aviação
+1702,Pack Barra Cereal,8.09,Linea
+1704,"Confeito Sortido Mentos 37,5g",2.59,Mentos
+1705,Picanha Bovina Resfriada Bife,16.5,Big Hiper
+1706,Linguiça Toscana Seara 300g,6.9,Seara
+1707,Salgadinho Pavioli Pacoteto Pavioli,2.79,Pavioli
+1708,Linguiça Pernil Perdigão,27.99,Perdigão
+1709,Prosecco Brasileiro Salton,34.99,Salton
+1710,Abóbora Pescoço,5.79,Big Hiper
+1711,Costela Suína Temperada Nabrasa,12.8,Perdigão
+1712,Requeijão Cremoso Tradicional Polenghi,6.35,Polenghi
+1715,Cerveja Weisse Laranja,11.99,Patagonia
+1717,Barra Cereal Nuts,7.29,Agtal
+1721,Feijão Carioca Confiare Pacote,6.59,Confiare
+1722,Alcatra Pro Forno!,73.44,Swift
+1723,Ovos Orgânico Ômega3 Toca,13.99,Toca
+1725,Batata Doce Orgânica Bandeja,8.49,Sentir Bem
+1726,Espumante Maçã,18.9,Campo Largo
+1727,Canjica Milho Amarela,5.49,Yoki
+1728,Pão Sanduíche Multigrãos,12.9,Jasmine
+1729,Mingau Tradicional Maizena Cremogema,10.99,Maizena
+1730,Geleia Laranja Queensberry Classic,17.5,Queensberry
+1731,Paçoca Rolha Guimarães Pote,10.99,Guimarães
+1732,Queijo Provolone Búfala,15.9,Bom Destino
+1733,Cerveja Lager Premium Kirin,3.99,Kirin Ichiban
+1737,Askov Ice Remix Limão,5.99,Askov
+1739,Costela Bovina Tiras,44.99,Friboi
+1741,Creme Churros Moça,9.99,Nestlé
+1743,Farinha Rosca Yoki,7.49,Yoki
+1744,Azeitona em Conserva,8.99,Raiola
+1746,Isotônico Uva Powerade 500ml,3.69,I9 Powerade
+1749,Picanha Bovina Resfriada Peça,93.59,Big Hiper
+1753,Goiabada Predilecta Lata 600g,15.5,Predilecta
+1754,Néctar Maçã Maguary Caixa,1.79,Maguary
+1755,Sopa Galinha Fidelini,6.59,Maggi
+1757,Pão Leite Panco,6.19,Panco
+1758,Polpa Umbu Nutricau,1.09,Nutricau
+1764,Capeletti 5 Queijos Pavioli,7.85,Pavioli
+1767,Biscoito Leite Recheado,1.69,Marilan
+1768,Casquinha Sorvete Barion,4.79,Barion
+1769,Massa Pastel Mezzani,6.99,Mezzani
+1771,Bebida Adoçada Laranja Del,3.99,Del Valle
+1772,Cerveja Puro Malte Ipa,14.99,Wals
+1776,Biscoito Wafer Recheio Baunilha,6.79,Lowçucar
+1777,Requeijão Cremoso Piá Pote,10.99,Piá
+1778,Suco Laranja Del,10.29,Del Valle
+1779,Linguíça Suína Provolone,20.99,Gran Corte
+1780,Wafer Recheio,2.39,Trento
+1781,Queijo Ralado Santa Clara,4.69,Santa Clara
+1786,Kit Lactobacilos + Vit,11.99,Actimel
+1789,Pack Biscoito Original Club,3.49,Club Social
+1792,Caldo Tablete Bacon,2.39,Knorr
+1795,Hambúrguer Carne,24.99,Perdigão
+1796,Margarina Cremosa Sal,11.99,Doriana
+1797,Espumante Brasileiro Meio,23.5,Garibaldi
+1798,Pão Doce Caseiro 500g,10.0,Big Hiper
+1800,Fraldinha Gordura Swift,62.94,Swift
+1803,Cerveja American Lager Premium,2.79,Skol
+1804,Sorvete Prestígio Nestlé Pote,24.99,Nestlé
+1805,Chá Camomila Leão Fuze,7.69,Leão Fuze
+1809,Creme Cebola Maggi Sachê,6.59,Maggi
+1813,Pimentão Block Orgânico,6.79,Sentir Bem
+1815,Filé Pirarucu Congelado,39.99,Big Hiper
+1819,Blanquet Peru Fatiado,9.89,Sadia
+1820,Camarão Congelado DellMare Pacote,37.9,DellMare
+1821,Espumante Brasileiro Brut,23.5,Garibaldi
+1823,Lasanha Parisiense Seara Caixa,13.99,Seara
+1825,Bebida Láctea Cereais,4.05,Piracanjuba
+1828,Papinha Frutas Sortidas Naturnes,3.59,Nestlé
+1829,Lasanha Bolonhesa Sadia Caixa,38.99,Sadia
+1831,"Barra Frutas Banana,",3.09,Banana Brasil
+1833,Spaghetti Massa Leve Pacote,5.99,Massa Leve
+1834,Kit Especiarias + Gin,109.99,Seagers
+1838,Suco Uva,14.99,Natural One
+1839,Wine Cooler Uva Original,10.9,Canção
+1840,Empanado Chicken Queijo LeBon,8.99,LeBon
+1841,Filé Sardinha Congelada,16.99,Nigel
+1842,Filé Tilápia Temperado,42.75,Noronha Pescados
+1845,Cerveja Stout Caracu Garrafa,3.79,Caracu
+1849,Feijão Carioca Vapza Single,6.99,Vapza
+1850,Torrada Tradicional Isabela Pacote,2.99,Isabela
+1851,Escondidinho Abóbora,25.97,Swift
+1852,Biscoito Amanteigado Nata Marilan,7.19,Marilan
+1854,Meio Asa,28.99,Seara
+1855,Filé Peito,28.99,Sadia
+1858,Hambúrguer Carne Bovina,22.99,Seara
+1859,Biscoito Tortinhas Torta,2.19,Adria
+1861,Linguiça Calabresa Enroladinha Perdigão,19.5,Perdigão
+1863,Coxa Asa,23.2,Seara
+1864,Pão Queijo Coquetel,22.99,Perdigão
+1865,Papinha Maçã Nestlé,4.59,Nestlé
+1867,Coxao Mole Bovino Resfriado,58.99,Big Hiper
+1870,Chá Camomila Mel,4.19,Madrugada
+1876,Vermute Rosato Martini 750ml,29.99,Martini
+1877,Bife Ancho Swift Aprox.700g,34.91,Swift
+1878,Farelo Aveia Jasmine,5.3,Jasmine
+1879,Massa Lasanha Massa,6.69,Massa Leve
+1880,Pepino Vinagre Tauá,9.79,Tauá
+1883,Pipoca Micro-Ondas Manteiga,3.19,Yoki
+1884,Feijão Preto Cozido,6.99,Vapza
+1885,Snack Pão Sírio,3.39,Pita Bread
+1886,Cerveja Pilsen Puro Malte,2.99,Eisenbahn
+1888,Fruta Congelada Amora Prático,18.9,Prático
+1889,Bacon Fatias Perdigão,15.99,Perdigão
+1890,Geléia Cereja 65%,20.99,Top Chef
+1892,Linguiça Pernil Suíno,19.99,Sabor de Bragança
+1893,Leite Coco Tradicional,4.35,Coco do Vale
+1894,Nhoque Batata Massa,9.49,Massa Leve
+1896,Confeito Frutas Vermelhas Mentos,5.99,Mentos
+1899,Sopa Individual Cremosa Peito,2.79,Vono
+1900,Pizza Lombo Catupiry,19.5,Seara
+1901,Acém Bovino 700g,19.12,Big Hiper
+1903,Margarina Cremosa Sal,2.69,Claybom
+1904,Capelleti Queijo Massa Leve,9.69,Massa Leve
+1905,Bala Goma Dori,2.99,Dori
+1907,Manteiga Sal Litoral,14.9,Litoral
+1908,Adoçante Líquido Diet Sacarina,10.79,Zero Cal
+1911,Bala Caramelo Leite,4.99,Butter Toffees
+1912,Milho Pipoca Orgânico,7.99,Mãe Terra
+1914,Espumante Rosé Brut Brasileiro,105.0,Chandon
+1915,Tempero Pronto Cebola Picada,8.39,Confiare
+1916,Biscoito Cream Cracker Tradicional,4.29,Vitarella
+1920,Mortadela Bologna Picles,9.49,Ceratti
+1921,Pack Bombom Nestlé Chokito,7.39,Nestlé
+1922,Biscoito Tradicional Triunfo Salpet,1.59,Triunfo
+1923,Cerveja Pilsen Lager Dado,1.49,Dado Bier
+1924,Beterraba Sentir Bem Orgânico,8.69,Sentir Bem
+1926,Energético Coco Açaí,7.39,Red Bull
+1927,Strogonoff Filé Mignon Bovino,84.0,Big Hiper
+1930,Ovos Brancos Bandeja,17.99,Big Hiper
+1932,Cerveja Weizenbier Eisenbahn Long,4.99,Eisenbahn
+1933,Orégano Chelli Pacote 50g,10.69,Chelli
+1936,Panceta Suína Resfriada Aprox.,9.4,Big Hiper
+1940,Barra Salada,7.29,Banana Brasil
+1942,Mostarda Heinz Tradicional 255g,9.49,Heinz
+1943,Néctar Caju Dafruta Premium,1.99,Dafruta
+1946,Rum Caribenho Saborizado Coco,54.99,Pernod
+1947,Bala Gelatina Sortida,3.99,Dori
+1948,Mistura Tailandesa Congelada D'aucy,11.5,D'aucy
+1949,Torta Holandesa Congelada Sobremesas,28.99,Mr. Bey
+1950,Biscoito Laranja Banana,4.99,Nestlé
+1953,Pepinos Vinagre Tradicional,8.69,Oderich
+1955,Rosquinha Polvilho Tradicional,4.49,Gusman
+1956,Queijo Cream Cheese Light,10.99,Polenghi
+1958,Café Solúvel Granulado Descafeinado,7.99,3 Corações
+1959,Pastilha Frutas Silvestres Tic,1.69,Tic Tac
+1960,Linhaça Semente Mãe,6.79,Mãe Terra
+1962,Tempero Pasta Caseiro,11.5,Receita de Casa
+1963,Mortadela Tradicional Fatiada Perdigão,4.59,Perdigão
+1964,Brócolis Congelado Ati-Gel Pacote,16.5,Ati-Gel
+1967,Batata Pré Frita Swift,7.96,Swift
+1968,Vinagre Álcool Palladio,1.99,Palladio
+1969,Biscoito Queijo Suíço Bon,5.69,Bon Gouter
+1974,Torrada Tradicional Bauducco Pacote,3.19,Bauducco
+1975,Pack Barra Cereal,8.39,Linea
+1976,Batata Assar Pacote,9.09,Big Hiper
+1977,"Cebola, Alho Salsa",10.63,Swift
+1979,Adoçante Líquido Finn Stevia,10.79,Finn
+1982,Kit Confeito Sortido Mentos,6.39,Mentos
+1985,Bombom Twix Pacote 80g,4.99,Twix
+1991,Queijo Cottage Tirolez Pote,20.99,Tirolez
+1992,Cocada Branca Cremosa Sococo,7.99,Sococo
+1993,Suco Manga,4.69,Tial
+1995,Queijo Cottage Zero Lactose,11.99,Verde Campo
+2002,Água Coco Esterilizada,7.99,Sococo
+2003,Creme Chantilly Spray Fleischmann,27.5,Fleischmann
+2004,Bebida Láctea UHT Frutas,6.99,Piracanjuba
+2005,Batata Frita Ondulada Sal,6.99,Elma Chips
+2008,Escarola 1 Unidade Aprox.,8.99,Big Hiper
+2009,Cerveja Appia Colorado Lata,6.49,Colorado
+2010,Açaí Congelado Orgânico,11.99,Sambazon
+2011,Suco Maçã,10.99,Yaí
+2012,Biscoito Wafer Recheio Limão,1.89,Orquídea
+2014,Ovos Vermelhos Caixa 12,11.99,Big Hiper
+2015,Atum Ralado Óleo,5.99,Robinson Crusoe
+2018,Pimentão Trebeschi,5.79,Trebeschi
+2020,Carne Moída Acém,20.75,Big Hiper
+2023,Queijo Cream Cheese Philadelphia,14.5,Philadelphia
+2025,Avocado,5.4,Big Hiper
+2026,Copa Lombo Suína Temperada,14.98,Swift
+2027,Bebida Láctea Farinha Láctea,3.09,Nestlé
+2030,Cerveja Imperial IPA Vixnu,15.99,Colorado
+2033,Vinagre Fruta Maçã,14.5,Castelo
+2034,Bebida Mista Alcoólica Gaseificada,4.49,Skol
+2035,Cappuccino Solúvel Canela 3,1.89,3 Corações
+2036,Mostarda Escura Holandesa Sabores,13.99,Sabores Cepêra
+2038,Cheiro Orgânico Sentir,6.49,Sentir Bem
+2039,Mistura Bolo Coco,3.69,Orquídea
+2041,Energético Tropical Baly Garrafa,7.99,Baly
+2042,Espeto Coração Temperado Congelado,26.99,Jundiaí
+2046,Granola Tradicional Castanhas,12.99,Mãe Terra
+2047,Whisky Escocês Blended Finest,129.0,Ballantine's
+2048,Mini Bolinho Congelado Pré-Frito,20.99,Catupiry
+2049,Queijo Minas Frescal Termofado,26.0,Tirolez
+2051,Bala Gelatina Haribo,7.69,Haribo
+2052,Manteiga Margarina,8.59,Leco
+2056,Bebida Adoçada Goiaba Del,6.99,Del Valle
+2057,Vodka Destilada Ketel One,105.0,Ketel One
+2058,Batida Maracujá Baianinha,18.99,Baianinha
+2061,Malt Whisky Carvalho,27.99,Green Valley
+2063,Prime Rib Swift Aprox.,30.07,Swift
+2064,Biscoito Recheio Doce,2.19,Nestlé
+2065,Suco Misto,10.5,Natural One
+2067,Hambúrguer Vegetal Churrasco Superbom,19.5,Superbom
+2069,Bife Ancho Entrecote Bovino,60.49,Friboi
+2071,Mandioca Pré Cozida Swift,11.97,Swift
+2072,Caldo Tablete Galinha,2.94,Maggi
+2076,Espumante Brasileiro Brut,54.99,Casa Perini
+2079,Chá Limão Life,7.99,Life Mix
+2080,Cerveja Golden Ale Baden,12.99,Baden Baden
+2082,Leite Coco Ducoco,5.49,Ducoco
+2083,Margarina Light Sal,6.49,Doriana
+2086,Sopinha Picadinho Carne,4.89,Nestlé
+2088,Bife Role Swift,36.77,Swift
+2089,Torrada Multigrãos Bauducco Pacote,6.19,Bauducco
+2090,Sopão Galinha Kitano Sachê,6.59,Kitano
+2091,Azeitonas Verdes Recheada,19.99,La Violetera
+2092,Licor Stock Classic Creme,47.5,Stock
+2093,Recupera Reidrata Tangerina,9.99,Engov
+2094,Panettone Frutas Confiare,9.99,Confiare
+2095,"Ketchup Heinz 1,033kg",17.99,Heinz
+2096,Batata Palito Tradicional Food,28.5,Sadia
+2099,Contra Filé Swift Ouro,63.66,Swift
+2100,Pão Tradicional Visconti Pacote,5.49,Visconti
+2101,Mix Vegetais Veg,17.9,Sadia
+2102,Cogumelo Champignon Inteiro,16.99,Confiare
+2104,Salada Atum Gomes,9.99,Gomes da Costa
+2106,Batata Frita Ondulada Queijo,5.49,Elma Chips
+2108,Sopão Carne Arisco Sachê,6.79,Arisco
+2110,Pão Bisnaguinha Brioche Familiar,6.99,Plusvita
+2112,Tequila Reposado El Jimador,129.0,El Jimador
+2114,Goma Mascar Fresh,1.99,Mentos
+2116,Manteiga Sal Aviação,12.99,Aviação
+2117,Salsicha Hot-Dog Sadia Pacote,9.39,Sadia
+2119,Sorvete Creme Maracujá,39.9,Bacio di Latte
+2120,Castanha-de-Caju Amigos Bem,21.73,Amigos Do Bem
+2121,Tiras Filé,21.96,Swift
+2122,Milho em Conserva,4.59,Bonduelle
+2124,Biscoito Recheio Limão Piraquê,3.29,Piraquê
+2125,Almôndega Vegetal Veg &,25.5,Sadia
+2129,Brócolis Florete Congelado D'aucy,7.29,D'aucy
+2131,Cereal Matinal Superbom Skarchitos,5.79,Superbom
+2134,Bebida Láctea Fermentada,4.99,Piá
+2135,Espumante Brasileiro Brut,29.99,Salton
+2137,Pizza Artesanal Mussarela,22.96,Swift
+2138,Bombom Twix Pacote 40g,2.59,Twix
+2139,Energético Melancia Red Bull,8.69,Red Bull
+2140,Atum Pedaços,8.19,Confiare
+2142,Filé Mignon Suíno Resfriado,23.09,Big Hiper
+2143,Requeijão Cremoso Light Danubio,8.99,Danubio
+2144,Queijo Cream Cheese Light,6.49,Danubio
+2147,Conhaque Gengibre Presidente,12.99,Presidente
+2148,Pão Queijo Recheado,14.99,Confiare
+2150,Pão Hambúrguer Australiano,8.29,Wickbold
+2151,Carvão Blend Bom,13.99,Bom de Brasa
+2157,Feijão Preto Namorado Pacote,5.09,Namorado
+2159,Sorvete Vegano Caramel Almond,49.99,Ben & Jerry's
+2163,Sanduíche X-Faroeste Burguer Grelhado,5.69,Aurora
+2164,Salame Defumado Perdigão Pacote,11.5,Perdigão
+2165,Manga Bourbon,16.0,Big Hiper
+2168,Suco Concentrado Laranja,2.19,Polpanorte
+2169,Quinoa Mista Grãos,22.99,Jasmine
+2170,Biscoito Leite Maltado Light,3.99,Piraquê
+2171,Iorgute Líquido Sabor Mix,8.99,Paulista
+2172,Isotônico Limão I9 Powerade,3.09,I9 Powerade
+2173,Goma Mascar Sabor,2.49,Bubbaloo
+2176,Chá com Cranberry,7.99,Life Mix
+2177,Pão Sanduíche Manteiga,4.99,Seven Boys
+2178,Posta Tilápia Congelada,22.99,Brazilian Fish
+2181,Sorvete Creme Tradicional Nestlé,16.5,Nestlé
+2182,Biscoito Trufa,2.79,Adria
+2183,Antepasto Bruschetta Alcachofra La,21.99,La Pastina
+2186,Mistura Pão Batata,6.99,Fleischmann
+2187,Requeijão Cremoso Carolina Copo,2.99,Carolina
+2189,Steinhaeger Becosa 980ml,32.99,Becosa
+2191,Bala Menta Halls 28g,1.69,Halls
+2192,Creme Cebola Knorr Sachê,7.59,Knorr
+2193,Feijoada Pronta Tamanho Família,29.99,Perdigão
+2195,Margarina Manteiga Sal,4.09,Vigor
+2196,Mistura Bolo Cremoso,5.89,Dr. Oetker
+2197,Camarão Requeijão Catupiry,25.99,Vivenda do Camarão
+2202,Aveia Flocos Grossos,9.99,Jasmine
+2203,Coco Ralado Desidratado Sococo,3.29,Sococo
+2204,Sorvete Napolitano Zero Lactose,26.99,Kibon
+2207,Néctar Laranja Dafruta Premium,1.29,Dafruta
+2208,Pescada Branca Cabeça,15.9,Confiare
+2209,Azeitonas Verdes Recheadas,19.5,La Violetera
+2211,Suco Uva Xandô,20.99,Xandô
+2213,Pão Coco Plusvita,8.49,Plusvita
+2214,Lasanha Bolonhesa Sadia Caixa,22.99,Sadia
+2215,Sal Refinado Lebre Pacote,1.89,Lebre
+2217,Maionese Caseira Tradicional Liza,5.69,Liza
+2218,Azeite Dendê Cepêra,6.59,Cepêra
+2221,Sorvete Napolitano Trivialy Pote,19.99,Trivially
+2224,Pizza Artesanal Pepperoni Catupiry,31.5,Catupiry
+2225,Azeite Dendê Cepêra,8.99,Cepêra
+2226,Chips Batata-Doce Roots,5.89,Roots To Go
+2227,Tortinha Limão Pote,15.96,Big Hiper
+2228,Sorvete Bem & Jerry's,49.9,Ben & Jerry's
+2230,Repolho,11.68,Big Hiper
+2232,Chá Camomila Chá Leão,6.89,Chá Leão
+2233,Açúcar Refinado Granulado Premium,7.99,União
+2237,Berinjela Orgânica,8.99,Sentir Bem
+2238,Sorvete Triple Caramel Chunk,49.99,Ben & Jerry's
+2239,Goma Mascar Fresh,1.79,Trident
+2241,Batata Chips Sal Marinho,8.29,Frontera
+2242,Adoçante Líquido Adocyl Sucralose,11.89,Adocyl
+2243,Wasabi Karui Oriental Caixa,26.99,Karui
+2245,Meio Peito Pato,42.9,Villa Germania
+2247,Couve Manteiga Picada Orgânica,7.99,Sentir Bem
+2248,Nata Santa Clara Pote,7.09,Santa Clara
+2249,Gin Nacional Apogee 1000Ml,59.99,Apoggee
+2250,Salsinha Picada La Vita,3.99,La Vita
+2253,Mistura Bolo Baunilha,12.99,Lowçucar
+2254,Aveia Flocos Quaker,8.79,Quaker
+2256,Mostarda Zero Sódio Zero,19.99,Linea
+2258,Polpa Congelada Goiaba,11.99,Sentir Bem
+2259,Gin & Tonic Gordon's,8.45,Gordon's
+2260,Cappuccino Solúvel Tradicional Café,39.98,Café do Centro
+2261,Antepasto Bruschetta Alcachofra,21.99,La Pastina
+2266,Chá Chá Leão,8.99,Chá Leão
+2267,Geleia Agridoce,17.99,Queensberry
+2271,Néctar Uva Izzy,1.69,Izzy
+2272,Café Solúvel Serras,11.9,Nescafé
+2276,Cerveja Stout Carvoeira Lohn,29.9,Lohn Bier
+2277,Ravioloni Azeitonas Pretas,10.99,Mezzani
+2280,Capeletti Recheio Carne Rana,27.5,Rana
+2281,Pêssego Calda Zero,12.9,Oderich
+2282,Biscoito Ventilha Natural Casa,4.49,Casa da Cuca
+2283,Cappuccino Solúvel Tradicional Melitta,10.99,Melitta
+2285,Bebida Láctea UHT Cappuccino,3.49,3 Corações
+2287,Tiras Patinho Swift,24.96,Swift
+2288,Filé Tilápia Swift,38.96,Swift
+2289,Sorvete Gelato Artesanal Doce,39.9,Ricreme
+2290,Sopa Individual Cremosa Caldo,1.59,Vono
+2291,Granola Red Fruits Jordans,19.98,Jordans
+2295,Salame Italiano Peça Grande,73.5,Sadia
+2297,Farelo Aveia Quaker,6.09,Quaker
+2298,Requeijão Cremoso Light Catupiry,16.99,Catupiry
+2299,Capeletti Recheado Carne,8.69,Pavioli
+2302,Torrada Light Adria Pacote,2.79,Adria
+2303,Tempero Completo Pimenta,4.39,Sabor a Mi
+2306,Amendoim Yoki Pacote,11.5,Yoki
+2309,Feijão Carioca Cozido,7.19,Vapza
+2310,Gin London Dry Lemon,7.99,Torquay
+2312,Pão Queijo Tradicional,21.99,Catupiry
+2314,Pão Hot-Dog Pão,4.39,Pão Nino
+2315,Água Mineral Bonafont Sport,2.49,Bonafont Água Leve
+2316,Cerveja Petroleum Imperial Stout,19.99,Wals
+2318,Salada Festiva Higiênizada Orgânica,8.99,Sentir Bem
+2319,Creme Cebola,5.39,Maggi
+2321,Banana Nanina Orgânica Bandeja,7.99,Sentir Bem
+2328,Grão-de-Bico Orgânico Mãe Terra,28.99,Mãe Terra
+2329,Massa Fresca Pastel,3.59,Romena
+2330,Requeijão Cremoso Aviação Copo,7.99,Aviação
+2333,Sorvete Trufadinho Bianco Fascino,23.5,Jundiá
+2334,Azeitona Pimenta,12.5,Confiare
+2335,Espumante Brasileiro Demi-Sec,34.99,Conde de Foucauld
+2336,Filé Sardinha,9.19,Gomes da Costa
+2337,Azeitona Fatiada,16.99,Confiare
+2338,Sorbet Açaí Banana,43.99,Frooty
+2341,Espumante Brasileiro Salton,51.5,Salton
+2342,Cappuccino Solúvel Tradicional Café,7.19,Café do Centro
+2343,Goiabada Cascão Ralston Plástico,6.99,Ralston
+2344,Margarina Sal Primor,6.89,Primor
+2345,Ovos Caipira 12 Unidades,12.5,Big Hiper
+2346,Caprichos Romana Pescanova,29.99,Pescanova
+2348,Pão Francês,0.55,Big Hiper
+2349,Queijo Parmesão Ralado Parmíssimo,9.69,Parmíssimo
+2351,Cerveja Porter Café,11.5,Colorado
+2352,Biscoito Rosquinha Doce,6.19,Zezé
+2353,Lasanha Bolonhesa Perdigão Caixa,14.5,Perdigão
+2355,Mel Flora Néctar Squeeze,17.9,Flora Néctar
+2356,Picanha Suíno Temperada Prieto,23.0,Prieto
+2357,Polpa Fruta Manga,1.99,Polpanorte
+2358,Cerveja American Lager Zero,3.69,Brahma
+2360,Marshmallow Baunilha Barbecue Chamallows,5.49,Haribo
+2361,Paleta Fatiada Defumada Ceratti,8.79,Ceratti
+2362,Melão Galia,9.09,Big Hiper
+2363,Canudinhos Rechear Pavioli,13.99,Pavioli
+2365,Presunto Cru Fatiado RAR,21.99,Rar Alimentos
+2368,Caixa Bombom Amor,7.99,Neugebauer
+2369,Biscoito Queijo Manteiga,8.09,Dux
+2371,Geleia Framboesa Zero Açúcar,19.99,Linea
+2373,Espetinho Linguiça Swift,34.96,Swift
+2374,Biscoito Água Sal,5.99,Orquídea
+2376,Óleo Coco,29.9,Purilev
+2378,Adoçante Líquido Zero Cal,14.99,Zero Cal
+2379,Mistura Bolo Formigueiro,5.39,Dr. Oetker
+2380,Farofa Castanha-de-Caju Ingredient,15.99,Ingredient
+2381,Picles Vinagre Cepêra,13.5,Cepêra
+2382,Brócolis Florete Congelado D'aucy,21.99,D'aucy
+2387,Goma Mascar Mirtilo,6.69,Trident
+2388,Sorvete Vegetal Café,29.9,NotCo
+2390,Cerveja Appia Colorado Garrafa,6.99,Colorado
+2391,Mac'n Cheese Cheddar &,12.99,Sadia
+2392,Espetinho Kafta Temperos,37.9,Confiare
+2393,Margarina Amanteigado Sal,7.59,Delícia
+2394,Pão Bisnaguinha Original Zero,6.49,Nutrella
+2397,"Barra Nuts Banana,",7.29,&Joy
+2398,Leite Desnatado Santa Clara,3.59,Santa Clara
+2399,Pão Queijo Tradicional,36.5,Forno de Minas
+2401,Biscoito Cream Cracker Isabela,6.39,Isabela
+2402,Água Tônica Zero Açúcar,2.79,Antarctica
+2403,Lagarto Bovino Resfriado Pedaço,40.99,Big Hiper
+2406,Massa Caseira N°3 Mosmann,6.99,Mosmann
+2407,Coco Ralado Desidratado Coco,4.39,Coco do Vale
+2408,Noz-Moscada Chinatown Premium Pacote,6.99,Chinatown
+2409,Wafer Recheio,1.99,Nestlé
+2411,Maça Fuji,1.0,Big Hiper
+2415,Burrito Queijo Brócolis,6.99,Nacho Loco
+2416,Pasta Amendoim,10.9,Pic-Me
+2419,Acém Bovino Pedaço Aprox.,30.0,Big Hiper
+2420,Biscoito Fura Bolo Limão,6.09,Zezé
+2422,Tomilho Kitano Sachê 10g,2.69,Kitano
+2423,Açaí Natural Peg Açaí,29.9,Peg Açaí
+2424,Rolinhos Wafer Recheio,2.19,Barion
+2427,Filé Salmão,15.99,Confiare
+2429,Azeitona com Caroço,6.49,La Violetera
+2431,Leite Coco Light,4.19,Coco do Vale
+2432,Atum Sólido Natural,7.99,88
+2435,Chikenitos Tempura Seara Caixa,10.99,Seara
+2437,Biscoito Leite Plugados Recheio,1.69,Adria
+2438,Linguiça Pernil Suíno,19.99,Seara
+2440,Biscoito Amanteigado Confiare Lata,35.99,Confiare
+2445,Whisky Escocês Blended Red,69.9,Johnnie Walker
+2447,Biscoito Trench Goiabinha Pacote,10.9,Trench
+2449,Bife Alcatra Swift,41.96,Swift
+2450,Goma Mascar Mirtilo,5.79,Trident
+2451,Refresco Limonada Bem,8.49,Do Bem
+2452,Pizza Marguerita Sadia Caixa,19.99,Sadia
+2453,Bebida Manga Bem,8.49,Do Bem
+2454,Whisky Escocês Blended Chivas,129.0,Chivas Regal
+2455,Maionese Chipotle Hellmann's Squeeze,8.69,Hellmann's
+2456,Cerveja Duplo Malte Brahma,3.59,Brahma
+2457,Pão Hot-Dog Big Hiper,7.45,Big Hiper
+2458,Maionese Caseira Arisco Sachê,2.19,Arisco
+2459,Tempero Pasta Caseiro,3.99,Aji-No-Moto
+2460,Doce Leite,14.99,Nestlé
+2464,Cogumelo Champignon Conserva,12.99,Cepêra
+2465,Milho em Conserva,2.59,Stella D'oro
+2467,Batata Lisa Clássica Lay's,6.49,Elma Chips
+2468,Contra Filé Swift Bronze,61.44,Swift
+2469,Sardinha Óleo Gomes,10.99,Gomes da Costa
+2470,"Tempero Aves, Peixes,",9.19,Kitano
+2471,Néctar Pêssego Dafruta Premium,1.19,Dafruta
+2473,Minibolo Baunilha,2.89,Jacquet
+2474,Sorvete Napolitano Especial Cremosíssimo,32.99,Kibon
+2478,Atum Sólido Natural,7.29,Gomes da Costa
+2479,Rolinhos Wafer Recheio,2.39,Barion
+2480,Cupim Pro Forno!,52.75,Swift
+2483,Pack Adoçante Líquido Sucralose,16.89,Zero Cal
+2484,Suco Concentrado Caju,2.99,Dafruta
+2486,Biscoito Leite Danix,1.59,Arcor
+2487,Amendoim Crocante Pimenta-Vermelha Dori,6.39,Dori
+2488,Marshmallow Baunilha Torção Fini,5.19,Fini
+2489,Merluza Empanada Pescanova Caixa,29.99,Pescanova
+2492,Amendoim Japonês Yoki Pacote,8.99,Yoki
+2496,Pudim Leite Condensado,4.92,Swift
+2498,Mortadela Cubos,7.09,Excelsior
+2499,Bolo Laranja Textura,6.99,Confiare
+2500,Batata Frita Ondulada Cebola,5.49,Elma Chips
+2501,Arroz Karui Caramelizado 100g,9.99,Karui
+2503,Açúcar Coco Dikoko,26.99,Dikoko
+2504,Chá Chinatown Premium,5.99,Chinatown
+2505,Lambrusco Tinto Italian Dell'emilia,32.99,II Roccolo
+2506,Costela Belly Rib Premium,23.98,Swift
+2508,Patê Atum,9.9,Gomes da Costa
+2509,Pão Assado Congelado Recheio,9.29,Brico Bread
+2511,Pão Sanduíche Multigrãos,16.9,Jasmine
+2512,Maminha Pro Forno!,73.44,Swift
+2513,Biscoito Cream Cracker Marilan,6.39,Marilan
+2514,Queijo Prato Lanche Fatiado,19.99,Santa Clara
+2516,Coentro,6.99,Big Hiper
+2518,Mix Castanha Brasileira,5.89,Mãe Terra
+2521,Adoçante Líquido Lowçucar SóStevia,19.5,Lowçucar
+2522,Pão Forma Tradicional,4.99,Confiare
+2523,Atum Ralado Natural,7.19,Gomes da Costa
+2527,Suco Verde Prensado,7.29,Greenpeople
+2528,Leite Condensado Piracanjuba Caixa,4.89,Piracanjuba
+2529,Rumen Bucho Bovino,22.39,Big Hiper
+2532,Bebida Adoçada Uva Del,4.19,Del Valle
+2533,Pizza Artesanal Margherita Gourmet,33.5,Seara
+2534,Sopão Galinha Legumes,6.79,Maggi
+2536,Pão Forma Tradicional,5.69,Plusvita
+2538,Chá Preto Ice Tea,2.99,Lipton
+2540,Mix Uva- Passas,12.5,Confiare
+2541,Melão Pele Sapo,14.18,Big Hiper
+2542,Barra Proteína Baunilha,12.99,Banana Brasil
+2544,Sopinha Legumes Carne,4.59,Nestlé
+2545,Torrone Amendoim Montevérgine,7.09,Montevérgine
+2548,Sopão Galinha Caipira Maggi,6.79,Maggi
+2549,Baby Beef Swift Aprox.,67.14,Swift
+2550,Granola Banana Kobber Pacote,17.9,Kobber
+2551,Néctar Uva Maguary Caixa,1.19,Maguary
+2553,Couve Manteiga,1.69,Big Hiper
+2555,Chá Cápsula Nature's,28.5,Nescafé
+2558,Água Tônica Gengibre Zero,2.49,Antarctica
+2561,Sobrepaleta Suína Temperada Resfriada,19.19,Prieto
+2562,Geleia Goiaba Tradicional Ritter,15.99,Ritter
+2563,Pão Alho Picante,8.99,Confiare
+2566,Sorvete Latte Trufado Vêneto,26.99,Vêneto
+2568,Polpa Maracujá Nutricau,2.49,Nutricau
+2570,Água Coco Esterilizada,8.79,Kero Coco
+2571,Coxinha Asa,24.99,Sadia
+2577,Pão Forma Seven,4.99,Seven Boys
+2580,Peixe Congelado Filé Tilápia,36.5,DellMare
+2581,Repolho Orgânico Bandeja,8.99,Sentir Bem
+2582,Suco Prensado,7.99,Greenpeople
+2584,Azeitona Preta Caroço,20.5,La Violetera
+2585,Goma Mascar Menta,6.69,Trident
+2587,Biscoito Frutas Vermelhas,4.59,Jasmine
+2588,Tempero Lemon Pepper,23.9,Smart
+2590,Chá Preto Ice Tea,3.29,Ice Tea Leão
+2593,Suco Prensado,17.9,Greenpeople
+2595,Mini Brownie Avelã,9.99,Jacquet
+2596,Bebida Alcoólica Gaseificada Ice,4.89,Birds
+2597,Chá Limão Natural,4.39,Natural Tea
+2600,Polenta Swift 600g,7.46,Swift
+2602,Suco Uva Cy,3.29,Cy
+2603,"Chá Verde, Hibisco, Canela,",5.59,Dr. Oetker
+2605,Massa Fresca Pastel,6.69,Romena
+2606,Vinho Americano Gallo,40.99,Gallo Family
+2609,Cookies Malhado Toddy Pacote,2.99,Toddy
+2610,Batata Palha Tradicional Elma,9.69,Elma Chips
+2613,Manga Tommy Orgânica Bandeja,9.25,Sentir Bem
+2616,Suco Concentrado Maracujá,7.19,Dafruta
+2617,Fórmula Infantil Lactentes,69.99,Nestlé
+2618,Tempero Pronto Alho,11.9,Confiare
+2623,Batata Lisa Cheese Lay's,6.99,Elma Chips
+2626,Açúcar Coco Copra,28.9,Copra
+2628,Pipoca Micro-Ondas Natural,3.19,Yoki
+2629,Palmito Pupunha Picado,9.99,Brazilian Palm
+2631,Margarina Manteiga Sal,6.29,Vigor
+2633,Linguiça Toscana Especiarias,18.96,Swift
+2634,Sorvete Limão Fruttare,3.89,Kibon
+2635,Tentáculos Polvo Swift,34.96,Swift
+2637,Queijo Emmental Fracionado Cruzília,17.99,Cruzília
+2639,Geleia Amora Turma,7.99,Purifruti
+2640,Batata Frita Ondulada Sal,16.99,Elma Chips
+2641,Pão Hot-Dog Pullman,6.49,Pullman
+2643,Geleia Goiaba Homemade,18.5,Homemade
+2644,Biscoito Tostines Maizena Nestlé,3.99,Nestlé
+2646,Conhaque Brandy Jerez Osborne,94.99,Osborne
+2647,Manjericão,6.99,Big Hiper
+2648,Sal Grosso Churrasco Confiare,3.39,Confiare
+2649,Pizza Calabresa Sadia Caixa,19.99,Sadia
+2650,Mix Legumes Congelados,10.99,D'aucy
+2651,Gin Dry Seagers 980ml,54.99,Seagers
+2652,Massa Caseira N°4,6.99,Mosmann
+2653,Creme Queijo Ricota,6.99,Polenghi
+2654,Pernil Suíno Salgado Aprox.,17.99,Big Hiper
+2655,Energético Açaí Red Bull,8.69,Red Bull
+2657,Sorbet Granola,10.99,Frooty
+2658,Filé Peito,21.99,Seara
+2659,Aveia Flocos Finos,2.69,Yoki
+2660,Água Tônica Schweppes Lata,2.89,Schweppes
+2663,Suco Maçã Del,12.99,Del Valle
+2666,Patinho Bovino Resfriado Bife,11.0,Big Hiper
+2667,Hambúrguer Carne Bovina,30.99,Sadia
+2668,Bebida Láctea Uva Piá,4.99,Piá
+2669,Azeitona em Conserva,3.69,Cepêra
+2670,Carne Bovina Desfiada Cozida,48.5,Vapza
+2671,Chá Melissa & Flor,6.89,Dr. Oetker
+2672,Whisky Brasileiro Aperitivo Natu,39.99,Natu Nobilis
+2673,Mortadela Defumada Perdigão Pacote,8.89,Perdigão
+2675,Biscoito Cookie Original Bauducco,2.39,Bauducco
+2676,Amendoim Japonês Especial Pettiz,12.5,Dori
+2677,Cereja Calda Marrasquino,15.99,Cepêra
+2681,Pamonha Natural Campo,7.99,Natural Do Campo
+2686,Polpa Congelada Acerola,2.89,Sentir Bem
+2687,Doce Leite Linea,18.5,Linea
+2689,Pão Queijo Recheado,12.5,Confiare
+2691,Espumante Brasileiro Demi-Sec,49.99,Aurora
+2692,Sorvete Cookies Cream,32.5,Paviloche
+2695,Cookies Baunilha Original Toddy,2.99,Toddy
+2697,Barra Frutas Banana,7.29,Banana Brasil
+2698,Leite Fermentado Desnatado Lactobacilos,11.99,Yakult
+2699,Queijo Parmesão Ralado Light,8.19,Parmíssimo
+2700,Cerveja Pilsen Burguesa Lata,2.29,Burguesa
+2703,Coxinha Asa,23.99,Korin
+2704,Mini Pão Forma,4.99,Pullman
+2705,Picanha Bovina Fatiada Aprox.,47.99,Big Hiper
+2706,Pack Picolé Baunilha,20.99,Perfetto
+2708,Snack Cottage Ervas,2.69,Eqlibri
+2710,Caldo Tablete Legumes,1.39,Knorr
+2711,Wafer Recheio,2.49,Peccin
+2714,Linguiça Carne Suína,19.5,Languiru
+2716,Massa Ovos Ninho,6.99,Piraquê
+2717,Pão Milho Pullman Pacote,7.49,Pullman
+2723,Lasanha Bolonhesa Seara Menu,8.99,Seara
+2724,Rúcula Hidropônica,3.49,Big Hiper
+2727,Requeijão Cremoso Tradicional Catupiry,16.5,Catupiry
+2728,Mistura Pão Linhaça,7.39,Famiglia Venturelli
+2729,Farofa Mandioca Cebola,4.69,Yoki
+2730,Amendoim Frito Salgado,4.89,Elma Chips
+2732,Capeleti Carne Confiare,9.19,Confiare
+2733,Chipa Queijo Confiare,11.99,Confiare
+2734,Almôndegas Carne Bovina,19.9,Aurora
+2735,Linguiça Cuiabana Suína,19.99,Seara
+2736,Gordura Vegetal Primor Plástico,9.99,Primor
+2737,Leite Semidesnatado Paulista Caixa,4.59,Paulista
+2738,Empanado Chicken Crocante LeBon,8.99,LeBon
+2739,Batatas Rústica Casca,8.99,Top Chef
+2740,Sorbet Granola Açaí,11.5,Frooty
+2743,Chá Hortelã Chá Leão,7.89,Chá Leão
+2745,Camarão Descascado Congelado,39.9,Só Pesca
+2746,Água Mineral Bonafont Mascote,2.99,Bonafont Água Leve
+2748,Salada Alface Lisa,6.49,Sentir Bem
+2750,Leite Semidesnatado Zero Lactose,4.69,Paulista
+2752,Whiskey Tennessee Apple Original,149.0,Jack Daniel's
+2753,Mix Cogumelos Swift,16.97,Swift
+2758,Saquê Licoroso Mirin Kenko,20.5,Kenko
+2759,Pão Queijo Coquetel,21.99,São Geraldo
+2761,Wafer Recheio Cobertura,4.29,Hershey's
+2762,Espumante Brasileiro Brut,25.99,San Martin
+2763,Caldo Tablete Carne,3.29,Knorr
+2764,Manteiga Primeira Qualidade,17.2,Aviação
+2765,Tempero Pronto Mix,10.99,Maggi
+2766,Goiabada Cremosa Ralston Plástico,16.99,Ralston
+2768,Cachaça 7 Campos,12.99,7 Campos de Piracicaba
+2770,Mostarda Amarela Kisabor Squeeze,3.79,Kisabor
+2771,Sal Grosso Swift 1kg,2.37,Swift
+2773,Cerveja Witbier Praya Garrafa,7.99,Praya
+2775,Torrone Amendoim,7.49,Guimarães
+2776,Aveia Flocos Finos,8.89,Quaker
+2780,Bife Peito,29.5,Seara
+2781,Patê Carne Bovina,3.69,Oderich
+2783,Fórmula Infantil Lactentes,69.99,Nestlé
+2784,Biscoito Calabresa Acebolada Marilan,2.09,Marilan
+2785,Suco Tangerina Bem,8.49,Do Bem
+2787,Bebida Láctea Cereais,2.59,Piracanjuba
+2790,Queijo Tropical Ralado Kunzler,3.99,Kunzler
+2792,Batata Frita Ondulada Original,9.69,Elma Chips
+2793,Requeijão Cremoso Tradicional Santa,11.5,Santa Clara
+2794,Filezinho Sassami Swift 1kg,18.47,Swift
+2795,Mostarda Mel Hellmann's,6.09,Hellmann's
+2796,Chips Batatas-Doces Roxas Roots,5.89,Roots To Go
+2797,Alimento Base,9.62,Kellogg's
+2798,Laranja Lima,0.51,Big Hiper
+2800,Tapioca Tap Yoki Pacote,5.19,Yoki
+2802,Café Cápsulas Blen,3.39,Expressus
+2803,Sardinha Óleo Coqueiro,3.79,Coqueiro
+2804,Pão Sírio Médio Tradicional,8.89,Pita Bread
+2805,Sorvete Mousse Maracujá,21.5,Perfetto
+2806,Óleo Gergelim Torrado,27.99,Karui
+2808,"Barra Cereal Castanha,",7.99,Banana Brasil
+2811,Burrata Búfala,18.5,Búfalo Dourado
+2812,Tempero Pasta Caseiro,8.79,Aji-No-Moto
+2818,Papinha Carne Abóbora,5.69,Nestlé
+2819,Suco Maçã Del,10.5,Del Valle
+2821,Doce Leite Argentino,20.99,Top Chef
+2822,Peixe Congelado Filé Panga,31.99,Oceani
+2823,Pão Forma Zero,11.5,Panco
+2824,Carne Vegetal Superbom Lata,16.9,Superbom
+2825,Caldo Tablete Bacon,1.99,Maggi
+2827,Adoçante Líquido Sucralose Linea,11.5,Linea
+2828,Bala Butter Toffees Arcor,4.99,Arcor
+2830,Adoçante Líquido Stevia Zero,10.99,Zero Cal
+2832,Maminha Swift Ouro Aprox.,53.86,Swift
+2833,Suco Uva Xandô,14.99,Xandô
+2834,Hambúrguer Carne,21.5,Seara
+2835,Tapioca Lopes Pacote 1kg,13.99,Lopes
+2837,Creme Vegetal Sal,4.19,Qualy
+2838,Purê Frutas Banana,4.99,Pic-Me
+2840,Pão Alho Tradicional,8.99,Confiare
+2842,Rolinhos Wafer Recheio,3.39,Barion
+2843,Chá Hortelã Chá Leão,6.89,Chá Leão
+2844,Alface Crespa Hidroponico,2.99,Big Hiper
+2845,Hambúrguer Sabor Picanha Swift,19.96,Swift
+2846,Farofa Mandioca Tradicional,6.09,Yoki
+2848,Wafer Recheio,11.99,Lacta
+2851,Pastilha Menta Zero Açúcar,10.5,Mentos
+2852,Farinha Mandioca Crua,6.09,Pantera
+2853,Goma Mascar Framboesa,5.49,Trident
+2854,Mandioca Supreme Pré-Cozida Seara,12.99,Seara
+2855,Biscoito Maisena Piraquê Pacote,3.79,Piraquê
+2857,Bolo Banana Recheado,1.89,Ana Maria
+2858,Pernil Suíno Temperado,25.24,Gran Corte
+2860,Carne Moída Bovina,23.99,Friboi
+2863,Batata Palha Tradicional Elma,3.99,Elma Chips
+2864,Doce Leite,17.9,Doces São Lourenço
+2867,Bananada Predilecta 350g,7.79,Predilecta
+2869,Farinha Empanar Tradicional,0.99,Sazón
+2870,Feijão Preto Cozido,7.99,Vapza
+2872,Biscoitos Amanteigados Nobres Berlim,10.5,Confiare
+2874,Açúcar Coco Copra,9.99,Copra
+2876,Café Chapada Diamantina Gourmet,13.9,Confiare
+2877,Queijo Mussarela Fatiado Santa,19.99,Santa Clara
+2878,Suco Uva Del,10.5,Del Valle
+2879,Salame Pepperônico Sadia Pacote,3.99,Sadia
+2880,Chá Jabuticaba Zero,3.89,Yaí
+2881,Batatas Noisette Congelada Top,10.99,Top Chef
+2882,Massa Lasanha Adria,4.19,Adria
+2884,Chips Pipoca Natural,5.39,Roots To Go
+2886,Vinagre Álcool Colorido,1.99,Palladio
+2888,Cogumelo Shimeji Shinji,9.89,Shinji
+2889,Tempero Massas Sazón,4.39,Sazón
+2890,Requeijão Cremoso Light Polenghi,5.99,Polenghi
+2891,Amendoim Crocante Natural Dori,6.39,Dori
+2892,Biscoito Cebola Salsa,2.09,Marilan
+2893,Sopa Individual Cremosa Espinafre,2.59,Vono
+2894,Fermento Biológico Seco Instantâneo,1.69,Fleischmann
+2896,Linguiça Toscana LeBon Pacote,18.9,LeBon
+2897,Café Solúvel Granulado Tradicional,4.89,Melitta
+2902,Vodka Tridestilada Smirnoff Red,26.99,Smirnoff
+2906,Queijo Cream Cheese Philadelphia,17.5,Philadelphia
+2909,Cachaça Pura Cristalina Sagatiba,34.5,Sagatiba
+2911,Tempero Granulado Maggi,3.95,Maggi
+2912,Água Tônica Zero Açúcar,2.49,Antarctica
+2914,Lombos Bacalhau Dessalgado,108.92,Swift
+2915,Espumante Brut Brasileiro,99.99,Chandon
+2916,Licor Fino Amarula 750ml,149.0,Amarula
+2917,Espetinho Carne Bovina,30.26,La Serra Grill
+2919,Azeitona sem Caroço,8.59,Confiare
+2920,Lasanha Bolonhesa Sadia Caixa,20.99,Sadia
+2924,Pão Alho Tradicional,9.89,Santa Massa
+2925,Baby Picanha Swift Ouro,71.98,Swift
+2927,Bala Dori Yogurte 100,3.89,Dori
+2928,Azeitona com Caroço,7.19,Confiare
+2931,Bebida Láctea Nescafé Smoovlatté,5.59,Nescafé
+2932,Água Mineral Badoit,11.99,Badoit
+2933,Café Solúvel Liofilizado Iguaçu,15.5,Iguaçu
+2935,Pipoca Micro-Ondas Cobertura,4.89,Yoki
+2936,Mostarda Quero Tradicional 190g,2.99,Quero
+2941,Biscoito Cream Cracker Levíssimo,3.39,Bauducco
+2943,Suco Concentrado Maracujá,7.49,Imbiara
+2944,Manteiga Comum Sal,7.59,Litoral
+2945,Bala Goma Dori,2.99,Dori
+2948,Brócolis Swift 300g,5.47,Swift
+2950,Azeitona Preta Fatiada,17.5,Confiare
+2952,Chá Limão Antioxidante,3.69,Leão
+2953,Cereal Infantil Multicereais Nestlé,7.49,Nestlé
+2954,Polpa Congelada Cupuaçu,2.39,Sentir Bem
+2955,Bolo Abacaxi 250g,7.99,Plusvita
+2957,Pão Francês Swift 180g,2.96,Swift
+2958,Espumante Brut Brasileiro,25.99,Terranova
+2959,Bebida Mista Alcoólica Gaseificada,6.39,Smirnoff
+2960,Batata Pré-Frita Palito Congelada,14.99,McCain
+2961,Cerveja IPA Puro Malte,8.09,Maniacs
+2962,Azeitona Preta Caroço,4.69,Confiare
+2964,Aveia Flocos Nestlé,7.89,Nestlé
+2966,Tirinha Frutas Vermelhas,6.29,Dr. Oetker
+2968,Biscoito Cracker Gergelim,6.99,Isabela
+2969,Bolo Baunilha Recheio Gotas,8.39,Casa Suíça
+2970,Óleo Coco Extra,18.5,Dikoko
+2971,Pepinos Vinagre Suave,8.69,Oderich
+2972,Cerveja Pilsen Budweiser Long,2.79,Budweiser
+2973,Hambúrguer Salmão Congelado,25.9,Confiare
+2974,Cachaça Ipê Salinas 700ml,44.99,Salinas
+2976,Biscoito Doce Leite,3.29,Piraquê
+2977,Ojo Bife Swift,64.7,Swift
+2978,Cerveja Pilsen Puro Malte,3.69,Império
+2979,Cerveja Lager Premium Puro,3.89,Bellavista
+2980,Farofa Mandioca,4.69,Yoki
+2981,Linguiça Mista Defumada Fininha,9.29,Perdigão
+2982,Hambúrguer Vegetal Veg &,22.9,Sadia
+2984,Vodka 3x Destilada Montilla,19.99,Montilla
+2985,Mistura Bolo Laranja,5.19,Fleischmann
+2987,Pack Biscoito Crostini Queijo,3.49,Club Social
+2989,Néctar Pêssego Tial Caixa,4.69,Tial
+2990,Biscoito Polvilho Salgado,6.79,Via Delícia
+2991,Pão Forma Tradicional,4.29,Wickbold
+2992,Pêra Ercolini,14.99,Big Hiper
+2993,Coxão Mole Bovino Strogonoff,29.5,Big Hiper
+2994,Mandioca,2.5,Big Hiper
+2995,Escarola Orgânica Maço,6.99,Sentir Bem
+2996,Pack Heinz - Ketchup,19.99,Heinz
+2997,Sal Refinado Confiare Pacote,1.89,Confiare
+2998,Queijo Cottage Tirolez Pote,10.99,Tirolez
+3001,Bolo Baunilha Gotas,1.79,Ana Maria
+3003,Espumante Brasileiro Meio,23.99,Salton
+3004,Espetinho Coração,36.99,Confiare
+3005,Salame Italiano Fatiado,18.99,Sadia
+3006,Queijo Mussarela Soltíssimo Fatiado,11.99,Sadia
+3007,Maionese Light Hellmann's Pote,6.39,Hellmann's
+3008,Alho Picado Confiare Pote,5.69,Confiare
+3014,Bebida Uva Bem,2.49,Do Bem
+3015,Barriga Suína Pedaço Aprox.,9.4,Big Hiper
+3016,Queijo Frescal Ultrafiltrado Light,12.99,Danubio
+3017,Cereal Infantil Aveia,7.39,Nestlé
+3021,Bolo Suíço Clássico Baunilha,23.5,Casa Suíça
+3022,Bombom Alcatra Swift,55.97,Swift
+3023,Gin London Dry Pink,73.99,Gordon's
+3027,Vodka Tridestilada Polak 950ml,14.99,Polak
+3028,Óleo Coco Dikoko,25.99,Dikoko
+3029,Carne Moída Vegetal Congelada,23.5,Fazenda Futuro
+3033,Sorbet Açaí Guaraná,39.99,Frooty
+3034,Vinagre Álcool Composto,4.99,Castelo
+3035,Gin Dry Theros 1l,43.99,Theros
+3036,Suco Maracujá,3.49,Life Mix
+3040,Alcatra Maminha Pedaço,59.4,Big Hiper
+3041,Farinha Mandioca Torrada,8.59,Caldo Bom
+3042,Pão Alho Bolinha,8.9,Zinho
+3045,Batata Frita Ondulada Churrasco,5.49,Elma Chips
+3046,Cerveja Pilsen Antarctica Sub,1.79,Antarctica
+3047,Água Tônica Schweppes Lata,3.09,Schweppes
+3048,Ravioli Carne Massa Leve,10.99,Massa Leve
+3049,Água Tônica Fruki Sabores,4.69,Fruki
+3050,Farinha Mandioca Crua,6.99,Pantera
+3051,Cachaça 7 Campos,6.99,7 Campos de Piracicaba
+3052,Sorvete Grego Tradicional Jundiá,22.99,Jundiá
+3053,Pão Queijo Swift,9.96,Swift
+3054,Snack Páprica Defumada,6.99,Belive Be Free!
+3056,Ravióli Carne Mezzani Bandeja,9.29,Mezzani
+3057,Polpa Congelada Cajú,11.5,Sentir Bem
+3058,Mortadela Perdigão Pacote 400g,7.79,Perdigão
+3059,Chá Frutas Vermelhas,7.99,Yaí
+3060,Bife Lombo Suíno,28.96,Swift
+3061,Suco Laranja Natural,16.5,Natural One
+3063,Linguiça Toscana Apimentada,26.99,Perdigão
+3066,Coco Ralado Úmido Adoçado,3.59,Copra
+3068,Adoçante Líquido Diet Sacarina,6.29,Zero Cal
+3069,Bacon Cubos Seara,10.99,Seara
+3070,Empanada Carne,30.5,Catupiry
+3071,Sorvete Caramelt Fascino Collection,23.5,Jundiá
+3072,Farinha Mandioca Extra,6.09,Pantera
+3073,Tempero Pipoca Cebola,4.27,Sazón
+3075,Filé Peito,21.96,Swift
+3077,Almôndega Soja Seara,21.5,Seara
+3080,Gelato Italiano Abacaxi Francês,30.5,Paviloche
+3081,Bolo Recheado Churros,1.99,Ana Maria
+3082,Pêssego Calda,16.99,Top Chef
+3083,Pasta Amendoim,23.99,Guimarães
+3084,Cerveja Lager Premium Puro,3.39,Tupiniquim
+3086,Queijo Minas Frescal Fazenda,19.5,Fazenda Bela Vista
+3087,Batata Orgânica Bandeja 500g,10.9,Sentir Bem
+3089,Espumante Brut Brasileiro,51.5,Salton
+3090,Pão Sanduíche Pão,5.59,Pão Nino
+3092,Pizza 4 Queijos Trivially,13.99,Trivially
+3094,Linguiça Fininha Defumada LeBon,6.89,LeBon
+3096,Paleta Bovina Resfriada Moída,22.0,Big Hiper
+3097,Bife Copa Lombo,20.99,Big Hiper
+3098,Ketchup Picante Salsaretti Squeeze,8.99,Salsaretti
+3099,Sorvete Abacaxi Francês,21.5,Perfetto
+3100,Hambúrguer Carne,1.99,Perdigão
+3102,Massa Lasanha Tradicional,8.39,Mezzani
+3103,Batata Lisa Sour Cream,6.99,Elma Chips
+3104,Ameixa Nacional 1 Unidade,3.0,Big Hiper
+3105,Sorvete Creme Cremosíssimo Kibon,24.5,Kibon
+3106,Leite Condensado Zero Lactose,5.99,Piracanjuba
+3107,Gin London Dry Bombay,129.0,Bombay Sapphire
+3108,Hambúrguer Sabor Churrasco Sadia,30.99,Sadia
+3109,Biscoito Amanteigado Coco Marilan,7.19,Marilan
+3114,Geleia Uva Tradicional Ritter,15.99,Ritter
+3115,Carré Curto Cordeiro,54.99,Swift
+3118,"Purê Frutas Manga,",4.59,Nestlé
+3120,Fórmula Infantil Soy Nan,79.99,Nestlé
+3121,Bala Caramelo Zero Açúcar,3.79,Fruit-Tella
+3122,"Purê Frutas Banana,",5.69,Nestlé
+3126,Leite Condensado Zero Lactose,6.79,Italac
+3127,Mix Castanha Pará,30.99,Big Hiper
+3130,Pizza Calabresa Congelada,10.5,Maricota
+3131,Bolo Suíço Nozes Casa,3.69,Casa Suíça
+3132,Sorbet Açaí Guaraná,21.5,Frooty
+3133,Polpa Fruta Goiaba,1.69,Polpanorte
+3135,Alga Marinha Hijiki Oriental,39.99,Karui
+3136,Beterraba Orgânica Sentir Bem,8.79,Sentir Bem
+3139,Linguiça Calabresa Defumada Fatiada,7.69,Ceratti
+3141,Alcachofra La Pastina Grelhada,21.9,La Pastina
+3142,Aveia Orgânica Flocos,7.69,Quaker
+3143,Ravióli Recheio Alcachofra Gioiaverde,27.99,Rana
+3145,Batata Palha Tradicional Yoki,3.99,Yoki
+3147,Kiwi Importado,2.0,Big Hiper
+3148,Biscoito Folhado Zezé Pacote,7.59,Zezé
+3149,Queijo Gouda Fatiado Holland,12.5,Holland Kroon
+3150,Maionese Tradicional Hemmer Pote,8.39,Hemmer
+3152,Bolo Mármore Coco,6.79,Seven Boys
+3153,Atum Sólido Óleo,15.99,Robinson Crusoe
+3155,Palmito Pupunha Picado,13.99,Confiare
+3156,Creme Leite Esterilizado,9.69,Nestlé
+3158,Requeijão Cremoso Original Catupiry,13.99,Catupiry
+3159,Café Solúvel Coado Pilão,12.99,Pilão
+3160,Linguica Toscana Fina Swift,19.96,Swift
+3161,Leite Fermentado Activia Café,4.99,Activia
+3162,Torrone Amendoim Montevérgine,2.49,Montevérgine
+3163,Tempero Granulado Tomates Suculentos,3.45,Maggi
+3165,Escondidinho Carne Moída,24.99,Sadia
+3166,Caldo Tablete Galinha,2.29,Maggi
+3167,Farinha Rosca Caldo,6.09,Caldo Bom
+3169,Nhoque Batata Caseiro,13.99,Dona Thereza
+3170,Cerveja American Lager Premium,3.19,Serramalte
+3171,Aveia Flocos Mãe,4.99,Mãe Terra
+3172,Aveia Orgânica Naturnes Nestlé,8.99,Nestlé
+3173,Bala Original Skittles Pacote,5.99,Skittles
+3174,Ketchup Heinz 260g,6.09,Heinz
+3175,Suco Uva Del,4.59,Del Valle
+3176,Biscoito Maisena Isabela Pacote,5.29,Isabela
+3177,Biscoito Roladinho Recheio Goiabinha,3.19,Piraquê
+3178,Aveia Flocos Nestlé,6.69,Nestlé
+3180,Bala Sabor Tutti-Frutti,4.29,Arcor
+3185,Bolo Madeleine Tradicional Paderrí,9.99,Paderrí
+3187,Almôndega Bovina Seara Nature,24.5,Seara
+3188,Suco Goiaba,6.49,Tial
+3191,Filé Salmão,43.99,Confiare
+3192,Requeijão Cremoso Tradicional Catupiry,7.39,Catupiry
+3193,Néctar Uva Tial Kids,1.49,Tial
+3195,Goma Mascar Fresh,10.9,Mentos
+3197,Amido Milho Maizena,9.99,Maizena
+3198,Leite Semidesnatado Rico,5.49,Itambé
+3199,Pimentão Block Laranja,5.79,Trebeschi
+3200,Whisky Jack Daniel's Fire,135.0,Jack Daniel's
+3203,Batata Pré-Frita Palito Congelada,36.99,Sadia
+3204,Granola Multigrãos Aveia,5.49,Quaker
+3205,Cogumelo Shimeji Preto,7.9,Big Hiper
+3206,Cereal Matinal Crunch Nestlé,4.99,Nestlé
+3208,Biscoito Rosquinha Banana,4.99,Mabel
+3209,Fubá Mimoso Kisabor Pacote,2.02,Kisabor
+3210,Chá Camomila Dr. Oetker,6.89,Dr. Oetker
+3212,Sanduíche Congelado X-Burguer Hot,6.49,Seara
+3213,Suco Maçã Natural,2.59,Natural One
+3215,Zaatar Gergelim,27.5,Zeenny
+3216,Whisky Escocês Blended Ballantine's,189.0,Ballantine's
+3217,Chips Pipoca Manteiga,4.79,Roots To Go
+3218,Café Solúvel Granulado Suave,3.79,Nescafé
+3222,Azeitonas Verdes Conserva,9.75,La Pastina
+3227,Hambúrguer Carne Bovina,22.99,Sadia
+3228,Palmito Pupunha,12.99,Confiare
+3229,Salame Sweet Chilli Sadia,3.99,Sadia
+3230,Mamão Formosa,7.99,Big Hiper
+3231,Azeitonas Verdes Fatiadas La,9.99,La Violetera
+3236,Café Solúvel Granulado Tradicional,13.99,3 Corações
+3238,Azeitona Pimentão,11.5,Confiare
+3242,Barra Cereal Coco,7.29,Agtal
+3243,Fondue Queijo Campo,29.9,Campo Lindo
+3245,Pipoca Micro-Ondas Manteiga,1.69,Yoki
+3247,Ovo Codorna,24.99,Hemmer
+3248,Sorvete Baunilha Snickers,26.99,Kibon
+3252,Biscoito Cookie Original Baunilha,2.79,Marilan
+3256,Biscoito Maria Isabela Pacote,5.29,Isabela
+3258,Melância Pingo Doce,26.53,Pingo Doce
+3259,Almôndega Carne Bovina,23.99,Seara
+3260,Azeitona Preta Caroço,7.39,La Violetera
+3261,Lasanha Calabresa Perdigão Caixa,14.5,Perdigão
+3262,Mistura 4 Legumes,6.47,Swift
+3266,Presunto Serrano Fatias Extras,26.23,Haciendas Reserva
+3267,Coco Ralado Desidratado,6.19,Sococo
+3268,Castanha Caju Natural,23.99,Big Hiper
+3272,Mistura Bolo Laranja,10.5,Lowçucar
+3273,Cereal Infantil Milho Mucilon,12.99,Nestlé
+3276,Azeitona com Caroço,17.99,Confiare
+3277,Chips Banana Salgada,6.99,Roots To Go
+3279,Queijo Prato Fatiado Zero,8.49,Lac Lélo
+3280,Iscas Fígado Swift,9.97,Swift
+3282,Pipoca Pronta Cobertura,6.98,Yoki
+3285,Alface Lisa Hidropônica,2.99,Big Hiper
+3286,Cachaça Adoçada Velho Barreiro,11.99,Velho Barreiro
+3288,Sorvete Twix Kibon Pote,26.99,Kibon
+3289,Margarina Manteiga Sal,2.89,Claybom
+3290,Cebola Branca Fugita 400g,4.99,Fugita
+3291,Xarope Artificial Groselha,11.99,Saborama
+3292,Cereal Matinal Milho,10.9,Superbom
+3293,Queijo Mussarela Fatiado Lac,7.69,Lac Lélo
+3295,Lombo Suíno Pro,17.38,Swift
+3296,Queijo Processado UHT Cheddar,9.89,Polenghi
+3297,Bebida Láctea Ameixa Piá,4.99,Piá
+3298,Caldo Tablete,2.39,Knorr
+3300,Cereal Matinal Nestlé Snow,17.5,Nestlé
+3301,Cerveja Lager Premium Puro,4.79,Estrella Galicia
+3302,Suco Uva Prat's,4.29,Prat's
+3303,Sorvete Creme Nobrelli Pote,19.5,Nobrelli
+3305,Capa Filé Big,27.99,Big Hiper
+3306,Sorvete Brigadeiro Moça,24.99,Nestlé
+3309,Fígado Resfriado Bife 800g,21.59,Big Hiper
+3310,Barra Frutas Banana,7.49,Banana Brasil
+3311,Café Solúvel Granulado Extraforte,9.1,Nescafé
+3313,Prime Rib Suíno Premium,19.18,Swift
+3314,"Mocotó Bovino Swift 1,3kg",18.96,Swift
+3315,Farelo Aveia Orgânico,6.99,Nestlé
+3316,Lombo Suíno Pedaço Aprox.,18.89,Big Hiper
+3317,Ovos Grandes Brancos Bampi,12.99,Bampi
+3318,Cerveja Lager Budweiser Garrafa,6.99,Budweiser
+3321,Biscoito Água Sal,5.59,Marilan
+3322,Batata Frita Ondulada Cebola,10.5,Elma Chips
+3323,Massa Pastel Rolo,9.89,Massa Leve
+3326,Pão Tortilha Fit Rap,9.59,Rap 10
+3327,Mistura Bolo Coco,5.19,Fleischmann
+3328,Biscoito Recheio Bombom Marilan,2.89,Marilan
+3330,Suco Maçã Com/Tem Caixa,8.99,Fruki
+3332,Filezinho Peito,24.99,Seara
+3333,Donut Recheada Big Hiper,4.49,Big Hiper
+3337,Cogumelo Shimeji Orgânico,14.99,Zucca
+3339,Bebida Láctea Fermentada,1.69,Piá
+3340,Pack Biscoito Crostini Original,3.99,Club Social
+3341,Vagem Holandesa 200g,10.99,Hortmix
+3345,Água Mineral Bonafont Frozen,2.99,Bonafont Água Leve
+3347,Linguiça Calabresa Perdigão 1kg,36.5,Perdigão
+3348,Açúcar Cristal Guarani Pacote,18.99,Guarani
+3349,Ketchup Tradicional Hellmann's Squeeze,4.89,Hellmann's
+3350,Carne Moída Bovina Músculo,32.99,Big Hiper
+3353,Leite Fermentado Desnatado,9.89,Vigor
+3354,Arroz La Pastina Arborio,12.5,La Pastina
+3356,Azeitona com Caroço,12.5,Confiare
+3358,Biscoito Recheio,6.69,Nestlé
+3360,Tacos Carne Queijo,24.5,Nacho Loco
+3361,Carpaccio Bovino Swift 200g,13.56,Swift
+3362,Lasanha Bolonhesa Seara Caixa,20.99,Seara
+3363,Vinho Nacional Naturelle,59.99,Naturelle
+3365,Óleo Soja Soya,7.59,Soya
+3367,Mistura Bolo Coco,10.9,Linea
+3370,Tempero Pronto Carnes,17.99,Maggi
+3371,Pão Alho Bolinha,14.99,Santa Massa
+3372,Geleia Frutas Vermelhas,11.99,Confiare
+3373,Ravioloni Parmesão Mezzani,8.79,Mezzani
+3375,Abacaxi Calda Cepêra,13.59,Cepêra
+3379,Sorvete Vanilla Ben &,49.99,Ben & Jerry's
+3380,Salada Riviera La Vita,5.99,La Vita
+3382,Queijo Processado UHT Original,4.69,Polenghi
+3383,Cereal Infantil Multicereais Nestlé,12.99,Nestlé
+3384,Azeitonas Verdes Caroço,9.99,La Violetera
+3385,Whisky Escocês Blended Bell's,41.99,Bell's
+3386,"Tempero Pronto Alho, Cebola",5.99,Confiare
+3387,Sobremesa Láctea Flan Baunilha,3.79,Nestlé
+3388,Biscoito Rosquinha Coco Marilan,7.09,Marilan
+3395,Salame Italiano Fatiado Sadia,19.99,Sadia
+3396,Néctar Misto Pêssego Maguary,4.99,Maguary
+3397,Cerveja Weiss Ginjo Prius,22.9,Prius Prime
+3398,Sorvete Milho Sabores,19.99,Jundiá
+3400,Queijo Parmesão Président Plástico,17.99,Président
+3402,Ketchup Tradicional Hemmer Squeeze,14.99,Hemmer
+3404,Bebida Manga Bem,2.49,Do Bem
+3405,Adoçante Líquido Finn Sucralose,11.39,Finn
+3406,Pack Açúcar Cristal Orgânico,3.69,Native
+3407,Sorbet Açaí Banana,22.5,Frooty
+3409,Nectarina Importada,2.0,Big Hiper
+3413,Ervilha Milho,4.29,Knorr
+3415,Pão Queijo Congelado,19.5,Mezzani
+3416,Ravioli 4 Queijos Confiare,8.29,Confiare
+3417,Sorvete Vegetal Caramelo,29.9,NotCo
+3419,Sopa Cebola Maggi Sachê,4.79,Maggi
+3421,Lemon & Herbs Swift,9.87,Swift
+3423,Coco Ralado Adoçado,4.69,Copra
+3424,Azeitona em Conserva,10.5,Raiola
+3425,Pipoca Micro-Ondas Natural,3.19,Yoki
+3426,Coxa Temperada Ervas Finas,13.99,Seara
+3428,Chá Preto Ice Tea,1.79,Leão
+3429,Cerveja Lager Budweiser Lata,2.99,Budweiser
+3430,Néctar Laranja Dafruta Premium,3.99,Dafruta
+3434,Sorvete Paçoca Clássicos Sorveteria,14.99,Jundiá
+3435,Chá Maçã,3.19,Madrugada
+3436,Néctar Misto Pêssego,6.99,Del Valle
+3437,Fettuccine Bolonhesa Seara,8.99,Seara
+3439,Realçador Sabor Umami,6.69,Aji-No-Moto
+3441,Açaí Tradicional Pote 500g,20.99,Polpanorte
+3442,Palmito Pupunha Fettuccine Premium,13.9,Brazilian Palm
+3444,Pão Alho,10.5,Confiare
+3448,Chá Cápsula Hibisco,22.99,Tres
+3449,Folhado Congelado Banana,9.99,Forno de Minas
+3450,Abacate,4.4,Big Hiper
+3451,"Coxão Duro Pedaço 1,2kg",41.99,Big Hiper
+3452,Mistura Bolo Brownie,11.99,Dr. Oetker
+3454,Posta Cação Buona Pesca,33.99,Frescatto
+3457,Limão Tahiti,0.59,Big Hiper
+3458,Manteiga Primeira Qualidade,10.99,Itambé
+3461,Picanha Swift Gran Reserva,163.15,Swift
+3462,Palmito Pupunha,10.99,Confiare
+3464,Salsicha Hot Dog Resfriada,8.5,Perdigão
+3465,Creme Leite Pasteurizado,20.99,Fazenda Bela Vista
+3466,Massa Minipizza Nápoles,7.29,Nápoles
+3468,Néctar Caju Tial Caixa,4.69,Tial
+3469,Cachaça Ouro Ypióca 965ml,19.5,Ypióca
+3473,Fórmula Infantil Lactentes,52.99,Nestlé
+3474,Coxão Mole Bife Bandeja,63.59,Big Hiper
+3475,Alho Triturado Sal,20.99,Nobre
+3476,Bala Goma Dori,2.99,Dori
+3477,Bala Melancia Halls 28g,1.69,Halls
+3480,Sanduíche Congelado X-Picanha Hot,6.49,Seara
+3483,Linguiça Pernil Suíno,19.99,Sabor de Bragança
+3485,Biscoito Cookie Original Bauducco,3.59,Bauducco
+3487,Sanduíche Faroeste Burguer X-Picanha,5.69,Aurora
+3489,Granola Mel Frutas,10.5,Jasmine
+3491,"Chá Verde, Gengibre, Abacaxi",14.5,Dr. Oetker
+3492,Filé Polaca Congelada,34.99,Oceani
+3493,Queijo Tropical Ralado Karmezan,9.98,Karmezan
+3494,Pizza Artesanal Mussarela Catupiry,31.5,Catupiry
+3495,Suco Uva,2.09,Tial
+3497,Coxinha Asa,15.99,Perdigão
+3498,Requeijão Cremoso Light Nestlé,7.89,Nestlé
+3503,Lasanha Presunto,12.99,Aurora
+3508,Biscoito Cookie Amendoim,7.49,Gusman
+3510,Requeijão Cremoso Tradicional Danone,9.29,Danone
+3511,Papinha Orgânica Goiaba &,5.39,Nestlé
+3515,Filé Peito Temperado,19.46,Swift
+3518,Pão Queijo Tradicional,11.99,Confiare
+3520,Goma Mascar Menta,10.99,Trident
+3521,Chá Preto Chá Leão,3.49,Chá Leão
+3523,Requeijão Cremoso Zero Lactose,6.99,Piá
+3525,Massa Congelada Torta,13.99,Arosa
+3526,Biscoito Amanteigado Goiaba,10.5,Biscoitos Adams
+3528,Bala Mentol Extra Forte,3.99,Halls
+3530,Mostarda Oderich Sachê 200g,2.49,Oderich
+3531,Suco Maçã Tial,2.09,Tial
+3532,Chips Batata Rústica,7.49,Mãe Terra
+3535,Amendoim Yoki Pacote 400g,9.99,Yoki
+3537,Pão Alho Bolinha,8.9,Zinho
+3538,Néctar Pêssego Adição,6.09,Del Valle
+3540,Espumante Brut Brasileiro,82.5,Casa Valduga
+3541,Mix Castanha Amigos,8.61,Amigos Do Bem
+3542,Salada Verão Higiênizada Orgânica,8.99,Sentir Bem
+3543,Batata Lisa Clássica Lay's,4.19,Elma Chips
+3545,Agrião Orgânico Maço,2.25,Sentir Bem
+3546,Pack Adoçante Dietético Líquido,19.99,Linea
+3550,Cereal Matinal Duo Nestlé,9.19,Nestlé
+3554,Hambúrguer Mix Cogumelos,23.99,Seara
+3555,Queijo Burrata Búfala,27.99,Bom Destino
+3557,Panettone Frutas Cristalizadas Romanato,8.49,Romanato
+3558,Capeleti 4 Queijos Confiare,9.89,Confiare
+3559,Brócolis Japonês Orgânica Pacote,8.99,Sentir Bem
+3560,Folhado Congelado Presunto,10.99,Forno de Minas
+3561,Seleta Legumes,4.09,Stella D'oro
+3562,Alface Americana La Vita,2.69,La Vita
+3563,Pão Forma Tradicional,4.49,Kim
+3564,Pimenta-Biquinho Conserva Hemmer,16.99,Hemmer
+3565,Bebida Adoçada Maracujá Maguary,4.99,Maguary
+3566,Creme Queijo Ricota,7.99,Tirolez
+3567,Wafer Recheio,1.99,Nestlé
+3569,Biscoito Mucilon Abobrinha,3.99,Nestlé
+3570,Pão Queijo Coquetel,13.99,Forno de Minas
+3571,Bebida Láctea Maçã,5.99,Danone
+3573,Linguica Suína Apimeentada Aperitivo,8.6,Big Hiper
+3574,Mini Kibe Congelado Pré-Frito,22.5,Catupiry
+3575,Mostarda Amarela Arisco Squeeze,3.79,Arisco
+3578,Aceto Balsâmico di Modena,15.39,Mastroiani
+3580,Sorvete Baunilha Tablito,26.99,Kibon
+3581,Biscoito Flocos Passatempo Nestlé,2.79,Nestlé
+3582,Confeito Color Bolinhas Dr.,9.49,Dr. Oetker
+3583,Doce Abóbora,17.5,Predilecta
+3584,Pão Bisnaguinha Panco Originais,6.19,Panco
+3587,Cereal Infantil Multicereais Nestlé,18.99,Nestlé
+3589,Cappuccino Solúvel Baunilha 3,14.99,3 Corações
+3591,Açúcar Cristal Especial Colombo,7.99,Colombo
+3592,Pão Forma Tradicional,3.89,Amalfi
+3593,Linguiça Toscana Aurora 400g,10.0,Aurora
+3595,Salanova Crespa Roxa Pote,3.89,La Vita
+3597,"Sopinha Carne, Legumes",3.59,Nestlé
+3598,Pacottini Presunto Queijo,8.79,Mezzani
+3599,Batata Lisa Mexican Sauce,6.29,Elma Chips
+3602,Queijo Ralado 3 Queijos,18.99,Vigor
+3603,Sorvete Doce Leite,24.99,Vêneto
+3604,Espetinho Linguiça Apimentada,19.96,Swift
+3605,Atum Ralado Óleo,9.19,88
+3606,Cebola Granulada Kitano Sachê,8.59,Kitano
+3607,Granola Salgada Girassol Feinkost,12.5,Feinkost
+3608,Realçador Sabor Aji-Sal,6.09,Aji-No-Moto
+3609,Farinha Matzá M.,29.99,M. Snayde
+3610,Quinoa Cozida Vapor,12.99,Vapza
+3611,Farofa Milho Yoki,4.99,Yoki
+3612,Requeijão Cremoso Zero Lactose,8.99,Catupiry
+3615,Leite Desnatado Latvida Caixa,3.39,Latvida
+3616,Adoçante Líquido Sucralose Linea,4.49,Linea
+3619,Wine Cooler Pêssego Góes,14.9,Góes
+3620,Energético Zero Açúcar Red,10.99,Red Bull
+3621,Bolo Laranja Romanato,5.39,Romanato
+3624,Biscoito Recheio Maracujá Marilan,2.29,Marilan
+3625,Requeijão Cremoso Tradicional Danubio,9.39,Danubio
+3628,Farinha Linhaça,9.59,Jasmine
+3629,Mexilhão Congelado Costa Sul,36.99,Costa Sul
+3630,Azeitona Preta Caroço,8.99,Confiare
+3632,Gergelim Preto Karui Oriental,10.99,Karui
+3634,Alface Roxa Orgânico Sentir,5.99,Sentir Bem
+3635,Fórmula Infantil Lactentes,49.99,Nestlé
+3636,Cerveja Weiss Appia Colorado,11.5,Colorado
+3638,Panceta Suína Temperada Swift,20.98,Swift
+3639,Geléia Pêssego 65%,20.5,Top Chef
+3640,Ameixa Seca Caroço,10.99,Superfruit
+3641,Pão Forma Original,5.99,Wickbold
+3642,Pack Leite Fermentado Desnatado,5.79,Vigor
+3644,Acendedor Pastilha Carvão,9.99,Lumix
+3645,Filé Peito,32.99,Sadia
+3648,Amendoim Dori Japonês Pacote,3.49,Dori
+3650,Bombom Wafer Lacta Sonho,0.94,Lacta
+3659,Rosca Creme Big,23.9,Big Hiper
+3660,Caldo Tablete Galinha,2.55,Arisco
+3663,Pão Queijo Tradicional,20.5,São Geraldo
+3664,Mostarda Mel Sabores,14.5,Sabores Cepêra
+3665,Sorvete Gelato Pistache Artesanal,39.9,Ricreme
+3666,Sopinha Legumes Carne,4.89,Nestlé
+3667,Creme Leite Pasteurizado,9.89,Xandô
+3668,Requeijão Cremoso Tradicional Nestlé,7.89,Nestlé
+3669,Filé Pescadinha Swift,27.96,Swift
+3671,Azeitona sem Caroço,10.5,Raiola
+3674,Cerveja Uruguaiana Salus Patricia,16.99,Patrícia
+3675,Pepino Condimento Suave,9.99,Hemmer
+3677,Suco Frutas Cítricas Del,1.99,Del Valle
+3679,Polpa Acerola Nutricau,1.09,Nutricau
+3682,Nhoque Batata Rana,19.99,Rana
+3683,Confeito Granulado Mesclado Zero,3.99,Dori
+3684,Goma Mascar Menta,13.99,Mentos
+3685,Quibe Congelado Sadia Caixa,28.99,Sadia
+3687,Polpa Congelada Abacaxi,2.89,Sentir Bem
+3688,Bife Filé,22.96,Swift
+3689,Açúcar Refinado Granulado União,3.09,União
+3691,Biscoito Recheado Mousse Limão,2.99,Adria
+3692,Creme Avelã,42.5,Ferrero Rocher
+3693,Biscoito Cream Cracker Triunfo,4.49,Arcor
+3697,Minibolo Laranja Primorata,1.09,Primorata
+3698,Granola Glúten Kobber,32.9,Kobber
+3699,Bolo Laranja Romanato,1.99,Romanato
+3700,Cappuccino Solúvel Descafeinado 3,11.99,3 Corações
+3701,Cubos Pernil Suíno,16.97,Swift
+3703,Fermento Biológico Seco Instantâneo,0.98,Mauri
+3704,Maionese Vegetal Azeitona Preta,11.99,NotCo
+3710,Carne Moída Bolonhesa Swift,17.86,Swift
+3711,Medalhão Picanha Swift,58.47,Swift
+3714,Cogumelo Champignon Inteiro,9.39,Gomes da Costa
+3716,Néctar Pêssego Adição,4.99,Maguary
+3717,Suco Laranja Maçã,8.99,Fruki
+3720,Geleia Goiaba Diet Queensberry,17.5,Queensberry
+3722,Abacaxi Calda Rodelas,14.5,Oderich
+3724,Filé Merluza Pampa,17.99,Pampa Fish
+3725,Feijão Vermelho Conserva,6.39,Knorr
+3726,Farinha Aveia Orgânica,5.99,Mãe Terra
+3727,Hambúrguer Carne Bovina,22.99,Seara
+3728,Vodka Tridestilada Taiga Platinum,21.5,Taiga
+3730,Néctar Misto Uva,6.09,Del Valle
+3732,Seleta Legumes,5.19,Bonduelle
+3734,Sorvete Coco Trufado Variatta,21.5,Perfetto
+3735,Escarola Sítio Hiromi Maço,3.29,Sitio Hiromi
+3736,Quentão Brasileiro Campo Largo,13.5,Campo Largo
+3738,Cachaça Carvalho Cana Brazil,67.5,Cana Brazil
+3739,Proteína Texturizada Soja,10.9,Jasmine
+3740,Mistura Bolo Coco,5.89,Dr. Oetker
+3742,Cerveja Double IPA Citrus,16.9,Tupiniquim
+3743,Sopa Individual Cremosa Queijo,1.19,Vono
+3744,Massa Pastel,6.59,Massa Leve
+3746,Pimentão Sweet Palermo Orgânico,12.9,Sentir Bem
+3747,Queijo Cream Cheese Tradicional,5.99,Polenghi
+3748,Nhoque Batata Confiare,7.99,Confiare
+3750,Linguiça Pernil Ervas Swift,18.96,Swift
+3751,Suco Uva,14.99,Natural One
+3752,Mini Tangerina Importada,7.89,Big Hiper
+3753,Mexerica Rio,0.39,Big Hiper
+3756,Mistura Bolo Bombocado,9.65,Dr. Oetker
+3759,Chá Limão Framboesa,17.5,Twinings
+3760,Anel Lula Congelado,29.99,DellMare
+3761,Costela Bovina Quadrada Congelada,82.48,Big Hiper
+3762,Adoçante Líquido Sweet Natural,9.59,Linea
+3763,Margarina Sal Light,8.49,Qualy
+3764,Cereal Infantil 5 Cereais,7.39,Nestlé
+3765,Sorvete Bombom Jundiá Pote,18.99,Jundiá
+3767,Cebola Tempero Fugita,5.79,Fugita
+3769,Pão Queijo Amanteigado,15.99,Qualy
+3770,Creme Leite UHT,2.99,Italac
+3771,Barra Cereal Nuts,3.99,Nutsbar
+3772,Vinagre Fruta Maçã,2.48,Belmont
+3773,Suco Uva Del,12.99,Del Valle
+3774,Linguiça Pernil,18.96,Swift
+3775,Sorvete Baunilha Häagen-Dazs,49.99,Häagen-Dazs
+3776,Granola Tradicional Jasmine Pouch,10.5,Jasmine
+3777,Yakisoba Seara Caixa 500g,18.99,Seara
+3779,Vinagre Maçã Castelo,6.29,Castelo
+3780,Mel Flora Néctar Pote,20.5,Flora Néctar
+3782,Pinha,5.4,Flamboia
+3783,Geleia 100% Fruta Amora,18.5,Queensberry
+3788,Maionese Hellmann's Pote 335g,7.79,Hellmann's
+3794,Tempero Lemon Pepper Xa,10.9,Xa
+3795,Leite Condensado Moça Zero,9.99,Nestlé
+3796,Mini Brownie Avelãs,2.89,Jacquet
+3802,Alface Crespa Orgânico Maço,5.99,Sentir Bem
+3803,Queijo Frescal Ultrafiltrado Polenghi,7.69,Polenghi
+3804,Mugunzá Canjica Amarela Cozida,7.99,Vapza
+3805,Néctar Todo Sabor Abacaxi,3.09,Cy
+3807,Tempero Alho Sal,12.5,Aji-No-Moto
+3809,Uva Clara Semente,11.5,Big Hiper
+3810,Fórmula Infantil Lactentes,53.5,Nestlé
+3811,Couve-Flor Florete Congelada D'aucy,6.49,D'aucy
+3812,Bolo Mesclado Romanato Pacote,1.99,Romanato
+3813,Filé Mignon Suíno,19.99,Seara
+3814,Pack Biscoito Pão,3.89,Marilan
+3819,Batata Frita Ondulada Cebola,4.09,Yoki
+3822,Sopa Individual Cremosa Mandioquinha,2.79,Vono
+3824,Ketchup Habanero Pimenta,10.5,Cepêra
+3826,Amendoim Doce Pralinê Yoki,10.5,Yoki
+3829,Pão Queijo Congelado,13.99,Forno de Minas
+3835,Vieira Limpa Congelada Frescatto,59.99,Frescatto
+3837,Cerveja Malzbier Brahma Long,4.49,Brahma
+3838,Chá Laranja,5.99,Natural Tea
+3839,Bolo Toons Sabor Baunilha,1.29,Isabela
+3840,Leite Semidesnatado Piracanjuba Caixa,5.09,Piracanjuba
+3843,Bisteca Suína Congelada Aprox.,13.79,Big Hiper
+3844,Açúcar Cristal Confiare Pacote,16.99,Confiare
+3845,Bebida Láctea UHT Coco,6.49,Yopro
+3846,Bebida Alcoólica Gaseificada Ice,4.79,Popokelvis
+3848,Pão Forma Panco,6.29,Panco
+3849,Queijo Mussarela Light Sandwich-In,9.89,Polenghi
+3850,Suco Pink Limonade,11.99,Natural One
+3852,Vodka 5x Destilada Orloff,34.99,Orloff
+3853,Adoçante Culinário Adocyl Sacarina,14.79,Adocyl
+3855,Cereal Infantil Milho Mucilon,7.49,Nestlé
+3856,Doce Leite,5.99,Mu-Mu
+3857,Pimentão Colorido Embalado,12.99,Big Hiper
+3859,Geléia Framboesa 60%,20.5,Top Chef
+3860,Tainha Fresca Inteira 1kg,26.99,Big Hiper
+3862,Pão Francês Queijo,25.9,Big Hiper
+3863,Polpa Congelada Acerola,11.5,Sentir Bem
+3865,Ervilha Conserva Predilecta,2.39,Predilecta
+3867,Ervilha Conserva Suave,3.79,Bonduelle
+3868,Lasanha Quatro Queijos Sadia,11.99,Sadia
+3869,Bife Patinho,38.96,Swift
+3872,Biscoito Água Sal,7.49,Zezé
+3873,Suco Maçã Natural,6.59,Natural One
+3875,Mandioquinha,3.6,Big Hiper
+3877,Escondidinho Mandioca,25.97,Swift
+3882,Cereal Matinal Corn Flakes,20.99,Kellogg's
+3884,Queijo Gruyère Vigor Pacote,13.5,Vigor
+3885,"Sorrentino Ricota Fresca, Parmesão",14.5,Forno de Minas
+3887,Espumante Brut Brasileiro,28.5,Garibaldi
+3889,Café Solúvel Granulado Forte,6.49,Nescafé
+3890,Suco Laranja Del Valle,1.49,Del Valle
+3891,Tempero Base,12.5,Hondashi
+3892,Filé Atum,14.5,Gomes da Costa
+3893,Cogumelo Shitake Microondas Nayumi,12.99,Nayumi
+3895,Feijão Preto Cozido,12.21,Vapza
+3900,Espumante Rosé Chileno La,52.99,La Moneda
+3901,Pizza Artesanal Calabresa,22.96,Swift
+3902,Óleo Coco,41.9,Purilev
+3904,Pão Sovado Kim Pacote,9.99,Kim
+3905,Pipoca Doce Beija Flor,2.19,Beija Flor
+3912,Atum Sólido Óleo,7.29,Gomes da Costa
+3914,Adoçante Líquido Magro Frasco,2.89,Magro
+3915,Massa Pizza Brotinho,5.99,Massa Leve
+3917,Picanha Congelada Cortes Suínos,31.99,Sadia
+3918,Peito Bovino Pedaço Aprox.,38.99,Big Hiper
+3920,Mistura Pão,9.09,Dr. Oetker
+3922,Rolinhos Wafer Baunilha,2.29,Barion
+3925,Torta Mousse Limão Congelada,34.99,Sadia
+3926,Laranja Lima Disney Lucato,9.99,Big Hiper
+3928,Suco Laranja Natural,8.99,Big Hiper
+3931,Pão Queijo Tradicional,13.99,Forno de Minas
+3932,Fermento Biológico Seco Instantâneo,3.39,Fleischmann
+3934,Massa Pastel Fresca,2.69,Massa Leve
+3935,Biscoito Recheio Bauny Marilan,2.99,Marilan
+3938,Suco Concentrado Goiaba,6.69,Maguary
+3940,Vodka Askov Blueberry Remix,18.99,Askov
+3941,Azeitona Sem Caroço,13.99,Confiare
+3942,Goma Mascar Menta,3.99,Trident
+3945,Queijo Ralado Regina Pacote,10.5,Regina
+3946,Queijo Tropical Ralado Karmezan,6.99,Karmezan
+3947,Pipoca Pronta Caramelizada Leite,2.49,Magitlec
+3948,Creme Queijo Ricota,5.09,Lac Lélo
+3949,Mistura Bolo Festa,4.75,Fleischmann
+3950,Queijo Parmesão Fracionado Tirolez,27.99,Tirolez
+3951,Geleia Damasco Homemade,17.5,Homemade
+3953,Espumante Brasileiro Natural,47.99,Terranova
+3954,Leite Semidesnatado Piá Caixa,3.89,Piá
+3956,Bebida Mista Adoçada Gaseificada,3.69,Leão
+3957,Kiwi Gold,2.8,Big Hiper
+3959,Tempero Carnes Toque,4.39,Sazón
+3960,Óleo Girassol Confiare,12.6,Confiare
+3962,Mostarda Amarela Tradicional Hellmann's,6.09,Hellmann's
+3963,Bicarbonato Sódio Kitano,4.19,Kitano
+3965,Uva Passa Escura,5.79,Big Hiper
+3967,Sanduíche Congelado X-Burguer Hot,7.99,Sadia
+3969,Pimenta-do-Reino Preta Grãos,4.39,Kitano
+3970,Mini Biscoito Palito Misto,8.89,Trench
+3971,Gin London Dry Bosford,53.99,Bosford
+3976,Creme Chantilly Fleischmann Caixa,25.99,Fleischmann
+3977,Bala Gelatina Boca,3.99,Dori
+3979,Manteiga Sal Becel,9.75,Becel
+3981,Mostarda Amarela Cepêra Squeeze,11.5,Sabores Cepêra
+3983,Lasanha 4 Queijos Swift,11.47,Swift
+3984,Grão-de-Bico Cozido Vapor,8.29,Vapza
+3985,Melão Orange,33.0,Big Hiper
+3988,Coxão Duro Bovino 1kg,41.5,Big Hiper
+3990,Fraldinha Bovina 1953 Peça,34.0,1953
+3991,Chocottone Mini M&M'S Bauducco,9.99,Bauducco
+3992,Suco Mamão,10.5,Natural One
+3993,Dianteiro Bovino Jerked Beef,29.5,Paineira
+3994,Kit Suco 1 Laranja,17.99,Life Mix
+3995,Néctar Pêssego Maguary Stevia,4.99,Maguary
+3996,Pão Bisnaguinha Tradicional Zero,5.69,Pullman
+4000,Pipoca Pronta Doce Caramelizada,8.99,Elma Chips
+4003,Espumante Brasileiro Brut,21.5,Santa Colina
+4004,Suco Prensado,19.99,Greenpeople
+4005,Wafer Recheio,1.19,Trento
+4006,Biscoito Água Sal,4.69,Triunfo
+4007,Açúcar Refinado Granulado,8.09,União
+4008,Rondelli Quatro Queijos Dona,18.99,Dona Thereza
+4009,Cerveja Lager Puro Malte,4.99,Império
+4010,Vodka Destilada Wyborowa Wybo,48.99,Wyborowa
+4012,Snack Cebola Caramelizada,6.99,Belive Be Free!
+4013,Glicose Squeeze Frasco 350g,12.9,Yoki
+4014,Cerveja Witbier Praya Garrafa,12.99,Praya
+4016,Massa Lasanha Confiare,9.49,Confiare
+4017,Manteiga Margarina,16.99,Vigor
+4018,Pão Hambúrguer Panco,7.29,Panco
+4022,Leite Semidesnatado Zero Lactose,5.39,Itambé
+4024,Wafer Recheio,4.89,Lacta
+4025,Néctar Abacaxi Maguary Caixa,4.49,Maguary
+4028,Azeitona em Conserva,10.99,La Violetera
+4030,Caldo Tablete Galinha,2.39,Knorr
+4031,Cappuccino Solúvel Classic 3,16.99,3 Corações
+4033,Morcela Branca Excelsior Bisnaga,6.19,Excelsior
+4038,Sonho Frito Creme,3.59,Big Hiper
+4040,Champignon Fatiado Swift 300g,9.96,Swift
+4041,Isotônico Maracujá Gatorade Garrafa,3.89,Gatorade
+4045,Sopão Galinha Caipira Knorr,9.29,Knorr
+4046,Pêssego Importado,19.99,Big Hiper
+4047,Amêndoa Laminada 150g,3.07,Big Hiper
+4048,Pasta Amendoim Crocante,10.9,Pic-Me
+4051,Achocolatado Flocos Crocantes Ovomaltine,14.5,Ovomaltine
+4055,Hambúrguer Carne,1.99,Sadia
+4056,Filé Peito,19.99,Sadia
+4062,Licor Stock Classic Cacau,47.5,Stock
+4063,Risoto Milanês Tio João,6.89,Tio João
+4064,Castanha Cajú Torrada,24.9,Big Hiper
+4066,Pão Queijo Congelado,18.99,Catupiry
+4067,Sorvete Oreo Pote 1l,25.5,Oreo
+4068,Energético Juice Khaos Monster,7.99,Monster
+4069,Sal Grosso Chimichurri,12.96,Swift
+4070,Limão Siciliano,2.4,Big Hiper
+4071,Cogumelo Chileno Seco Companhia,16.9,Companhia das Ervas
+4072,Ervilha Congelada Fina D'aucy,9.49,D'aucy
+4074,Biscoito Cookie Laka Lacta,3.19,Lacta
+4076,Queijo Ralado Tradicional Kunzler,15.5,Kunzler
+4079,Manteiga Sal Santa,14.99,Santa Clara
+4080,Tábua Frios Ceratti,43.99,Ceratti
+4081,Pastilha Menta Tic,7.99,Tic Tac
+4082,Açúcar Cristal Cristalçúcar Clássicos,15.99,União
+4083,Mac'n Cheese Cheddar &,13.5,Sadia
+4085,Coquetel Alcoólico Red Fruits,5.59,Rayslof Camarote
+4086,Contra Filé Swift Aprox.,65.94,Swift
+4088,Polpa Fruta Acerola,1.89,Polpanorte
+4091,Ravióli Recheio Ricota,24.99,Rana
+4093,Caldo Tablete Galinha,1.09,Arisco
+4098,Batata Inteira Cozida,10.5,Vapza
+4100,Bebida Cranberry Zero Açúcar,10.99,Yaí
+4102,Mini Pão Francês Tradicional,6.99,Brico Bread
+4105,Pão Hambúrguer,5.59,Kim
+4106,Biscoito Recheio Leite Condensado,3.99,Nestlé
+4109,Margarina Sal Delícia,4.19,Delícia
+4110,Suco Laranja Tial,4.69,Tial
+4111,Geleia Amora Homemade,20.49,Homemade
+4114,Pêssegos Calda Crochemore,9.69,Crochemore
+4120,Barra Proteína Amendoim,12.5,Banana Brasil
+4122,Kit Cappuccino Cápsulas,39.99,3 Corações
+4123,Biscoito Recheio Brigadeiro Recheadinho,2.19,Bauducco
+4124,Queijo Parmesão Ralado Fino,3.69,Parmézzo
+4125,Queijo Gruyère Fracionado Cruzília,10.99,Cruzília
+4126,Massa Soja Shiro,18.9,Sakura
+4127,Doce Banana Mariola,8.99,Guimarães
+4129,Café Leite Solúvel,15.99,3 Corações
+4132,Empanadas Queijo,11.99,Top Chef
+4133,Leite Desnatado Italac Caixa,3.19,Italac
+4134,Confeito Menta Mentos Pacote,6.39,Mentos
+4135,Fondue Queijo Santa,28.9,Santa Clara
+4136,Sorvete Doce Leite,48.5,Häagen-Dazs
+4137,Abobrinha Branca Kg,11.5,Big Hiper
+4140,Biscoito Cookie Castanha-de-Caju Cobertura,7.09,Belive Be Free!
+4142,Açúcar Refinado Clássicos União,17.99,União
+4143,Melão Rei,15.78,Big Hiper
+4144,Espumante Brasileiro Rosé Demi-Sec,24.99,Saint Germain
+4145,Lasanha Bolognese Seara Gourmet,27.5,Seara
+4147,Chá Camomila Barão,4.99,Barão de Cotegipe
+4148,Meio Asa,32.99,Super Frango
+4149,Água Coco Esterilizada,9.49,Do Bem
+4150,Isotônico Uva Gatorade Garrafa,3.99,Gatorade
+4157,Creme Aceto Balsâmico,26.9,Top Chef
+4159,Creme Leite UHT,3.99,Nestlé
+4161,Atum Ralado Óleo,6.99,Gomes da Costa
+4163,Granola Kobber Zero Pacote,23.9,Kobber
+4164,Cogumelo Porto Belo Vivere,17.99,Vivere Santé
+4166,Salada Atum,9.99,Gomes da Costa
+4167,Creme Galinha Knorr Sachê,7.59,Knorr
+4169,Banana Terra,2.19,Big Hiper
+4170,Bolo Laranja Café,12.99,Casa Suíça
+4171,Mistura Bolo,2.89,Dr. Oetker
+4172,Rum Brasileiro Carta Ouro,26.99,Montilla
+4173,Fraldinha Bovina Resfriada Peça,39.99,Friboi
+4175,Filé Salmão Top,89.99,Top Chef
+4177,Bolo Mesclado Romanato Panetteria,6.99,Romanato
+4178,Batata Chips Vinagre,6.99,Elma Chips
+4181,Maionese Cremosa Gourmet Sachê,3.19,Gourmet
+4184,Ovo Vermelho Grande Caipira,12.9,Gralha Azul
+4186,Feijão Preto Confiare Pacote,8.99,Confiare
+4187,Geleia Abacaxi,14.9,Homemade
+4194,Pack Goma Mascar,7.69,Trident
+4196,Espumante Brasileiro Demi-Sec,28.5,Garibaldi
+4197,Mix Sementes Remix,5.89,Mãe Terra
+4198,Leite Desnatado Terra Viva,3.59,Terra Viva
+4199,Seleta Vegetais La,7.99,La Vita
+4202,Pão Caseiro Milho Panco,9.89,Panco
+4203,Bolinho Laranja Seven Boys,0.99,Seven Boys
+4204,Coxinha Asa Congelada,16.99,Nat
+4205,Leite Coco,4.29,Mais Coco
+4208,Azeitona Preta Conserva,14.99,Confiare
+4210,Geleia Frutas Vermelhas Classic,17.99,Queensberry
+4211,Margarina Cremosa Sal,7.19,Qualy
+4214,Ovos Brancos Grandes Categoria,8.59,Confiare
+4215,Tiras Pernil Suíno,15.96,Swift
+4216,Açúcar Cristal Cristalçúcar União,3.49,União
+4218,Maionese Heinz Tradicional 400g,16.5,Heinz
+4219,Sopa Legumes,6.29,Kisabor
+4221,Filé Panga Frescatto,27.5,Frescatto
+4222,Ovinhos Amendoim Flami'n,6.49,Elma Chips
+4224,Mix Especiarias,8.79,Carmencita
+4225,Rum Brasileiro Flavored Big,39.99,Bacardi
+4226,Realçador Sabor Umami,5.99,Aji-No-Moto
+4227,Palito Bambu Fiat Lux,1.89,Fiat Lux
+4228,Manteiga Búfala,21.99,Bom Destino
+4229,Mandioca Cozida Vapor,13.5,Vapza
+4232,Kani Kama Pescanova Caixa,18.99,Pescanova
+4233,Creme Avelã,18.99,Linea
+4235,Costelinha Suína Premium Swift,27.97,Swift
+4236,Chá Cápsula Capim-Cidreira,17.99,3 Corações
+4237,Whisky Escocês Blended Red,84.9,Johnnie Walker
+4239,Biscoito Mix,3.19,Nestlé
+4242,Conhaque Gengibre Dreher,18.5,Dreher
+4243,Pepino Snack Doce Sentir,5.99,Sentir Bem
+4245,Cachaça Adoçada 51 350ml,6.49,51
+4246,Café Premium Intensidade Máxima,10.9,Nescafé
+4248,Lasanha Presunto Queijo,12.5,Mezzani
+4252,Mistura Bolo Laranja,5.89,Dr. Oetker
+4254,Caldo Tablete Galinha,3.05,Maggi
+4256,Ketchup Tradicional Predilecta Squeeze,4.89,Predilecta
+4258,Aveia Flocos Grossos,7.69,Nestlé
+4260,Biscoito Maisena Zabet Pacote,5.29,Zabet
+4261,Cebola Crispy Swift 170g,14.92,Swift
+4262,Pipoca Doce Camu-Camu Orgânica,8.09,Mãe Terra
+4263,Leite Condensado Semidesnatado Triangulo,6.69,Triângulo Mineiro
+4266,Chá Capim-Cidreira Chá Leão,6.89,Chá Leão
+4267,Néctar Laranja Maguary Caixa,4.99,Maguary
+4268,Acelga Orgânico Maço,6.99,Sentir Bem
+4269,Creme Avelã Crocante,20.99,Ovomaltine
+4270,Pão Alho Bolinha,15.5,Santa Massa
+4271,Biscoito Luna Zezé Pacote,6.19,Zezé
+4272,Maçã Red Importada,1.88,Big Hiper
+4274,Biscoito Marilan Maisena Pacote,5.39,Marilan
+4276,Margarina Cremosa Sal,7.19,Qualy
+4277,Paçoca Rolha Guimarães Pote,13.5,Guimarães
+4278,Cerveja Lager Puro Malte,3.89,Heineken
+4279,Orégano Kitano Pacote 10g,4.49,Kitano
+4280,Coxão Mole Bovino Resf,35.39,Big Hiper
+4281,Amendoim Japonês Elma Chips,5.69,Elma Chips
+4282,Leite Fermentado Desnatado Ameixa,14.99,Activia
+4284,Biscoito Água Tostines Nestlé,3.69,Nestlé
+4285,Bala Tutti Frutti Ácido,5.29,Haribo
+4286,Salteado Legumes Swift,19.96,Swift
+4295,Canelone Quatro Queijos Dona,18.99,Dona Thereza
+4298,Pão Hot-Dog Original,6.19,Wickbold
+4300,Cerveja Lager Budweiser Garrafa,3.99,Budweiser
+4301,Creme Queijo Frescal,5.99,Danubio
+4305,Hortelã Orgânico Maço,5.99,Sentir Bem
+4306,Pipoca Pronta Caramelo Yoki,6.97,Yoki
+4308,Biscoito Salgado Petisk Queijo,2.39,Zezé
+4309,Goma Mascar Tutti,13.99,Mentos
+4311,Chá Preto Ice Tea,5.99,Lipton
+4312,Azeitonas Verdes Recheadas,13.5,La Violetera
+4313,Mix 7 Grãos Cozido,7.29,Vapza
+4316,Barra Frutas,7.29,Banana Brasil
+4317,Bala Chicle Dori Bolete,3.99,Dori
+4318,Sorvete Grego Triplo Jundiá,22.99,Jundiá
+4320,Cachaça Cristalina Salinas 700ml,35.99,Salinas
+4321,Suplemento Alimentar Nutren Beauty,70.99,Nestlé
+4322,Atum Ralado Óleo,6.09,Pescador
+4323,Bala Regaliz Sortida Recheio,4.09,Dori
+4325,Barra Banana,3.09,Banana Brasil
+4329,Cerveja Pilsen Schin Lata,3.09,Schin
+4331,Sorvete Grego Cobertura Frutas,27.9,Jundiá
+4333,Broinha Milho Congelada,6.99,Forno de Minas
+4335,Chips Batata-Doce Teriyaki,5.59,Roots To Go
+4337,Semente Linhaça Dourada,11.5,Mãe Terra
+4338,Lasanha Bolonhesa Sadia Caixa,11.99,Sadia
+4339,Shimeji Aica Sache,6.99,Big Hiper
+4342,Suco Concentrado Caju,3.99,Maguary
+4343,Palmito Pupunha,12.99,Confiare
+4344,Espumante Espanhol Gran,90.99,Freixenet
+4346,Alho,1.15,Big Hiper
+4347,Bala Framboesa Dori,2.59,Dori
+4348,Rum Brasileiro Carta Branca,26.99,Montilla
+4349,Leite Condensado Semidesnatado Italac,3.99,Italac
+4350,Bacon Mini Santa Clara,15.6,Santa Clara
+4351,Recupera Reidrata Citrus,9.99,Engov
+4352,Bombom Nuts,9.49,Banana Brasil
+4355,Açúcar Cristal Orgânico Guarani,5.49,Guarani
+4356,Sorvete Clássico Magnum Mini,35.99,Kibon
+4357,"Pacu Inteiro Fresco 2,5kg",43.75,Big Hiper
+4358,Palmito Pupunha Toletes,16.9,NeoFoods
+4360,Azeitona Fatiada Raiola,8.19,Raiola
+4361,Chá Limão Siciliano,3.89,Yaí
+4366,Mistura Bolo Fubá,5.19,Fleischmann
+4367,Queijo Provolone Defumado Fatiado,9.09,Lac Lélo
+4369,Chá Cápsula Nature's,28.5,Nescafé
+4370,Espetinho Carne Bovino,27.9,Confiare
+4371,Espumante Brasileiro Brut,15.99,Aurora
+4372,Pêssego Calda Metades,10.5,Petitosa
+4373,Wafer Recheio,4.89,Lacta
+4376,Polpa Congelada Abacaxi,9.69,Sentir Bem
+4377,Bolinho Cobertura Napolitano Ana,1.79,Ana Maria
+4378,Néctar Goiaba Maguary Caixa,4.49,Maguary
+4379,Pastilha Menta Zero,10.5,Mentos
+4383,Confeito Sortidos Dr. Oetker,16.5,Dr. Oetker
+4385,Chips Batata-Doce Mostarda,5.59,Roots To Go
+4386,Maionese Aioli Hellmann's Pote,8.99,Hellmann's
+4392,Ervilha Milho,2.55,Predilecta
+4396,Adoçante Líquido Linea Stevia,9.19,Linea
+4397,Suco Verde Prensado,13.99,Greenpeople
+4401,Linguiça Carne Bovina,32.96,Swift
+4402,Cerveja Lager Heineken Long,4.59,Heineken
+4404,Sopa Individual Abóbora,3.99,Vono
+4405,Ovinhos Amendoim Elma,6.49,Elma Chips
+4406,Sorvete Limão Mousse Kibon,22.99,Kibon
+4407,Alface Mimosa Orgânica Pacote,5.99,Sentir Bem
+4410,Massa Pastel Mezzani,7.99,Mezzani
+4412,Energético Safadão Garrafa 2l,5.99,Safadão
+4413,Pêra Asiática,2.6,Big Hiper
+4415,Néctar Pêssego Izzy,3.99,Izzy
+4417,Fermento Biológico Seco Instantâneo,6.99,Fleischmann
+4418,Flocos Amaranto Orgânico,15.9,Jasmine
+4419,Sorvete Tentação Clássicos Sorveteria,14.99,Jundiá
+4422,Néctar Tangerina Maguary Adoçado,4.99,Maguary
+4425,Torrada Especial 10 Grãos,5.99,Wickbold
+4427,Mostarda Amarela Americana Hemmer,5.69,Hemmer
+4429,Café Cápsulas Latte,22.99,Tres
+4430,Farofa Mandioca Bacon,4.09,Caldo Bom
+4432,Coquetel Alcoólico Marula Free,32.99,Free Afrika
+4434,Polpa Açaí Nutricau,1.99,Nutricau
+4435,Cebolinhas Conserva Hemmer,19.99,Hemmer
+4436,Granola Mistura Flocos,32.5,Mãe Terra
+4437,Tempero Granulado Alho &,3.45,Maggi
+4438,Queijo Cottage Campo,9.89,Verde Campo
+4439,Medalhão Baby Beef,29.36,Swift
+4440,Lombo Bacalhau Dessalgado,105.0,Top Chef
+4441,Mix Legumes Caribenha,6.99,D'aucy
+4442,Granola Nuts Jordans Pouch,19.98,Jordans
+4443,Sorvete Flocos Cremosíssimo Kibon,24.5,Kibon
+4444,Água Coco Esterilizada,2.99,Kero Coco
+4445,Flocos Cereais Neston,19.5,Nestlé
+4446,Cupim Bovino Resfriado Friboi,43.19,Friboi
+4447,Amido Milho Novas,11.5,Yoki
+4449,Coxinha Asa,19.99,Perdigão
+4451,Costela Suína Congelada Temperada,75.99,Seara
+4452,Sorvete Cupuaçu Trufado,15.9,Whaka
+4453,Salaminho Seara Pacote 300g,25.05,Seara
+4455,Pepino Conserva Confiare,12.99,Confiare
+4456,Bife Chorizo Swift,34.98,Swift
+4459,Óleo Milho Confiare,13.57,Confiare
+4462,Tempero Pronto Aves,17.99,Maggi
+4463,Picanha Bovina Resfriada Bordon,83.85,Bordon
+4464,Tempero Completo Pimenta,4.39,Sabor a Mi
+4465,Alface Lisa,2.19,Big Hiper
+4466,Chá Camomila Dr. Oetker,2.99,Dr. Oetker
+4468,Canjão Maggi Sachê 200g,6.99,Maggi
+4470,Cerveja Amber Lager Patagonia,5.99,Patagonia
+4472,Paçoca Rolha Zero Açúcar,7.5,Guimarães
+4473,Suco Uva Xandô,5.49,Xandô
+4475,Pão Bisnaguinha Original Seven,5.29,Seven Boys
+4476,Atum Ralado Natural,4.75,88
+4477,Queijo Gouda Fracionado Cruzília,10.99,Cruzília
+4478,Pão Bisnaguinha Brioche Pullman,6.99,Pullman
+4479,Óleo Composto Soja,14.99,Maria
+4480,Sorvete Creme Baunilha,24.99,Vêneto
+4483,Wafer Recheio,4.29,Hershey's
+4485,Patê Atum Gomes,9.99,Gomes da Costa
+4486,Maionese Tradicional Liza Pote,3.79,Liza
+4487,Pé Moleque Torradinha,6.19,Guimarães
+4488,Nhoque Batata Pré-Cozido,9.89,Romena
+4495,Pão Mel Lambertz,12.99,Lambertz
+4496,Polpa Manga Nutricau,1.09,Nutricau
+4497,Cerveja Lager Puro Malte,2.39,Amstel
+4499,Queijo Frescal Ultrafiltrado Polenghi,19.56,Polenghi
+4500,Espumante Rosé Brut Brasileiro,28.5,Garibaldi
+4501,Café Solúvel Granulado Suave,6.49,Nescafé
+4504,Biscoito Maracujá Chia,4.59,Jasmine
+4505,Cerveja Lager Premium Stella,3.99,Stella Artois
+4506,Flocos Cereais Neston,8.79,Nestlé
+4507,Becel Original Sal,4.99,Becel
+4508,Coco Ralado Úmido Adoçado,5.39,Sococo
+4509,Chocottone Gotas,15.99,Visconti
+4512,Becel Original Sal,9.39,Becel
+4514,Gergelim Karui Pacote,8.49,Karui
+4515,Banana Prata,1.3,Big Hiper
+4516,Mistura Bolo Laranja,9.09,Dr. Oetker
+4517,Kit Sopão La Vita,8.99,La Vita
+4519,Pão Preto Zero Bonavie,6.79,Bonavie
+4520,Filé Tilápia Empanado,38.96,Swift
+4521,Filé Peito,24.99,Sadia
+4522,Queijo Processado UHT Light,5.69,Polenghi
+4524,Pão Queijo Coquetel,3.12,Big Hiper
+4525,Biscoito Wafer Recheio Limão,2.29,Marilan
+4527,Pão Italiano 350g,8.89,Big Hiper
+4528,Carne Moída Bovina Coxão,45.99,Big Hiper
+4529,Suco Abacaxi Del,5.89,Del Valle
+4530,Açafrão Terra Villa,16.5,Villa Cerroni
+4532,Sorvete Flocos Jundiá Pote,18.99,Jundiá
+4534,Salsicha Hot Dog Lebon,7.39,LeBon
+4535,Massa Lasanha Renata,7.59,Renata
+4536,Sorvete Flocos Tradicional Nestlé,16.5,Nestlé
+4537,Seleta Legumes,4.19,Knorr
+4541,Linguiça Paio Defumada Perdigão,17.5,Perdigão
+4542,Cerveja Lager Bad Moose,14.9,Blondine
+4545,"Confeito Frutas Mentos 37,5g",2.69,Mentos
+4546,Marmelada Predilecta Lata 600g,20.5,Predilecta
+4547,Linguiça Paio Sadia Plástico,17.5,Sadia
+4548,Filé Peito,19.6,Copacol
+4549,Azeitona Preta Fatiada,9.79,Confiare
+4551,Banana Crocante Liofilizada Jasmine,7.29,Jasmine
+4555,Salada Baby Summer Pacote,7.99,La Vita
+4557,Água Natural Bioleve,1.29,Bioleve
+4559,Açaí Banana Pote 500g,16.9,Polpanorte
+4563,Whisky Escocês Blended Grand,149.9,Grand Old Parr
+4565,Azeitona Fatiada,8.99,Confiare
+4568,Néctar Manga Tial Caixa,4.59,Tial
+4569,Capeletti 4 Queijos Mezzani,9.29,Mezzani
+4571,Pack Barra Proteína,12.99,Banana Brasil
+4574,Suco Goiaba,11.5,Prat's
+4575,Pernil Suíno Osso,8.0,Big Hiper
+4576,Queijo Burrata Búfala,18.5,Búfalo Dourado
+4578,Mistura Mousse,7.09,Dr. Oetker
+4581,Coquetel Alcoólico Composto Catuaba,10.99,Taimbé
+4582,Mistura Creme,5.29,Aji-No-Moto
+4584,Mistura Bolo Cenoura,3.69,Orquídea
+4588,Sorvete Tapioca,15.9,Whaka
+4589,Especiarias Churrasco Kitano,3.25,Kitano
+4590,Azeitona Gordal,14.99,Confiare
+4591,Amêndoa Caramelizada Confiare Pote,21.99,Confiare
+4593,Tempero Carnes Toque,4.39,Sazón
+4594,Peito Aves Cozido,11.99,Perdigão
+4595,Fraldinha Swift Gran Reserva,116.94,Swift
+4596,Sorvete Leite Trufado Perfetto,19.99,Perfetto
+4599,Maionese Azeitonas Verdes,3.69,Kisabor
+4601,Pizza Lombo Requeijão,19.99,Sadia
+4602,Bolo Mousse Limão,3.99,Santa Edwiges
+4603,Chá Hortelã Real Multiervas,2.85,Real Multiervas
+4606,Mix Pimentas Swift,19.96,Swift
+4607,Batata Palha Extrafina Parmesão,5.29,Yoki
+4612,Cachaça Saliníssima Garrafa 670ml,34.99,Saliníssima
+4613,Carvão Briquetes Arco-Iris Pacote,15.99,Arco-Íris
+4614,Pizza Congelada Mussarela,14.99,Aurora
+4615,Tomate Sweet Heaven Granel,0.27,Big Hiper
+4616,Picanha Suína Temperado Swift,20.98,Swift
+4617,Pipoca Pronta Orgânica Nupoca,8.59,Mãe Terra
+4620,Gin Amázzoni 750ml,169.0,Amázzoni
+4621,Pão Mel,7.29,Klain
+4626,Postas Bacalhau Dessalgado,89.99,Riberalves
+4627,Bolo Suíço Avelãs &,16.5,Casa Suíça
+4632,Hambúrguer Mix Carne,1.49,LeBon
+4634,Pão Hot-Dog Kim,6.99,Kim
+4635,Burrito Costelinha Barbecue,7.99,Nacho Loco
+4637,Gin & Tonic Tanqueray,16.99,Tanqueray
+4638,Tempero Completo Kitano Copo,5.19,Kitano
+4639,Manga Espada,5.6,Big Hiper
+4642,Pão Alho Baguete,10.99,Zinho
+4645,Pão Queijo Tradicional,5.49,Confiare
+4647,Pão Queijo Super,36.5,Forno de Minas
+4650,Suco Laranja Turma,3.49,Life Mix
+4651,Purê Frutas Manga,4.99,Pic-Me
+4652,Pastilhas Sabor Menta Zero,10.9,Mentos
+4654,Leite Coco Tradicional,5.19,Sococo
+4655,Filé Mignon Suíno,22.99,Seara
+4656,Cebola Orgânica,8.99,Sentir Bem
+4657,Tempero Baiano Kitano Sachê,5.79,Kitano
+4658,Cerveja Pilsen Kaiser Lata,2.39,Kaiser
+4659,Leite Semidesnatado Latvida Leite,3.39,Latvida
+4660,Bolinhos Bacalhau Temperado,22.99,Riberalves
+4661,Biscoito Recheio Doce,2.29,Nestlé
+4664,Goma Mascar Tutti,1.79,Trident
+4666,Aveia Flocos Finos,8.99,Jasmine
+4667,Açaí Congelado Banana,11.5,Frooty
+4668,"Vodka Destilada Smirnoff 1,75l",59.99,Smirnoff
+4671,Filé Mignon Bovino Medalhão,19.8,Friboi
+4673,Cerveja Ipa Puro Malte,5.39,Baden Baden
+4674,Azeitona em Conserva,6.49,Hemmer
+4676,Manteiga Margarina,17.5,Vigor
+4679,Sopa Individual Cremosa Abóbora,2.29,Vono
+4682,Flocos Milho Pré-Cozidos,3.69,Quaker
+4683,Pirulito Recheio,4.99,7 Belo
+4684,Açúcar Demerara Barra,4.79,Da Barra
+4687,Lombo Suíno Tiras,18.99,Seara
+4689,Primavera Mix La Vita,4.89,La Vita
+4690,Milho em Conserva,2.35,Predilecta
+4692,Massa Tapioca Nordeste,10.99,Nordeste
+4693,Tapioca Hidratada Lopes Pacote,6.99,Lopes
+4694,Geleia Pimenta Homemade,17.5,Homemade
+4695,Linguiça Calabresa Tradicional Sadia,11.95,Sadia
+4696,Doce Leite Pia,8.19,Piá
+4697,Azeitona em Conserva,14.5,Raiola
+4698,Quinoa Grãos Orgânico,22.99,Jasmine
+4699,Mistura Pão Chia,7.39,Famiglia Venturelli
+4700,Lombo Bacalhau Dessalgado,79.99,Top Chef
+4701,Kit 2 Achocolatados,30.99,Nestlé
+4702,Massa Pizza Mezzani,6.99,Mezzani
+4703,Confeito Tutti Frutti Mentos,2.69,Mentos
+4704,Isotônico Limão Gatorade Garrafa,3.99,Gatorade
+4705,Açafrão-da-Terra Kitano Sachê 50g,9.49,Kitano
+4708,Copa Fatiada Sadia 100g,15.99,Sadia
+4709,Azeitona sem Caroço,16.99,Top Chef
+4710,Água Coco Esterilizada,2.49,Do Bem
+4712,Leite Fermentado Desnatado Lactobacilos,12.5,Yakult
+4714,Couve Manteiga La Vita,4.99,La Vita
+4715,Biscoito Coco Tostines,3.49,Nestlé
+4718,Ovos Brancos 6 Unidades,4.89,Big Hiper
+4719,Bolo Abacaxi Pullman Pacote,7.59,Pullman
+4726,Cogumelo Porto Belo,7.9,Big Hiper
+4728,Espumante Brasileiro Brut,34.99,Conde Foucald
+4729,Burrito Carne Queijo,7.99,Nacho Loco
+4731,Biscoito Recheio,2.69,Nestlé
+4732,Café Solúvel Liofilizado Classique,21.5,L'or
+4734,Ovo Vermelho Grande Becker,16.99,Becker
+4735,Suco Uva Maçã,2.99,Natural One
+4738,Lombo Bacalhau Dessalgado,115.0,Riberalves
+4739,Paçoquinha Tradicional DaColônia Pote,7.89,DaColônia
+4741,Atum Sólido Óleo,8.49,Robinson Crusoe
+4744,Queijo Processado UHT Prato,10.5,Polenghi
+4745,VVinho Brasileiro JP,46.99,JP
+4746,Pipoca Micro-Ondas Manteiga,3.19,Yoki
+4747,Whisky Escocês Blended Green,259.0,Johnnie Walker
+4748,Filé Mignon Suíno Aprox.,29.95,Swift
+4749,Queijo Prato Esférico Fracionado,13.99,Cruzília
+4750,Bananada Predilecta 600g,17.9,Predilecta
+4751,Sal Refinado Light Lebre,6.69,Lebre
+4753,Coco Ralado Úmido Adoçado,5.09,Mais Coco
+4755,Pão Queijo,17.5,Brico Bread
+4758,Castanha-de-Caju Torrada Triturada,21.9,Amigos Do Bem
+4760,Presunto Fatiado Seara Pacote,9.49,Seara
+4761,Chá Preto Ice Tea,3.29,Leão
+4762,Espumante Português Rosé Brut,70.99,Mateus
+4764,Snack Pão Sírio,3.89,Pita
+4767,Pasta Box Pipe Rigate,17.99,Sodebo
+4768,Margarina Sal +,6.89,Delícia
+4770,Açaí Frooty Kibon Fruttare,9.0,Kibon
+4775,Geléia Damasco Queensberry Classic,17.99,Classic
+4777,Cerveja IPA Maniacs Garrafa,8.49,Maniacs
+4778,Cerveja Pale Ale Puro,5.29,Eisenbahn
+4779,Néctar Laranja Maguary Caixa,1.19,Maguary
+4782,Pão Sanduíche Wualibread,3.99,Marsala
+4783,Chá Capim-Cidreira Dr. Oetker,3.99,Dr. Oetker
+4784,Fubá Milho,3.49,Caldo Bom
+4786,Açúcar Refinado Guarani Pacote,19.99,Guarani
+4787,Pipoca Doce Pronta,8.59,Mãe Terra
+4788,Pão Hambúrguer,8.99,Pullman
+4789,Cerveja Lager Ribeirão Colorado,5.99,Colorado
+4790,Chips Batata-Doce Pic-Me Pacote,6.59,Pic-Me
+4791,Polpa Congelada Manga,11.99,Sentir Bem
+4793,Barra Tapioca,6.99,Kobber
+4796,Carne Moída Patinho Swift,39.93,Swift
+4800,Abóbora Japonesa,4.94,Big Hiper
+4804,Cachaça Tradicional 51 965ml,14.99,51
+4807,Caldo Tablete Legumes,3.09,Knorr
+4808,Mistura Bolo Baunilha,5.89,Dr. Oetker
+4809,Espumante Brasileiro Moscatel,24.99,Saint Germain
+4811,Atemoia,9.72,Big Hiper
+4814,Biscoito Leite Maltado Piraquê,3.69,Piraquê
+4815,Sanduíche X-Faroeste Burguer Grelhado,5.69,Aurora
+4816,Queijo Ralado Mimoo Pacote,3.89,Mimoo
+4820,Queijo Camembert Vigor Caixa,14.5,Vigor
+4821,Biscoito Água Sal,5.19,Piraquê
+4826,Picanha Swift Bronze Aprox.,89.94,Swift
+4827,Patê Presunto Sadia,3.29,Sadia
+4830,Bife Lagarto Empanado,44.96,Swift
+4831,Fermento Biológico Seco Instantâneo,8.19,Dr. Oetker
+4832,Linguiça Calabresa Defumada Perdigão,17.5,Perdigão
+4833,Mini Torta Limão,7.96,Swift
+4834,Bebida Adoçada Maracujá Del,1.99,Del Valle
+4836,Goma Mascar Cereja,2.09,Trident
+4837,Sorbet Abacaxi Body,19.9,Whaka
+4839,Massa Pastel Massa,5.89,Massa Leve
+4841,Tempero Completo Toque,4.39,Sabor a Mi
+4844,Mix Pera Maçãs,12.99,Aurora
+4845,Leite Condensado Linea Sucralose,19.5,Linea
+4846,Minibolo Baunilha,11.5,Jacquet
+4847,Filé Coxa,26.99,Korin
+4851,Pão Queijo Tradicional,13.99,Bão de Minas
+4852,Pão Cranberry Quinoa,7.79,Nutrella
+4854,Massas Caseiras Gravata Confiare,7.99,Confiare
+4855,Manteiga Margarina,15.99,Amélia
+4859,Pimentão Vermelho,3.75,Big Hiper
+4860,Kit Gin Rosé Premium,77.5,Jim Beam
+4862,Atum Pedaços,7.79,Robinson Crusoe
+4864,Creme Aceto Balsâmico,8.69,Top Chef
+4867,Chá Maçã Canela,4.99,Barão de Cotegipe
+4868,Pão Milho Bisnaguito,6.99,Pullman
+4870,Sorvete Trio Clássicos Vêneto,25.5,Vêneto
+4871,Filé Salmão Premium,79.96,Swift
+4874,Cerveja Pilsen Antarctica Sub,2.99,Antarctica
+4875,Sorvete Flocos Vêneto Pote,25.5,Vêneto
+4876,Mistura Sopa,6.59,Maggi
+4878,Purê Frutas Banana,3.39,Pic-Me
+4881,Bala Butter Toffes Menta,4.89,Arcor
+4882,Sorvete Abacaxi Sabores,20.99,Jundiá
+4883,Creme Leite Esterilizado,5.89,Nestlé
+4884,Tempero Carnes Sazón,4.39,Sazón
+4887,Requeijão Cremoso Queijo,5.29,Qualy
+4888,Caldo Tablete Picanha,2.39,Knorr
+4889,Chá Jabuticaba Zero,7.99,Yaí
+4891,Brigadeiro Dr. Oetker Pote,13.99,Dr. Oetker
+4893,"Mix Amêndoas, Uva-Passas,",19.99,Confiare
+4896,Queijo Mussarela Fatiado Lac,23.99,Lac Lélo
+4897,Amendoim Japonês Dori Pacote,4.49,Dori
+4900,Gin Old Ton nº,229.99,Tanqueray
+4901,"Pack Biscoito Recheio Queijo,",3.19,Club Social
+4902,Creme Chantilly Dr. Oetker,7.19,Dr. Oetker
+4905,Linguiça Toscana Pimenta-Biquinho,25.5,Perdigão
+4906,Aveia Orgânica Flocos,7.99,Quaker
+4907,Milho em Conserva,3.29,Bonduelle
+4908,Abóbora Japonesa Orgânica Bandeja,9.99,Sentir Bem
+4910,Cerveja India Pale Ale,11.5,Colorado
+4911,Whisky Old No. 7,159.9,Jack Daniel's
+4913,Whisky White Label Dewars,63.99,Dewar's
+4914,Pastilha Laranja Tic,7.99,Tic Tac
+4915,Pack Leite Fermentado Desnatado,8.39,Nestlé
+4919,Pão Filão Big Hiper,9.95,Big Hiper
+4920,Bolo Baunilha Coco,2.29,Panco
+4923,Massas Caseiras Talharim N°2,7.99,Confiare
+4924,Creme Queijo Ricota,6.99,Tirolez
+4925,Gin London Dry Intencion,20.99,Intencion
+4926,Energético Elev Lata 269ml,6.49,Elev
+4927,Creme Cebola,5.39,Maggi
+4928,Farofa Mandioca Kisabor,5.39,Kisabor
+4929,Marrom-Glacê Predilecta Lata 350g,6.29,Predilecta
+4931,Farinha Empanar Ervas,5.19,Sazón
+4932,Sobremesa Láctea Chantilly,5.89,Nestlé
+4936,Chips Batata-Doce Azeite,6.39,Roots To Go
+4937,Noz-Moscada Kitano Pacote 8g,6.59,Kitano
+4939,Amêndoas Cobertura,10.5,Montevérgine
+4942,Wafer Recheio,2.39,Peccin
+4943,Bife Alcatra Bovino,50.5,Big Hiper
+4944,Mortadela Fatiada Bologna,9.49,Ceratti
+4945,Cerveja Lager Brahma Chopp,3.49,Brahma Chopp
+4949,Lasanha Quatro Queijos Forno,13.99,Forno de Minas
+4952,Salada Italiana Orgânica 100g,7.99,Sentir Bem
+4954,Achocolatado Solúvel Brown Cow,8.99,Brown Cow
+4955,Pêra D Anjou,1.8,Big Hiper
+4956,Grão Bico Longa,12.99,Vapza
+4957,Maçã Granny Smith,2.5,Big Hiper
+4961,Goma Mascar Menta,5.49,Trident
+4962,Biscoito Polvilho Doce,4.19,Record
+4964,Sopa Cebola Vono Chef,6.39,Vono
+4966,Linguiça Carne,32.96,Swift
+4969,Bolo Baunilha Recheio Baunilha,3.19,Ana Maria
+4970,Filé Cação,18.9,Frescatto
+4971,Aveia Flocos Grãos,3.49,Yoki
+4972,Costela Suína Temperada Swift,23.18,Swift
+4973,Whisky Escocês Blended Black,55.99,Black & White
+4977,Carvão Zippy Pacote 5kg,19.99,Zippy
+4978,Bebida Adoçada Frutas Cítricas,6.59,Tampico
+4979,Almôndega Vegetal Glúten,23.5,Fazenda Futuro
+4980,Pack Biscoito 5,3.49,Club Social
+4983,Requeijão Cremoso Tradicional Vigor,6.19,Vigor
+4984,Maminha Bovina Big Hiper,53.5,Big Hiper
+4985,Azeitonas Verdes Conserva,9.99,La Violetera
+4986,Espumante Italiano Prosecco Extra,44.99,Il Poggio Dei Vigneti
+4987,Goma Mascar Canela,2.39,Trident
+4988,Camarão Pré Cozido Descascado,44.97,Swift
+4990,Brócolis Florete La Vita,6.99,La Vita
+4991,Lombo Salmão Kosher,99.0,Frescatto
+4995,Quinoa Flocos Orgânica,22.99,Jasmine
+4997,Sorvete Chiclete Tutti Frutti,25.99,Vêneto

@@ -1,0 +1,117 @@
+id,name,price,brand
+1,Óleo Milho Tipo,12.99,Soya
+42,Arroz Japonês Tipo 1,35.99,Momiji
+65,Óleo Soja Tipo,7.89,Cocamar
+78,Arroz Tio João,9.99,Tio João
+86,Farinha Mandioca Tipo,3.99,Yoki
+92,Óleo Girassol Tipo,11.5,Salada
+138,Arroz Caldo Bom Grãoes,8.59,Caldo Bom
+146,Milho Pipoca Tipo,4.89,Yoki
+150,Ovos Brancos Tipo Grande,13.5,Big Hiper
+159,Farinha Arroz Tio,6.99,Tio João
+351,Leite Arroz Coco,15.5,RisoVita
+358,Arroz Premium Pantera,27.99,Pantera
+377,Feijão Carioca Orgânico Tipo,15.5,Mãe Terra
+432,Feijão Carioca Tipo 1,7.99,Broto Legal
+636,Cereal Infantil Arroz,12.99,Nestlé
+677,Milho Pipoca Tipo,16.99,Yoki
+684,Arroz Parboilizado Integral Tipo,7.39,Uncle Bens
+697,Arroz Caldo Bom Grãos,12.5,Caldo Bom
+702,Mingau Arroz Aveia,4.79,Nutrimental
+750,Arroz Caldo Bom 8,12.5,Caldo Bom
+883,Arroz Parboilizado Tipo 1,6.59,Tio João
+888,Arroz Parboilizado Tipo 1,19.79,Camil
+896,Arroz Carreteiro Cozinha &,6.69,Tio João
+923,Arroz Caldo Bom Negro,30.5,Caldo Bom
+964,Tapioca Tipo 1 Yoki,11.99,Yoki
+986,Farinha Mandioca Tipo,8.79,Yoki
+1018,Óleo Girassol Tipo,11.99,Liza
+1026,Óleo Canola Tipo,14.5,Salada
+1033,Arroz Tipo 1,24.99,Prato Fino
+1109,Arroz Parboilizado Tipo 1,11.99,Ráris
+1128,Arroz Parboilizado Tio João,7.99,Tio João
+1188,Arroz Caldo Bom 10,12.5,Caldo Bom
+1199,Ovos Vermelhos Tipo Grande,16.99,Confiare
+1220,Cereal Infantil Arroz Mucilon,12.99,Nestlé
+1226,Feijão Carioca Tipo 1,7.29,Malú
+1235,Arroz Parboilizado Tipo 1,5.69,Prato Fino
+1310,Arroz 7 Grãos,8.49,Tio João
+1340,Óleo Milho Tipo,13.99,Salada
+1345,Óleo Soja Tipo,7.89,Liza
+1412,Feijão Vermelho Tipo 1,10.99,Combrasil
+1422,Arroz Parboilizado Tipo 1,5.19,Buriti
+1443,Arroz Polido Tipo,16.99,Carreteiro
+1447,Feijão Carioca Tipo 1,9.89,Combrasil
+1455,Arroz Tipo 1,16.99,Meu Biju
+1613,Arroz Polido Tipo 1,14.28,Camil
+1674,Feijão Preto Tipo 1,9.29,Meu Biju
+1720,Leite Arroz Amêndoas,17.5,RisoVita
+1766,Frango Assado Arroz,8.59,Sadia
+1847,Milho Pipoca Tipo,4.49,Yoki
+1848,Queijo Tipo Grana Lascas,19.99,Gran Formaggio
+1910,Arroz 7 Grãos,12.99,Ráris
+1928,Lentilha Tipo 1 Tordilho,7.59,Tordilho
+2152,Ovos Brancos Tipo Grande,7.99,Big Hiper
+2160,Feijão Preto Premim Tipo,8.59,Fritz & Frida
+2175,Farinha Mandioca Tipo,9.99,Yoki
+2180,Linguiça Tipo Calabresa Nobre,51.98,Nobre
+2275,Arroz Parboilizado Tipo 1,9.39,Tio João
+2414,Arroz Arbório Tipo 1,11.99,Caldo Bom
+2434,Arroz Curry Cozinha,6.39,Tio João
+2472,Óleo Milho Tipo,12.99,Liza
+2608,Arroz 7 Grãos,15.5,Ráris
+2682,Feijão Preto Tipo 1,6.99,Pé Vermelho
+2709,Arroz Tipo 1,18.99,Blue Ville
+2712,Feijão Vermelho Tipo 1,9.29,Caldo Bom
+2760,Queijo Tipo Chèvre Vegano,27.9,Nomoo
+2861,Feijão Carioca Tipo 1,6.29,Caldo Bom
+2900,Macarrão Oriental Arroz,11.99,Karui
+2904,Arroz Polido Tipo 1,25.99,Pilecco Nobre
+2913,Arroz Tipo 1,3.39,Confiare
+3012,Óleo Canola Tipo,15.99,Purilev
+3030,Feijão Preto Tipo 1,8.19,Caldo Bom
+3064,Arroz Integral Orgânico Tipo,7.39,Mãe Terra
+3270,Vinagre Cereal Arroz,6.29,Castelo
+3284,Feijão Carioca Tipo 1,6.59,Nene
+3338,Arroz Parboilizado Namorado 1kg,3.99,Namorado
+3342,Ovos Vermelhos Tipo Grande,22.5,Confiare
+3414,Arroz Tipo 1,4.99,Prato Fino
+3484,Arroz 7 Grãos,11.99,Ráris
+3501,Arroz Tipo 1,3.95,Camil
+3600,Arroz Funghi Tio,7.99,Tio João
+3647,Feijão Carioca Tipo 1,9.79,Caldo Bom
+3686,Feijão Cavalo Tipo 1,7.99,Caldo Bom
+3718,Arroz Polido Tipo 1,5.19,Pilecco Nobre
+3801,Óleo Canola Tipo,11.99,Liza
+3818,Arroz Namorado 1kg,5.99,Namorado
+3851,Arroz Aromático Jasmine Tio,19.99,Tio João
+3903,Arroz Parboilizado Namorado 5Kg,19.99,Namorado
+3908,Sagu Tipo 1 Caldo,6.59,Caldo Bom
+3916,Arroz Tipo 1,24.5,Camil
+3955,Arroz Parboilizado Tipo 1,3.79,Blue Ville
+3968,Feijão Carioca Tipo 1,5.99,Paulistinha
+3997,Arroz Tipo 1,16.99,Confiare
+4037,Arroz Arbório Tipo 1,16.99,La Pastina
+4099,Arroz Tipo 1,6.18,Camil
+4115,Óleo Girassol Tipo,16.99,Soya
+4118,Arroz Basmati Tio João,19.99,Tio João
+4146,Arroz Camil 7 Cereais,15.99,Camil
+4155,Queijo Tipo Cottage Zero,11.99,Tirolez
+4174,Arroz Parabolizado Tipo 1,17.99,Confiare
+4192,Arroz Tipo 1,6.89,Pantera
+4195,Feijão Preto Tipo 1,7.65,Camil
+4259,Leite Pasteurizado Homogeneizado Tipo,5.99,Xandô
+4299,Farinha Mandioca Tipo,6.39,Yoki
+4334,Feijão Carioca Tipo 1,6.99,Camil
+4365,Arroz Tipo 1,8.59,Blue Ville
+4399,Leite Pasteurizado Homogeneizado Tipo,5.99,Xandô
+4458,Leite Pasteurizado Homogeneizado Tipo,5.99,Fazenda Bela Vista
+4513,Leite Pasteurizado Homogeneizado Tipo,7.49,Xandô
+4539,Arroz Parboilizado Tipo 1,7.99,Ráris
+4717,Óleo Canola Tipo,12.5,Soya
+4727,Sagu Tipo 1 Yoki,7.19,Yoki
+4766,Arroz Arborio Tipo 1,19.99,La Pastina
+4772,Ovo Tipo Grande,15.5,Confiare
+4856,Arroz Tipo 1,18.99,Meu Biju
+4865,Arroz Parboilizado Tipo 1,19.99,Flora Zari
+4946,Arroz 100% Grãos Nobres,28.99,Tio João

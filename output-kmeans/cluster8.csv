@@ -1,0 +1,278 @@
+id,name,price,brand
+16,Vinho Tinto Chileno Reserva,99.0,Casillero del Diablo
+39,Vinho Rosé Brasileiro Frisante,15.99,Vivant
+80,Vinho Tinto Francês Cuvée,39.99,Cave de Ladac
+98,Vinho Tinto Brasileiro Del,14.99,Del Grano
+99,Vinho Tinto Chileno Carmenere,47.99,Santa Rita
+136,Vinho Chileno Rosé Orgânico,79.99,Adobe
+144,Vinho Tinto Argentino Puente,26.99,Puente de Piedra
+161,Vinho Rosé Português Mateus,52.99,Mateus
+167,Vinho Chileno Reserva,37.99,Casillero del Diablo
+199,Vinho Rosé Português JP.,46.99,J.P. Azeitão
+213,Vinho Tinto Português Olaria,36.99,Olaria
+246,Vinho Italiano Soave,56.99,Natale Verga
+249,Vinho Tinto Brasileiro Saint,22.99,Saint Germain
+256,Vinho Tinto Argentino Caballero,74.9,Finca Flichman
+257,Vinho Chileno Tinto Carménère,64.99,Viña de La Costa
+265,Vinho Chileno Sauvignon,31.99,Panul
+273,Vinho Tinto Chileno Santa,89.99,Santa Ema
+286,Vinho Brasileiro Chalise,15.99,Chalise
+294,Vinho Tinto Argentino Malbec,57.99,Aimé
+309,Vinho Tinto Argentino Roca,34.99,Casa de Tango
+312,Vinho Espanhol Tinto Castillo,36.99,Castillo de Liria
+355,Vinho Chileno Tinto Suave,37.99,Reservado
+370,Vinho Tinto Chileno Emiliana,67.5,Emiliana
+396,Vinho Tinto Chileno Pinot,37.99,La Moneda
+401,Vinho Tinto Africa,72.99,KWV
+405,Vinho Brasileiro Tinto Seco,26.99,Da Casa
+477,Vinho Português Tinto Lua,47.99,Lua Alentejano
+481,Vinho Tinto Português Alabastro,70.99,Alabastro
+502,Vinho Tinto Espanhol 2017,59.99,Condado de Oriza
+526,Vinho Rosé Chileno SuaveValle,37.99,Reservado
+531,Vinho Rosé Espanhol Rosado,29.99,Gran Viña
+543,Vinho Tinto Chileno Merlot,29.99,Nucos Rapaz
+562,Vinho Tinto Português Reguengos,109.0,Reguengos
+610,Vinho Italiano Tinto Meio,70.99,Corbelli
+617,Vinho Tinto Brasileiro Collina,10.9,Collina Del Sole
+624,Vinho Chileno Chardonnay,29.9,Cono Sur
+629,Vinho Chileno,49.99,Casal Mendes
+640,Vinho Brasileiro Original,25.9,Jurupinga Dinalle
+658,Vinho Tinto Argentino Trapiche,47.99,Trapiche
+673,Vinho Tinto Chileno Reserva,36.99,Santa Ema
+688,Vinho Tinto Chileno Carménère,19.99,La Moneda
+704,Vinho Tinto Brasileiro Mioranza,14.5,Mioranza
+813,Vinho Argentino Benjamin,39.99,Nieto Senetiner
+821,Vinho Tinto Italiano Rosso,28.9,Tavernello
+824,Vinho Argentino White,74.99,Trivento
+890,Vinho Italiano Tinto Corbelli,70.99,Corbelli
+943,Vinho Tinto Francês Raoul,99.99,Raoul Clerget
+965,Vinho Tinto Chileno Cabernet,23.99,Santa Carolina
+971,Vinho Tinto África,93.99,KWV
+995,Vinho Chileno Tinto Rio,36.99,Rio Rica
+1014,Vinho Chileno Tinto Seco,149.0,Marques de Casa Concha
+1027,Vinho Chileno Meio,37.99,Concha y Toro
+1036,Vinho Tinto Malbec Ruca,109.0,Ruca Malen
+1051,Vinho Francês Tinto Charles,48.99,Charles Rousseau
+1064,Vinho Português Moura,29.99,Moura Bastos
+1067,Vinho Rosé Português Moura,21.5,Moura Bastos
+1088,Vinho Tinto Italiano Montepulciano,56.99,Natale Verga
+1103,Vinho Tinto Brasileiro Granja,26.99,Granja União
+1108,Vinagre Vinho Tinto,5.49,Castelo
+1146,Vinho Rosé Português Calamares,50.99,Calamares
+1152,Vinho Tinto Brasileiro Vino,19.5,Vino di Bartolo
+1155,Vinho Brasileiro Demi-Sec,25.99,Garibaldi
+1184,Vinagre Vinho,5.49,Castelo
+1191,Vinho Tinto Chileno Reserva,60.99,Gato Negro
+1196,Vinho Português Casal,63.99,Casal Garcia
+1206,Vinho Brasileiro Tinto Original,14.9,Góes
+1221,Vinho Tinto Chileno 2018,19.9,Quilina
+1233,Vinho Português Calamares,50.99,Calamares
+1278,Vinho Africano Rosé KWV,40.99,KWV
+1279,Vinho Tinto Italiano Piemonte,44.99,Il Poggio Dei Vigneti
+1289,Vinho Tinto Português Reserva,44.99,Moura Bastos
+1299,Vinho Brasileiro Origem,45.5,Origem
+1305,Vinho Tinto Brasileiro Country,13.99,Country Wine
+1318,Vinho Tinto Português Original,70.99,Periquita
+1330,Vinho Tinto Brasileiro Reservado,32.99,Classic
+1415,Vinho Brasileiro Frisante,29.99,Almadén
+1436,Vinho Tinto Argentino Reserve,169.0,Salentein
+1438,Vinho Português Gazela,44.99,Gazela
+1440,Vinho Chileno Tinto Reserva,44.99,Panul
+1472,Vinho Chileno Reserva,37.99,Casillero del Diablo
+1474,Vinho Tinto Chileno Single,35.99,Valle de Atacama
+1529,Vinho Tinto Brasileiro Reserva,29.99,Mioranza
+1553,Vinagre Vinho Tinto,5.79,Toscano
+1579,Vinho Tinto Espanhol Oro,87.99,Pata Negra
+1595,Vinho Argentino Tinto Aimé,57.99,Aimé
+1608,Vinho Português Fonseca,99.0,White Porto
+1617,Vinho Tinto Chileno Panul,57.99,Panul
+1625,Vinho Brasileiro Seco,26.99,Granja União
+1626,Vinho Português Grão,36.99,Grão Vasco
+1656,Vinho Português Clássico,52.99,Ermelinda
+1660,Vinho Português Seco,57.9,Quinta do Castro
+1663,Vinho Brasileiro Chardonnay,37.99,Salton
+1680,Vinho Tinto Chileno Santa,44.99,Santa Carolina
+1689,Vinho Português Frisante,31.99,Faisão
+1691,Vinho Tinto Chileno Panul,57.99,Panul
+1701,Vinho Argentino Santa,23.9,Santa Ana
+1703,Vinho Tinto Chileno Malbec,54.99,Los Coches
+1714,Vinho Brasileiro Campo,16.43,Campo Largo
+1745,Vinho Chileno Tinto Seco,129.0,Marques de Casa Concha
+1765,Vinho Tinto Chileno Quilina,32.99,Quilina
+1773,Vinho Tinto Português Azeitão,46.99,JP
+1774,Vinho Argentino Tinto Merlot,34.99,Ventus
+1806,Vinho Tinto Francês Seduction,47.99,Paris
+1807,Vinho Português Tinto JP,17.99,JP
+1826,Vinho Rosé Chileno Reservado,37.99,Santa Carolina
+1837,Vinho Uruguaio Tinto Suave,29.99,Los Teros
+1853,Vinho Brasileiro Assemblage,21.5,Saint Germain
+1862,Vinho Tinto Chileno Quilina,42.99,Quilina
+1897,Vinho Tinto Chileno Pinot,66.99,Valle de Leyda
+1944,Vinho Tinto Chileno Reserva,62.99,Casillero del Diablo
+1970,Vinho Tinto Chileno Malbec,31.99,Panul
+1972,Vinho Tinto Italiano Frisante,37.99,Villa Fabrizia
+1981,Vinho Tinto Português Dão,33.99,Moura Bastos
+2024,Vinho Tinto Chileno Pinot,47.99,Santa Rita
+2050,Vinho Português Vinha,33.99,Ermelinda
+2053,Vinho Brasileiro Chardonnay,15.99,Vivant
+2084,Vinho Argentino Roble,42.99,Finca Flichman
+2109,Vinho Chileno Tierruca,39.99,Errazuriz
+2118,Vinho Brasileiro Assemblage,26.5,Garibaldi
+2133,Vinho Tinto Brasileiro Chalise,15.99,Chalise
+2184,Vinho Argentino 1895,25.9,Norton
+2200,Vinho Tinto Brasileiro Sangue,13.99,Sangue de Boi
+2216,Vinho Americano Tinto Cabernet,40.99,Vinho Gallo Family
+2273,Vinho Tinto Argentino Benjamin,29.99,Benjamin Nieto Senetiner
+2296,Vinho Tinto Argentino Salentein,99.0,Salentein
+2301,Vinho Tinto Português Aliança,69.99,Dáo
+2304,Vinho Tinto Brasileiro Santa,22.99,Santa Colina
+2326,Vinho Tinto Português Verza,20.99,Verza
+2327,Vinho Brasileiro Original,52.99,Mateus
+2347,Vinho Tinto Chileno Cabernet,71.99,Colchagua Costa
+2350,Vinho Rosé Português Always,60.99,Lancers
+2436,Vinho Brasileiro Suave,15.9,Canção
+2476,Vinho Tinto Brasileiro Demi-Sec,28.9,Góes Tradição
+2490,Vinho Tinto Chileno Reserva,42.5,Santa Carolina
+2497,Vinho Tinto Brasileiro Cabernet,64.99,Origem
+2507,Vinho Tinto Português 2019,57.99,Valtorto
+2537,Vinho Tinto Brasileiro Aurora,34.99,Aurora
+2543,Vinho Tinto Brasileiro Suave,22.99,Mioranza
+2546,Vinho Brasileiro Tinto Seco,36.5,Conde de Foucauld
+2586,Vinho Argentino Tinto Seco,76.99,Trivento
+2592,Vinho Tinto Português Tawny,99.0,Fonseca Porto
+2611,Vinho Tinto Português Premium,169.0,Fonseca Porto
+2612,Vinho Italiano Tavernello,32.99,Tavernello
+2621,Vinho Tinto Brasileiro La,14.99,La Viña
+2645,Vinho Tinto Chileno Quilina,32.99,Quilina
+2664,Vinho Brasileiro Suave,17.99,Garibaldi
+2679,Vinho Tinto Chileno Cabernet,24.99,Viñedos Marchigue
+2680,Vinho Argentino Tinto Cabernet,31.99,Toro Centenario
+2701,Vinho Tinto Chileno Reservado,37.99,Santa Carolina
+2702,Vinho Brasileiro Chardonnay,22.99,Santa Colina
+2715,Vinho Rosé Chileno Vale,35.99,Los Coches
+2718,Vinho Brasileiro Lágrima,16.99,Lágrima de Uva
+2719,Vinho Chileno Tinto Meio,92.5,Concha y Toro
+2725,Vinho Tinto Chileno Reservado,39.99,Santa Carolina
+2747,Vinho Tinto Chileno Cabernet,52.99,Terraced
+2836,Vinho Francês Tinto JP,74.99,J.P. Chenet
+2895,Vinho Tinto Argentino Cabernet,35.9,Norton
+2937,Vinho Tinto Brasileiro Almadén,32.99,Almadén
+2963,Vinagre Vinho Tinto,6.39,La Pastina
+2986,Vinho Tinto Brasileiro Lágrima,14.99,Lágrima de Uva
+3140,Vinho Rosé Espanhol Reserva,37.99,La Moneda
+3154,Vinho Brasileiro Suave,26.99,Granja União
+3179,Cooler Vinho Tinto,10.9,Grape Cool
+3183,Vinho Brasileiro Suave,33.99,Garibaldi
+3189,Vinho Tinto Africa,37.99,KWV
+3190,Vinho Tinto Brasileiro Góes,19.5,Góes Tradição
+3235,Vinho Tinto Brasileiro Reservado,34.99,Acquasantiera
+3240,Vinho Tinto Português Quinta,74.99,Alabastro
+3251,Vinho Tinto Chileno Quilina,40.5,Quilina
+3271,Vinho Rosé Francês Maison,49.9,Castel D'Anjou
+3275,Vinho Brasileiro Seco,17.99,Garibaldi
+3308,Vinho Brasileiro Rosé Lunae,28.5,Salton
+3325,Vinho Argentino Tinto Tempranillo,29.99,Toro Centenario
+3329,Vinho Brasileiro Tinto Frisante,23.9,Donnatella
+3334,Vinho Italiano Riesling,47.99,Il Roccolo
+3346,Vinho Tinto Brasileiro Lágrima,14.99,Lágrima de Uva
+3357,Vinho Tinto Brasileiro Demi-Sec,22.99,Santa Colina
+3366,Vinho Rosé Francês Méditerranée,79.9,Chemin des Sables
+3381,Vinho Tinto Português Prestigious,45.99,Ermelinda
+3422,Vinho Tinto Brasileiro Marcus,21.9,Marcus James
+3453,Vinho Tinto Chileno Travessia,32.99,Travessia
+3482,Vinho Tinto Chileno Viñedos,56.99,Quilina
+3496,Vinho Tinto Português Tinta,51.99,Quatro Ventos
+3504,Vinho Tinto Chileno Carbenet,25.99,Santa Rita
+3509,Vinho Chileno Reserva,44.99,Panul
+3513,Vinho South Africa,72.99,KWV
+3522,Vinho Tinto Chileno Carmenèré,37.99,Terraced
+3536,Vinho Brasileiro Marcus,21.9,Marcus James
+3553,Vinho Classic Tinto Seco,24.99,Salton
+3594,Vinho Tinto Americano Gallo,40.99,Gallo Family
+3596,Vinho Rosé Brasileiro Reserva,49.99,Aurora
+3614,Vinho Chileno Tinto Malbec,52.99,Terraced
+3617,Vinho Tinto Espanhol Valdpeñas,87.99,Los Molinos
+3637,Vinho Chileno Reserva,44.99,Santa Carolina
+3643,Vinho Tinto Português Vinha,33.99,Ermelinda
+3656,Vinho Chileno Sauvignon,35.99,120
+3662,Vinho Italiano Gian,62.99,Natale Verga
+3707,Vinho Argentino Tinto Benjamin,41.99,Benjamin Nieto
+3713,Vinho Tinto Brasileiro Reservado,32.99,Classic
+3715,Vinho Tinto Francês Bordeaux,47.99,Demeure François
+3731,Vinho Tinto Argentino Benjamin,39.99,Benjamin Nieto Senetiner
+3741,Vinho Tinto Chileno Gato,45.99,Gato Negro
+3754,Vinho Chileno Reservado,37.99,Concha y Toro
+3781,Vinho Tinto Brasileiro Santa,22.99,Santa Colina
+3785,Vinho Tinto Chileno Cabernet,37.99,Reservado
+3830,Vinho Tinto Português Indiscreto,74.99,José Maria da Fonseca
+3834,Vinho Porto Tawny,44.9,Offley
+3861,Vinho Tinto Chileno Malbec,47.9,La Moneda
+3864,Vinho Rosé Português Vinha,33.99,Ermelinda
+3870,Vinho Tinto Espanhol Valdpeñas,89.99,Los Molinos
+3876,Vinho Espanhol Airén,25.9,Los Molinos
+3897,Vinho Tinto Brasileiro Reserva,57.99,Miolo
+3919,Vinho Tinto Argentino Roble,42.99,Finca Flichman
+3930,Vinho Africano Tinto KWV,72.99,KWV
+3944,Vinho Tinto Chileno Colección,23.99,Santa Rita
+3958,Vinho Rosé Português Península,39.99,Ermelinda
+3998,Vinho Argentino Chardonnay,29.99,Toro Centenario
+4001,Vinho Tinto Português Roby,99.0,Fonseca Porto
+4020,Vinho Português Tinto Faisão,31.99,Faisão
+4032,Vinho Brasileiro Rosé Demi-Sec,24.99,Salton
+4042,Vinho Brasileiro Frisante,31.99,Saint Germain
+4059,Vinho Rosé Francês Côtes,66.99,Maius Peyol
+4060,Vinho Tinto Brasileiro Pinot,21.9,Marcus James
+4089,Vinho Tinto Chileno Carménère,50.99,La Moneda
+4090,Vinho Tinto Brasileiro Bordô,28.99,Quinta Jubair
+4103,Vinho Tinto Italiano Primo,87.99,Primitivo de Puglia
+4107,Vinho Chileno Tinto Meio,60.99,Casillero del Diablo
+4139,Vinho Tinto Brasileiro Saint,20.99,Saint Germain
+4165,Vinho Chileno Tinto Suave,37.99,Santa Carolina
+4176,Vinho Rosé Chileno Reserva,37.99,Casillero del Diablo
+4209,Vinho Tinto Chileno Los,35.99,Los Coches
+4231,Vinho Português DOC,41.99,Ermelinda
+4240,Vinho Tinto Chileno Cabernet,33.99,Santa Ema
+4241,Vinho Tinto Português Terras,36.9,Terras D'el Rei
+4255,Vinho Tinto Chileno Reserva,39.99,Casillero del Diablo
+4265,Vinho Argentino Tinto Malbec,42.5,Trivento
+4289,Vinho Tinto Italiano Chianti,47.99,Il Roccolo
+4291,Vinho Chileno Tinto Seco,37.99,Casillero del Diablo
+4294,Vinho Tinto Chileno Reserva,29.9,120
+4307,Vinho Tinto Chileno Marques,155.0,Marques de Casa Concha
+4326,Vinho do Porto,109.0,Porto Ferreira
+4330,Vinho Brasileiro Seco,33.5,Garibaldi
+4332,Vinho Rosé Brasileiro Almadén,32.99,Almadén
+4353,Vinho Rosé Brasileiro Frisante,27.99,Lunae
+4362,Vinho Tinto Chileno Panul,31.99,Panul
+4380,Vinho Tinto Brasileiro Reserva,32.99,Salton
+4411,Vinho Tinto Espanhol CS,81.99,Carlos Serres
+4493,Vinho Brasileiro Góes,19.5,Góes Tradição
+4511,Vinho Tinto Brasileiro Canção,29.9,Canção
+4523,Vinho Tinto Chileno Reservado,24.99,Santa Ema
+4550,Vinho Tinto Seco Brasileiro,15.9,Canção
+4558,Vinho Português Rosé Frisante,31.99,Faisão
+4562,Vinho Tinto Italiano Soft,29.9,Cella
+4564,Vinho Tinto Português Porto,109.0,Porto Ferreira
+4577,Vinho Tinto Argentino Malbec,37.99,Reservado
+4592,Vinho Brasileiro Country,13.5,Country Wine
+4625,Vinho Chileno Pinot,34.99,La Moneda
+4644,Vinho Tinto Brasileiro Santa,22.99,Santa Colina
+4662,Vinho Tinto Argentino Nieto,69.9,Nieto Senetiner
+4672,Vinho Tinto Chileno Panul,57.99,Panul
+4680,Vinho Chileno Rosé Valle,37.99,Terraced
+4691,Vinho Brasileiro Tinto Seco,13.99,Del Grano
+4721,Vinho Tinto Chileno Reserva,44.99,Panul
+4757,Vinho Chileno Reservado,37.99,Santa Carolina
+4802,Vinho Tinto Chileno Quilina,43.99,Quilina
+4823,Vinho Francês Tinto Baron,57.99,Baron D'Arignac
+4848,Vinho Tinto South Africa,70.99,KWV
+4853,Vinho Tinto Chileno Cabernet,37.99,Terraced
+4899,Vinho do Porto,87.99,Offley
+4912,Vinagre Vinho Tinto,11.9,Colavita
+4930,Vinho Argentino Rosé AImé,57.99,Aimé
+4959,Vinho Tinto Chileno Panul,31.99,Panul
+4960,Vinho Português Vinhas,40.5,José Maria da Fonseca
+4963,Vinho Argentino 1895,35.9,Norton
+4968,Vinho Brasileiro Miolo,27.99,Miolo
+4974,Vinho Chileno Chardonnay,52.99,Terraced
+4975,Vinho Brasileiro Frisante,28.5,Lunae

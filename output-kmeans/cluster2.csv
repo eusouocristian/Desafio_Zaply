@@ -1,0 +1,90 @@
+id,name,price,brand
+2,Refrigerante Pepsi Twist Garrafa,4.99,Pepsi
+60,Refrigerante Cola Pepsi Garrafa,4.49,Pepsi
+93,Refrigerante Guaraná Antarctica 269ml,1.49,Guaraná Antarctica
+112,Refrigerante Cola Pepsi Garrafa,1.49,Pepsi
+245,Refrigerante Guaraná Antarctica Garrafa,4.49,Guaraná Antarctica
+302,Refrigerante Cola Zero Açúcar,2.49,Pepsi
+400,Refrigerante Coca-Cola Zero,2.59,Coca-Cola
+415,Refrigerante Zero Açúcar Guaraná,2.09,Guaraná Antarctica
+457,Refrigerante Guaraná Sarandi,4.39,Sarandi
+484,Refrigerante Coca-Cola Zero,0.98,Coca-Cola
+503,Refrigerante Guaraná Fanta Garrafa,0.97,Fanta
+581,Refrigerante Laranja Fanta Garrafa,5.79,Fanta
+760,Refrigerante Laranja Zero Adição,5.89,Fanta
+794,Refrigerante Coca-Cola Zero,1.19,Coca-Cola
+801,Refrigerante Citrus Original Schweppes,2.59,Schweppes
+852,Pack Refrigerante Coca-Cola,14.5,Coca-Cola
+907,Pack Refrigerante Coca-Cola Zero,17.99,Coca-Cola
+952,Refrigerante Lemon Fresh,1.99,Sprite
+1042,"Refrigerante Coca-Cola Garrafa 1,5l",5.89,Coca-Cola
+1094,Refrigerante Coca-Cola Garrafa 200ml,1.39,Coca-Cola
+1193,Kit Refrigerante Coca-Cola +,12.5,Coca-Cola
+1215,Refrigerante Mexerica Limão,2.49,Bioleve
+1265,Refrigerante Limão Bioleve Zero,4.99,Bioleve
+1268,Refrigerante Laranja Sukita Lata,2.39,Sukita
+1511,Refrigerante Citrus Schweppes Garrafa,5.29,Schweppes
+1537,Refrigerante Guaraná Zero Açúcar,3.69,Fruki
+1611,Refrigerante Uva Sukita Garrafa,4.29,Sukita
+1692,Refrigerante Coca-Cola Lata 220ml,2.09,Coca-Cola
+1697,Refrigerante Limão Açúcares,5.69,Sprite
+1788,Refrigerante Cola Pepsi Garrafa,3.29,Pepsi
+1810,Refrigerante Coca-Cola Zero,9.29,Coca-Cola
+1909,Refrigerante Guaraná Antarctica Garrafa,6.99,Guaraná Antarctica
+1929,Refrigerante Cola Pepsi Garrafa,3.99,Pepsi
+1957,Refrigerante Uva Roxa Grapette,4.69,Grapette
+1966,Refrigerante Guaraná Fruki Garrafa,0.99,Fruki
+1971,Refrigerante Guaraná Zero Açúcar,2.09,Fruki
+2001,Refrigerante Cola Pepsi Garrafa,1.99,Pepsi
+2016,Refrigerante Uva Fanta Garrafa,1.29,Coca-Cola
+2028,Refrigerante Laranja Fanta Lata,2.69,Fanta
+2145,Refrigerante Limão Sprite Lata,2.49,Sprite
+2269,Refrigerante Laranja Fanta Garrafa,6.99,Fanta
+2300,Refrigerante Coca-Cola Menos Açúcar,8.29,Coca-Cola
+2307,Refrigerante Uva Fanta Lata,2.09,Fanta
+2428,Refrigerante Citrus Zero Açúcar,5.99,H2OH!
+2444,Refrigerante Uva Sukita Lata,2.49,Sukita
+2481,Refrigerante Coca-Cola Zero,5.69,Coca-Cola
+2520,Refrigerante Guaraná Fanta Garrafa,3.79,Fanta
+2565,Refrigerante Uva Fanta Garrafa,5.79,Fanta
+2589,Refrigerante Limão Zero Açúcar,2.99,H2OH!
+2678,Refrigerante Cola Fruki Garrafa,4.49,Fruki
+2696,Refrigerante Limão Soda,0.99,Antarctica
+2742,Refrigerante Pepsi Twist Lata,2.09,Pepsi
+2767,Refrigerante Guaraná Antarctica Garrafa,3.99,Guaraná Antarctica
+2782,Refrigerante Maçã-Verde Limão,2.49,Bioleve
+2829,Refrigerante Zero Açúcar Guaraná,4.49,Guaraná Antarctica
+2871,Refrigerante Limão Sprite Garrafa,3.99,Sprite
+3011,Refrigerante Limão Sprite Lata,1.99,Sprite
+3221,Refrigerante Coca-Cola Zero,3.39,Coca-Cola
+3224,Refrigerante Limonada Soda Antarctica,2.39,Antarctica
+3319,Refrigerante Açúcar Coca-Cola,7.39,Coca-Cola
+3399,Refrigerante Zero Açúcar Guaraná,4.49,Guaraná Antarctica
+3411,Refrigerante Guaraná Fanta Lata,2.49,Fanta
+3438,Refrigerante Laranja Sukita Garrafa,1.09,Sukita
+3455,Pack Refrigerante Coca-Cola Leve,25.99,Coca-Cola
+3460,Refrigerante Maçã-Verde Limão,4.99,Bioleve
+3467,Refrigerante Coca-Cola Garrafa 600ml,2.96,Coca-Cola
+3502,Refrigerante Laranja Fanta Garrafa,1.29,Fanta
+3784,Refrigerante Mistérios Sombrios Fanta,2.79,Coca-Cola
+3791,Refrigerante Gengibirra Cini Garrafa,3.89,Cini
+3793,Pack Refrigerante Açúcar,18.5,Coca-Cola
+3806,Refrigerante Guaraná Fanta Garrafa,6.29,Fanta
+4002,Refrigerante Limonada Soda Antarctica,2.99,Antarctica
+4073,Refrigerante Cola Pepsi Garrafa,4.99,Pepsi
+4092,Refrigerante Coca-Cola Garrafa 3l,9.19,Coca-Cola
+4119,"Refrigerante Coca-Cola Garrafa 2,5l",8.49,Coca-Cola
+4154,Refrigerante Coca-Cola Menos Açúcar,9.29,Coca-Cola
+4287,Refrigerante Laranja Cini Garrafa,3.89,Cini
+4303,Refrigerante Limoneto Zero Açúcar,2.99,H2OH!
+4363,Refrigerante Coca-Cola Lata 310ml,2.39,Coca-Cola
+4484,Refrigerante Tutti Frutti Itubaína,2.19,Itubaína
+4526,Refrigerante Limão Sprite Garrafa,4.89,Sprite
+4531,Refrigerante Laranja Fanta 310ml,1.99,Fanta
+4533,Refrigerante Laranja Sukita Garrafa,3.19,Sukita
+4540,Refrigerante Coca-Cola Garrafa 2l,6.69,Coca-Cola
+4640,Kit Refrigerante Coca-Cola +,12.5,Coca-Cola
+4743,Refrigerante Guaraná Kuat Garrafa,4.79,Kuat
+4763,Refrigerante Laranja Fanta Garrafa,3.39,Fanta
+4805,Refrigerante Guaraná Charrua Garrafa,4.19,Charrua
+4917,Refrigerante Limão Limão Bioleve,4.99,Bioleve

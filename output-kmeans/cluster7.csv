@@ -1,0 +1,373 @@
+id,name,price,brand
+5,Macarrão Sêmola,3.59,Adria
+17,Macarrão Ovos Pai,2.69,Barilla
+32,Macarrão Sêmola,5.19,Renata
+53,Frango Vegetal Tiras,26.5,Sadia
+57,Macarrão Ovos Espaguetinho,3.15,Barilla
+62,Bebida Base,19.5,A Tal da Castanha
+63,Macarrão Instantâneo Galinha Caipira,0.98,Germani
+72,Macarrão Sêmola,3.29,Renata
+81,Macarrão Sêmola Penne,3.79,Galo
+122,Batata Frita Lisa Frango,7.49,Elma Chips
+132,Macarrão Instantâneo Lámen Mexicano,1.69,Nissin
+143,Macarrão Sêmola Espaguete,3.79,Adria
+173,Macarrão Instantâneo Frango,3.69,Nissin
+182,Sanduíche X-Frango Hot Hit,6.49,Seara
+189,Macarrão Sêmola Parafuso,4.99,Orquídea
+198,Massas Caseiras Macarrão,4.49,Confiare
+221,Sopão Feijão Macarrão,6.99,Maggi
+237,Macarrão Instantâneo Carne Suave,1.69,Nissin
+239,Empanado Frango Cenoura,12.5,Perdigão
+247,Água Mineral Natural,1.09,Font Life
+253,Macarrão Ovos Penne,3.15,Barilla
+259,Frango Passarinho Congelado Copacol,13.99,Copacol
+266,Macarrão Instantâneo Tomate Suave,1.69,Nissin
+269,Macarrão Instantâneo Lámen Galinha,1.19,Renata
+279,Água Mineral Natural,3.49,Bonafont Água Leve
+299,Peito Frango Congelado,11.5,Sadia
+316,Macarrão Sêmola Gravata,3.79,Galo
+319,Bebida Base,3.69,Nestlé
+342,Macarrão Espaguete Ovos,4.69,Piraquê
+344,Coração Frango Congelado,34.99,Seara
+361,Macarrão Ninho Fino Aldente,7.29,Piraquê
+379,Empanadas Frango Congelada,11.99,Top Chef
+381,Macarrão Ovos Linguine,3.15,Barilla
+390,Strogonoff Frango Sadia Pacote,20.5,Sadia
+397,Asa Frango Congelada,20.99,Super Frango
+421,Sobrecoxa Frango Resfriada Bandeja,13.19,Big Hiper
+423,Macarrão Instantâneo Carne Defumada,3.69,Nissin
+434,Macarrão Sêmola,3.49,Renata
+440,Lasanha Frango Mezzani Pacote,11.99,Mezzani
+441,Empanado Frango Picante,17.99,Sadia
+466,Macarrão Mac & Cheese,8.99,Seara
+471,Frango Parmegiana Sadia,20.5,Sadia
+510,Lasanha Frango Sadia Pacote,20.99,Sadia
+513,Asa Frango Congelada,15.99,Big Hiper
+519,Linguiça Frango Aurora,19.9,Aurora
+521,Hambúrguer Frango Carne,20.5,Perdigão
+532,Peito Frango Defumado,7.39,Ceratti
+536,Bebida Base,15.99,Silk
+539,Macarrão Sêmola,5.49,Knorr
+540,Macarrão Instantâneo Tempero,1.09,Isabela
+541,Macarrão Sêmola,3.59,Adria
+545,Macarrão Sêmola,3.39,Adria
+574,Coxas Frango Resfriadas,8.7,Languiru
+585,Macarrão Sêmola Aletria,2.79,Galo
+587,Bebida Base,19.5,A Tal da Castanha
+616,Steak Frango Empanado,2.49,Seara
+620,Hambúrguer Frango Empanado,2.99,Sadia
+628,Bebida Base,14.99,Nestlé
+639,Macarrão Sêmola Grano,6.79,Divella
+664,Macarrão Sêmola,3.29,Renata
+671,Macarrão Instantâneo Caesar Saladaria,1.69,Nissin
+687,Frango Passarinho Congelado Seara,13.99,Seara
+689,Macarrão Instantâneo Yakissoba Tradicional,3.69,Nissin
+695,Folhado Congelado Frango Forno,10.99,Forno de Minas
+716,Macarrão Yakissoba Karui,9.99,Karui
+720,Empanado Frango Turma,11.5,Seara
+722,Macarrão Sêmola,3.69,Isabela
+729,Linguiça Frango,19.99,Copacol
+732,Macarrão Instantâneo Galinha Caipira,3.69,Nissin
+733,Salsicha Frango Light Seara,11.5,Seara
+735,Espetinho Frango Peito,29.93,Swift
+739,Água Mineral Gás,8.79,Valle Vita
+755,Peito Frango Resfriado,23.99,Big Hiper
+762,Macarrão Instantâneo Frutos,3.69,Nissin
+788,Macarrão Sêmola Espaguete,5.09,Knorr
+838,Água Mineral Natural,1.39,Floresta
+874,Wrap Frango Pesto,15.99,Sadia
+882,Macarrão Instantâneo Picanha Nissin,1.69,Nissin
+892,Água Mineral Natural,6.29,Água da Pedra
+903,Empanado Frango Steak,26.99,Sadia
+918,Empanado Frango Steak,2.99,Seara
+942,Macarrão Instantâneo Galinha Lamén,1.29,Adria
+949,Filezinho Sassami Frango,22.99,Sadia
+966,Empanado Frango Seara,10.99,Seara
+988,Linguiça Frango Apimentada,14.5,Copacol
+1016,Macarrão Sêmola,3.29,Renata
+1020,"Frango Resfriado Languiru 2,5kg",29.98,Languiru
+1041,Mortadela Frango Perdigão,7.79,Perdigão
+1050,Coxa Frango Congelado Seara,13.99,Seara
+1056,Macarrão Ovos Caseiro,9.79,Sacciali
+1059,Macarrão Instantâneo Galinha Nissin,1.69,Nissin
+1072,Macarrão Sêmola Tricolor,4.89,Galo
+1079,Linguiça Frango Fina,17.99,Copacol
+1089,Sobrecoxa Frango,14.97,Swift
+1104,Sobrecoxa Frango Congelada,14.5,Perdigão
+1211,Macarrão Sêmola,3.69,Isabela
+1269,Vagem Macarrão 1 Unidade,10.99,Big Hiper
+1284,Mortadela Frango Excelsior,8.79,Excelsior
+1323,Macarrão Sêmola,12.5,Colavita
+1329,Bebida Base,16.5,Nature's Heart
+1334,Macarrão Sêmola,2.99,Orquídea
+1335,Bebida Base,5.99,Ades
+1349,Frango Empanado Nuggets Multigrãos,12.99,Sadia
+1355,Macarrão Sêmola Espaguete,13.99,Barilla
+1361,Água Mineral Gás,1.39,Sarandi
+1366,Linguica Frango Seara 300g,7.05,Seara
+1389,Mortadela Frango,8.09,Excelsior
+1424,Macarrão Sêmola,4.69,Renata
+1434,Bebida Base,2.29,Ades
+1448,Coração Frango Resfriado Bandeja,36.99,Big Hiper
+1481,Patê Frango,2.59,Excelsior
+1482,Torta Frango Congelada,17.99,Confiare
+1495,Sopinha Risotinho Frango,4.89,Nestlé
+1500,Coxinha Asa Frango,18.99,Big Hiper
+1519,Macarrão Instantâneo Yakissoba Tradicional,1.69,Nissin
+1525,Massa Sêmola,6.89,Isabela
+1572,Hambúrguer Frango Lemon,22.99,Sadia
+1575,Ravióli Recheado Frango,21.9,Rana
+1591,Empanado Frango,9.49,Seara
+1599,Macarrão Sêmola Fettuccine,3.79,Gallo
+1602,Água Mineral Natural,1.79,Bonafont Água Leve
+1610,Coxinha Frango Mandioca,13.93,Swift
+1644,Frango Vegetal Fazenda Futuro,23.5,Fazenda Futuro
+1645,Bebida Base,15.99,Silk
+1651,Bebida Base,5.99,Ades
+1670,Água Mineral Natural,7.42,Bioleve
+1690,Água Natural Gás,2.19,Bonafont Água Leve
+1693,Macarrão Sêmola,4.49,Adria
+1698,Macarrão Sêmola,3.69,Isabela
+1713,Macarrão Instantâneo Carne Nissin,1.69,Nissin
+1734,Macarrão Sêmola,4.89,Renata
+1740,Macarrão Sêmola,6.79,Divella
+1742,Macarrão Instantâneo Talharim Carbonara,1.69,Nissin
+1762,Pizza Artesanal Frango,31.5,Catupiry
+1763,Coração Frango Congelado,19.99,Perdigão
+1775,Asa Frango Swift,18.96,Swift
+1784,Macarrão Sêmola,7.59,Renata
+1791,Macarrão Sêmola,3.69,Adria
+1802,Enroladinho Frango Big,4.99,Big Hiper
+1818,Coxa Frango Temperado Assa,13.99,Seara
+1824,Linguiça Frango Perdigão,29.99,Perdigão
+1830,Água Mineral Natural,4.09,Água da Pedra
+1832,Capeletti Frango Mezzani Caixa,8.79,Mezzani
+1843,Macarrão Sêmola,3.39,Adria
+1874,Macarrão Instantâneo Lámen Costela,1.69,Nissin
+1875,Água Mineral Natural,2.89,Crystal
+1881,Frango Parmegiana Seara,18.99,Seara
+1898,Água Mineral Gás,5.99,Bamboo
+1913,Macarrão Espaguete Aldente Piraquê,3.69,Piraquê
+1937,Peito Frango Cozido,31.99,Vapza
+1938,Coxa Sobrecoxa Frango,16.49,Big Hiper
+1939,Macarrão Instantâneo Costela,3.69,Nissin
+1973,Macarrão Sêmola,5.19,Renata
+1987,"Sopinha Macarrão, Carne",3.49,Nestlé
+1999,Água Mineral Natural,1.99,Bonafont Água Leve
+2022,Macarrão Instantâneo Lámen Carne,1.69,Nissin
+2032,Macarrão Instantâneo Lámen Galinha,1.39,Renata
+2040,Macarrão Sêmola Tricolor,14.99,Barilla
+2043,Macarrão Instantâneo Tempero,0.99,Isabela
+2044,Macarrão Sêmola Grano,7.29,Adria
+2055,Macarrão Espaguete Ovos,2.19,Corrieri
+2068,Sobrecoxa Frango Congelada,16.99,Seara
+2077,Empanado Frango Queijo,35.99,Perdigão
+2078,Macarrão Parafuso Aldente Pacote,3.69,Aldente
+2081,Macarrão Sêmola,6.79,Renata
+2085,Macarrão Sêmola Grano,14.99,Barilla
+2103,Hambúrguer Frango,23.99,Sadia
+2105,Empanado Frango Seara,9.49,Seara
+2113,Macarrão Instantâneo Frango Grelhado,1.69,Nissin
+2123,Coxa Sobcoxa Frango Ref,3.2,Big Hiper
+2127,Água Mineral Natural,1.69,Minalba
+2130,Coração Frango Congelado,26.5,Seara
+2166,Macarrão Instantâneo Espaguete Nissin,6.59,Nissin
+2220,Macarrão Sêmola,8.09,Renata
+2223,Bebida Base,13.9,Silk
+2234,Macarrão Sêmola Ninho,4.18,Galo
+2257,Macarrão Instantâneo Galinha Germani,0.98,Germani
+2262,Macarrão Sêmola Parafuso,3.49,Basilar
+2264,Capeletti Recheado Frango,8.69,Pavioli
+2270,Capeletti Frango Italiany,6.59,Italiany
+2274,Filezinho Sassami Frango,19.5,Perdigão
+2313,Filezinho Sassami Frango,19.5,Sadia
+2322,Macarrão Ovos Caseiro,9.79,Sacciali
+2332,Empanado Frango,32.5,Perdigão
+2370,Patê Frango,2.59,LeBon
+2372,Macarrão Parafuso Ovos,4.69,Piraquê
+2377,Água Natural Gás,3.39,Bonafont Água Leve
+2400,Empanado Frango,19.99,Sadia
+2425,Linguiça Frango,19.99,Seara
+2433,Massa Sêmola,4.69,Isabela
+2441,Macarrão Instantâneo Carne Germani,0.98,Germani
+2446,Água Mineral Natural,3.09,Ouro Fino
+2448,Empanado Frango Queijo,12.5,Perdigão
+2462,Filé Peito Frango,22.99,Sadia
+2466,Macarrão Sêmola Penne,3.29,Isabela
+2482,Macarrão Sêmola,4.69,Renata
+2502,Coxa Frango Resfriado Bandeja,23.4,Big Hiper
+2510,Filé Frango,22.96,Swift
+2572,Macarrão Instantâneo Lámen,0.99,Isabela
+2573,Patê Frango Excelsior,2.59,Excelsior
+2576,Macarrão Instantâneo Curry Nissin,3.69,Nissin
+2591,Bebida Base,7.09,Nestlé
+2615,Coxa Frango,14.96,Swift
+2619,Coxinha Asa Frango Resfriada,6.4,Big Hiper
+2620,Macarrão Sêmola Grano,6.79,Divella
+2627,"Sopinha Macarrão, Carne",4.89,Nestlé
+2630,Capeleti Frango Confiare,9.89,Confiare
+2683,Sobrecoxa Frango Congelada,19.5,Perdigão
+2685,Lasanha Frango Bacon,14.5,Perdigão
+2688,Macarrão Sêmola Ovos,3.89,Isabela
+2693,Água Mineral Natural,2.69,Acqua Panna
+2694,Coxa Frango Congelada,15.99,Sadia
+2755,Empanado Frango Tradicional,28.99,Sadia
+2772,Macarrão Sêmola,3.59,Adria
+2774,Sobrecoxa Frango Congelada,16.99,Nat
+2778,Filezinho Frango Sassami,15.99,Languiru
+2799,Empanado Frango Queijo,9.49,Seara
+2801,Coração Frango Resfriado,34.3,La Serra Grill
+2809,Macarrão Sêmola,4.29,Renata
+2866,Filézinho Sassami Frango,18.5,Perdigão
+2868,Frango Passarinho Resfriado Temperado,14.1,Big Hiper
+2873,Macarrão Sêmola,5.99,Renata
+2908,Água Mineral Natural,1.89,São Lourenço
+2918,Bebida Base,21.99,Silk
+2922,Macarrão Udon Karui,9.79,Karui
+2926,Macarrão Instantâneo Canja,1.69,Nissin
+2975,Água Natural Gás,2.19,Bonafont Água Leve
+3020,Batata Frita Frango Grelhado,12.99,Elma Chips
+3025,Bebida Base,16.99,RisoVita
+3032,Água Mineral Natural,1.49,Bonafont Água Leve
+3037,Água Mineral Natural Bioleve,1.99,Bioleve
+3043,Lasanha Frango Seara Caixa,13.99,Seara
+3085,Macarrão Ninho Largo Aldente,7.29,Aldente
+3110,Macarrão Sêmola,3.99,Isabela
+3116,Sobrecoxa Frango Sadia,17.99,Sadia
+3125,Macarrão Sêmola,3.69,Isabela
+3129,Frango Empanado Steak Aurora,2.49,Aurora
+3151,Macarrão Instantâneo Lámen Galinha,1.29,Adria
+3186,Peito Frango Cozido,15.99,Sadia
+3201,Macarrão Sêmola Espaguetini,3.29,Isabela
+3250,Peito Frango Desfiado,19.99,Seara
+3253,Macarrão Sêmola,5.49,Knorr
+3265,Macarrão Sêmola,2.99,Orquídea
+3269,Água Mineral Natural,16.99,Minalba
+3299,Água Mineral Natural,1.69,Ouro Fino
+3312,Pizza Frango Requeijão,14.5,Rezende
+3324,Água Mineral Natural,6.99,Crystal
+3343,Macarrão Sêmola Farfalle,12.99,Barilla
+3355,Macarrão Sêmola,3.29,Renata
+3359,Bebida Base,15.99,Silk
+3389,Frango Passarinho Sadia,15.5,Sadia
+3390,Bebida Base,4.39,Yakult
+3401,Água Mineral Natural Bioleve,1.99,Bioleve
+3408,Bebida Base,5.69,A Tal da Castanha
+3427,Macarrão Sêmola,5.99,Renata
+3440,Macarrão Sêmola,3.29,Renata
+3445,Macarrão Ovos Caseiro,9.49,Sacciali
+3459,Empanado Frango Tradicional,12.5,Perdigão
+3463,Coxinha Asa Frango Resfriada,14.0,Big Hiper
+3471,Empanado Frango Coxinha,15.99,Sadia
+3507,Bebida Base,16.5,Nature's Heart
+3512,Filezinho Sassami Frango,19.99,Sadia
+3516,Macarrão Instantâneo Galinha Suave,1.69,Nissin
+3527,Vagem Macarrão,7.95,Big Hiper
+3539,Água Mineral Gás,20.99,S. Pellegrino
+3548,Macarrão Instantâneo Legumes Lamén,1.29,Adria
+3552,Macarrão Instantâneo Yakissoba Nissin,6.59,Nissin
+3626,Frango Inteiro Temperado,22.34,Swift
+3651,Macarrão Sêmola Grano,12.5,Barilla
+3658,Auroggets Frango Sabor,8.9,Aurora
+3672,Macarrão Sêmola Espaguete,3.79,Galo
+3696,Frango Xadrez Swift 350g,26.96,Swift
+3719,Bebida Base,16.5,Nature's Heart
+3721,Macarrão Sêmola,12.5,Colavita
+3755,Sobrecoxa Frango Resfriada Bandeja,28.79,Big Hiper
+3758,Água Mineral Natural,2.39,Font Life
+3778,Macarrão Sêmola Grano,7.29,Adria
+3798,Linguiça Frango Cozida,20.99,Sadia
+3799,Linguiça Frango,24.99,Super Frango
+3828,Sobrecoxas Frango cortes,26.99,Korin
+3832,Macarrão Sêmola,3.39,Isabela
+3841,Frango Passarinho Swift,13.46,Swift
+3866,Linguiça Frango Fina,19.5,Gran Corte
+3879,Peito Frango Cozido,29.99,Vapza
+3896,Água Mineral Natural,1.99,São Lourenço
+3898,Macarrão Sêmola Grano,14.99,Barilla
+3910,Macarrão Ovos Espaguete,2.69,Barilla
+3913,Auroggets Crocante Frango,8.9,Aurora
+3923,Água Mineral Natural,2.49,Minalba
+3929,Sobrecoxas Frango,13.99,Seara
+3943,"Papinha Frango, Cenoura",5.69,Nestlé
+3966,Macarrão Sêmola,3.39,Adria
+3973,Sanduíche Faroeste Burguer X-Frango,5.69,Aurora
+3974,Macarrão Sêmola,4.89,Renata
+3980,Bebida Base,5.79,A Tal da Castanha
+3986,Empanado Frango Chimichurri,13.5,Perdigão
+4021,Macarrão Instantâneo Galinha Caipira,3.69,Nissin
+4029,Peito Frango Congelado,11.5,Sadia
+4034,Macarrão Sêmola,2.99,Orquídea
+4043,Isca Frango Swift,13.96,Swift
+4052,Macarrão Sêmola Penne,14.99,Barilla
+4057,Patê Frango Sadia,3.29,Sadia
+4058,Auroggets Frango Aurora,8.9,Aurora
+4078,Água Mineral Natural,2.29,Font Life
+4084,Frango Empanado Steak Rezende,2.09,Rezende
+4112,Hambúrguer Frango Sadia,30.99,Sadia
+4121,Bebida Base,5.99,Ades
+4128,Água Mineral Natural,1.49,Nestlé
+4158,Água Natural Gás,3.39,Bonafont Água Leve
+4162,"Sopinha Macarrão, Legumes",4.59,Nestlé
+4179,Macarrão Sêmola Capellini,8.89,Barilla
+4189,Macarrão Sêmola Linguine,3.54,Galo
+4193,Macarrão Sêmola Espaguete,2.99,Isabela
+4206,Macarrão Sêmola Espaguete,4.99,Orquídea
+4207,Coxa Frango Temperada,19.99,Sadia
+4244,Massa Sêmola,2.49,Renata
+4247,Coxa Sobcoxa Frango Resfriado,21.59,Big Hiper
+4250,Pizza Frango Requeijão,19.99,Sadia
+4264,Sobrecoxas Frango,14.99,Seara
+4290,Macarrão Instantâneo Caldinho,1.49,Nissin
+4293,Macarrão Mifun Alfa 200g,11.9,Alfa
+4297,Macarrão Fidelinho Aldente Piraquê,3.69,Piraquê
+4310,Macarrão Sêmola Penne,4.99,Orquídea
+4319,Macarrão Sêmola,6.59,Renata
+4345,Macarrão Instantâneo Carne Lamén,1.79,Adria
+4389,Espetinho Frango Temperos,24.99,Confiare
+4403,Hamburguer Frango Turma,26.99,Seara
+4457,Frango Empanado Iscas Aurora,10.9,Aurora
+4460,Empanado Frango,10.99,Perdigão
+4471,Filé Peito Frango,18.99,Seara
+4474,Bebida Base,16.5,Nature's Heart
+4489,Água Mineral Natural,6.99,Ouro Fino
+4492,Patê Frango Ervas,6.39,Excelsior
+4510,Filé Peito Frango,22.39,Big Hiper
+4560,Pack Macarrão Instantâneo Galinha,8.49,Nissin
+4573,Filezinho Sassami Frango,18.99,Perdigão
+4580,Empanado Frango Recheio,5.99,Seara
+4597,Bebida Base,6.89,Ades
+4598,Água Mineral Natural,1.29,Font Life
+4609,Filé Peito Frango,34.79,Big Hiper
+4610,Empanado Frango Tradicional,12.5,Perdigão
+4619,Macarrão Sêmola Fidelinho,3.79,Galo
+4641,Salsicha Frango Sadia,13.5,Sadia
+4648,Sobrecoxa Frango Congelada,17.99,Sadia
+4653,Macarrão Sêmola,5.19,Orquídea
+4669,Macarrão Sêmola Grano,14.5,Barilla
+4716,Macarrão Sêmola Furadinho,3.29,Isabela
+4740,Empanado Frango Crocante,12.99,Sadia
+4759,Filé Peito Frango,17.15,Seara
+4773,Filezinho Sassami Frango,19.99,Nat
+4780,Água Natural Gás,2.99,Bonafont Água Leve
+4795,Água Mineral Natural,1.89,Minalba
+4799,Massa Sêmola,3.29,Galo
+4806,Macarrão Sêmola Grano,17.91,Barilla
+4810,Macarrão Sêmola,7.69,Renata
+4812,Peito Frango Cozido,11.5,Sadia
+4818,Empanado Frango Queijo,12.99,Sadia
+4824,Coxa Sobrecoxa Frango Congelada,23.98,Big Hiper
+4857,Água Mineral Natural,10.5,S. Pellegrino
+4858,Sobrecoxa Frango Seara Pacote,16.99,Seara
+4863,Bebida Base,14.99,Blue Diamond
+4877,Ravióli Frango Mezzani Bandeja,8.79,Mezzani
+4880,Bebida Base,18.99,A Tal da Castanha
+4890,Macarrão Ovos Fettuccine,5.49,Barilla
+4895,Água Mineral Natural,1.69,Crystal
+4909,Macarrão Sêmola,3.29,Renata
+4938,Macarrão Instantâneo Bolonhesa Nissin,3.69,Nissin
+4947,Macarrão Sêmola,3.49,Isabela
+4953,Macarrão Sêmola Parafuso,2.99,Isabela
+4982,Macarrão Sêmola,4.89,Renata
+4992,Asa Frango Resfriada,22.99,Big Hiper
+4994,Macarrão Sêmola Espaguetinho,3.79,Galo

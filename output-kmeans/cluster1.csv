@@ -1,0 +1,244 @@
+id,name,price,brand
+9,Chocolate Quente Cápsula,15.99,Tres
+25,Biscoito Cobertura Chocolate,5.99,Nestlé
+82,Mistura Bolo Chocolate,6.69,Fleischmann
+85,Bombom Cobertura Chocolate,2.49,Nestlé
+115,Cereal Matinal Chocolate Kellogg's,10.5,Kellogg's
+151,Barra Chocolate,4.39,Neugebauer
+158,Bebida Láctea UHT Chocolate,1.89,Toddynho
+186,Chocolate Leite Marie,6.99,Di Costa
+209,Bolo Frapê Chocolate,6.79,Pullman
+220,Barra Chocolate,4.39,Neugebauer
+250,Barra Chocolate Dark,6.09,Garoto
+260,Bolo Chocolate Recheado,1.79,Ana Maria
+315,Confeito Chocolate,3.79,M&M's
+318,Barra Chocolate Meio,5.99,Garoto
+329,Chandelle Chocolate,7.79,Nestlé
+347,Chocolate Quente Cápsula,15.99,Tres
+352,Barra Chocolate Amargo,7.09,Hershey's
+371,Biscoito Recheio Chocolate Classic,3.49,Nestlé
+388,Biscoito Recheio Chocolate Tortuguita,1.99,Tortuguita
+426,Bebida Láctea UHT Chocolate,1.99,Toddynho
+450,Danette Chocolate,8.99,Danette
+453,Chocolate Língua Gato,17.99,Sarotti
+458,Confeito Granulado Chocolate Zero,2.89,Dori
+476,Biscoito Chocolate,2.59,Adria
+504,Rocambole Baunilha Recheio Chocolate,1.59,Bauducco
+525,Biscoito Recheio Chocolate Chocolícia,4.99,Chocolícia
+560,Bombom 5star Chocolate,2.29,Lacta
+577,Biscoito Chocolate Teens,2.19,Marilan
+586,Biscoito Recheio Chocolate Marilan,2.89,Marilan
+592,Confeito Chocolate,9.69,Disqueti
+599,Biscoito Wafer Recheado Chocolate,2.89,Arcor
+678,Biscoito Wafer Recheio Chocolate,3.29,Bauducco
+699,Biscoito Wafer Recheio Chocolate,3.29,Bauducco
+764,Barra Chocolate,4.59,Hershey's
+771,Biscoito Cookie Chocolate,2.79,Bauducco
+774,Biscoito Maria Chocolate Orquídea,5.39,Orquídea
+789,Barra Chocolate,5.59,Garoto
+803,Chocolate Meio Amargo,8.99,Nestlé
+819,Bolinho Chocolate Seven Boys,0.99,Seven Boys
+848,Bolo Baunilha Recheio Chocolate,3.19,Ana Maria
+855,Iogurte Chocolate Chambinho,6.59,Nestlé
+859,Barra Chocolate,4.69,Lacta
+877,Biscoito Chocolate,2.79,Adria
+895,Bombons Chocolate Italiano,17.9,Di Costa
+898,Mousse Chocolate,6.97,Swift
+909,Cobertura Sorvete Chocolate,10.5,Ingredient
+946,Fondue Chocolate Santa Clara,28.9,Santa Clara
+980,Biscoito Amanteigado Chocolate Mabel,5.39,Mabel
+1004,Tablete Chocolate,2.49,Nestlé
+1013,Barra Chocolate,4.89,Garoto
+1022,Barra Chocolate 40%,8.09,Lacta
+1048,Barra Chocolate,5.59,Garoto
+1049,Biscoito Amanteigado Chocolate Bauducco,3.49,Bauducco
+1058,Bolinho Suíço Chocolate Casa,4.49,Casa Suíça
+1065,Sorvete Chocolate Galak,24.99,Nestlé
+1077,Biscoito Wafer Chocolate Alpino,3.99,Nestlé
+1081,Brownie Chocolate Jacquet Pacote,17.99,Jacquet
+1084,Chocolate Leite Blend,35.99,Nestlé
+1100,Biscoito Chocolate Recheio Baunilha,3.59,Oreo
+1122,Bombons Chocolate Creations,14.99,Solidarnosc
+1126,Minibolo Chocolate Recheio Chocolate,3.29,Panco
+1134,Chocolate Meio Amargo 40%,4.89,Nestlé
+1140,Mistura Bolo Chocolate,12.99,Lowçucar
+1143,Barra Chocolate,1.49,Lacta
+1180,Panetone Chocolate Vincenza Caixa,9.99,Vincenza
+1185,Barra Chocolate,5.19,Garoto
+1218,Chocolate Leite Special,14.99,Hershey's
+1246,Biscoito Chocolate Recheio Morango,1.89,Nestlé
+1250,Confeito Chocolate,3.39,M&M's
+1259,Danette Chocolate,11.5,Danone
+1304,Bolinho Chocolate Recheio Chocolate,3.59,Casa Suíça
+1324,Cobertura Sorvete Chocolate,10.99,Dr. Oetker
+1342,Crepe Recheado Chocolate,12.99,Paderrí
+1357,Confeito Granulado Mesclado Chocolate,5.99,Dr. Oetker
+1372,Barra Chocolate,1.79,Lacta
+1384,Barra Chocolate,5.59,Garoto
+1405,Pastilha Chocolate,9.69,Disqueti
+1410,Biscoito Wafer Recheio Chocolate,3.39,Bauducco
+1413,Biscoito Wafer Recheio Chocolate,1.89,Orquídea
+1427,Barra Chocolate,10.99,Swiss Alps
+1445,Leite Vegetal Chocolate Not,16.99,NotCo
+1450,Bebida Láctea UHT Chocolate,6.79,Nestlé
+1451,Barra Chocolate Meio,5.59,Garoto
+1460,Barra Chocolate,5.59,Garoto
+1490,Petit Gâteau Congelado Chocolate,16.99,Lacta
+1503,Mini Torta Chocolate,7.96,Swift
+1530,Confeito Pepita Chocolate Dr.,5.99,Dr. Oetker
+1580,Pastilha Chocolate,10.9,Montevérgine
+1590,Confeito Granulado Chocolate Zero,5.99,Dori
+1621,Bebida Láctea UHT Chocolate,6.49,Yopro
+1623,Biscoito Rosquinha Chocolate Mabel,7.09,Mabel
+1635,Cobertura Chocolate Dr.,31.5,Dr. Oetker
+1659,Minibrownie Chocolate Leite,2.79,Jacquet
+1747,Barra Chocolate 70%,8.99,Neugebauer
+1748,Barra Chocolate,2.69,Nestlé
+1816,Chocolate White Nestlé Top,4.89,Nestlé
+1860,Biscoito Tortinhas Chocolate,2.59,Isabela
+1873,Biscoito Recheio Chocolate Recheadinho,2.19,Bauducco
+1906,Pack Chocolate Leite,4.99,Garoto
+1934,Bombom Triplo Chocolate Twix,4.79,Twix
+1961,Pack Chocolate Amargo Jacques,23.99,Jacques
+1978,Biscoito Chocolate Recheio Chocolate,2.19,Nestlé
+1986,Biscoito Wafer Recheio Chocolate,1.89,Orquídea
+1988,Barra Chocolate,4.29,Hershey's
+1994,Mistura Bolo Chocolate,3.69,Orquídea
+1997,Bolo Chocolate Textura,6.99,Confiare
+2019,Barra Chocolate,5.59,Garoto
+2054,Creme Chocolate Mix,3.49,Io-Iô
+2066,Barra Chocolate Orange,8.99,Neugebauer
+2097,Sorvete Chocolate Belga Häagen-Dazs,48.5,Häagen-Dazs
+2126,Confeito Chocolate,5.99,M&M's
+2149,Biscoito Leite Cobertura Chocolate,5.39,Nestlé
+2155,Pack Biscoito Chocolate Recheio,5.49,Oreo
+2156,Bolo Chocolate,47.99,Big Hiper
+2188,Biscoito Recheado Mousse Chocolate,2.59,Isabela
+2194,Wafer Cobertura Chocolate,4.89,Lacta
+2244,Confeito Chocolate,3.39,M&M's
+2246,Barra Chocolate,3.99,Arcor
+2251,Barra Chocolate,4.89,Garoto
+2294,Tablete Chocolate,2.49,Nestlé
+2311,Barra Chocolate 60%,6.99,Lacta
+2317,Biscoito Recheio Chocolate Tortuguita,2.09,Tortuguita
+2367,Creme Chocolate Mix,4.49,Io-Iô
+2418,Cereal Matinal Chocolate Nestlé,17.5,Nestlé
+2430,Bolinho Baunilha Recheio Chocolate,1.89,Bauducco
+2461,Biscoito Recheio Chocolate Marilan,2.99,Marilan
+2494,Bebida Láctea Chocolate Nescau,5.49,Nestlé
+2539,Bolo Cenoura Recheio Chocolate,3.99,Santa Edwiges
+2564,Bolo Chocolate 100g,1.99,Romanato
+2583,Biscoito Tortini Chocolate Recheio,1.79,Arcor
+2604,Biscoito Wafer Recheio Chocolate,3.39,Piraquê
+2607,Cobertura Chocolate Meio Amargo,31.5,Dr. Oetker
+2625,Biscoito Chocolate Recheado,1.99,Marilan
+2642,Biscoito Recheio Chocolate Piraquê,3.59,Piraquê
+2665,Chocolate Leite Linea,4.29,Linea
+2741,Bolo Duplo Chocolate Ana,1.79,Ana Maria
+2749,Chocolate Leite,4.49,Arcor
+2751,Danete Chocolate,4.79,Danette
+2756,Sorvete Sundae Chocolate Kibon,29.9,Kibon
+2779,Biscoito Chocolate & Gotas,4.59,Jasmine
+2788,Bala Butter Toffes Chocolate,5.19,Arcor
+2813,Barra Chocolate Amargo,7.09,Hershey's
+2817,Bolo Chocolate Plusvita,7.99,Plusvita
+2820,Sorvete Chocolate Perfetto Variatta,21.5,Perfetto
+2841,Mistura Bolo Chocolate,5.89,Dr. Oetker
+2865,Chocolate Snickers 78g 2,4.89,Snickers
+2930,Sorvete Chocolate Crocante Garoto,21.99,Garoto
+2951,Sorvete Chocolate Fudge Brownie,49.99,Ben & Jerry's
+2956,Confeito Chocolate,12.5,M&M's
+2965,Bebida Láctea UHT Chocolate,1.69,Nestlé
+3013,Bolinho Baunilha Chocolate,3.29,Seven Boys
+3055,Cereal Matinal Chocolate,8.9,Kellogg's
+3078,Bastão Chocolate,1.39,Garoto
+3079,Danette Chocolate,8.99,Danette
+3088,Barra Chocolate 60%,7.09,Lacta
+3117,Chocolate Leite Kinder,7.99,Kinder
+3134,Panettone Gotas Chocolate,8.49,Romanato
+3146,Barra Chocolate,5.59,Garoto
+3164,Sorvete Chocolate Garoto Pote,21.99,Garoto
+3202,Petit Gâteau Chocolate,20.99,Mr. Bey
+3226,Biscoito Wafer Recheado Chocolate,2.29,Marilan
+3234,Biscoito Chocolate Teens,2.19,Marilan
+3237,Barra Chocolate,18.9,Garoto
+3239,Creme Chocolate Cream,7.09,Io-Iô
+3369,Brownie Chocolate Avelã,17.99,Jacquet
+3391,Pack Picolé Chocolate,15.5,Perfetto
+3418,Biscoito Cookie Chocolate,6.19,Belive Be Free!
+3447,Pastilha Chocolate,9.69,Dori
+3514,Biscoito Recheado Triplo Chocolate,6.09,Nestlé
+3544,Biscoito Chocolate Marilan Maisena,5.39,Marilan
+3549,Chocolate Meio Amargo Garoto,24.99,Garoto
+3585,Bolo Recheado Chocolate,1.79,Ana Maria
+3631,Biscoito Cookie Chocolate,2.89,Nestlé
+3649,Chocolate Leite Extra,21.9,Nestlé
+3652,Sorvete Chocolate Magnum,42.99,Magnum
+3654,Biscoito Miniditos Chocolate Zezé,4.19,Zezé
+3673,Biscoito Recheio Chocolate Trakinas,1.99,Trakinas
+3680,Biscoito Cookie Chocolate,6.99,Chocooky
+3712,Biscoito Recheio Chocolate Bono,2.29,Nestlé
+3723,Biscoito Cobertura Chocolate,5.99,Bauducco
+3729,Chandelle Chocolate Nestlé,7.09,Nestlé
+3737,Biscoito Maisena Chocolate Vitarella,4.89,Vitarella
+3792,Biscoito Maria Chocolate Isabela,5.29,Isabela
+3821,Bolo Cenoura Recheio Chocolate,1.89,Ana Maria
+3831,Ovo Chocolate Recheio,2.59,Tortuguita
+3858,Bebida Láctea UHT Chocolate,3.09,Nestlé
+3874,Bastão Chocolate,1.49,Garoto
+3880,Pack Biscoito Chocolate Recheio,8.29,Oreo
+3883,Confeito Granulado Macio Chocolate,5.99,Dr. Oetker
+3906,Barra Chocolate,4.69,Lacta
+3909,Chocolate Baton Garoto,1.49,Garoto
+3924,Barra Chocolate 60%,6.99,Lacta
+4019,Barra Chocolate Creme,1.39,Garoto
+4026,Biscoito Tortinhas Chocolate Isabela,2.29,Isabela
+4039,Barra Chocolate,5.59,Garoto
+4044,Trufa Chocolate Sortida,25.99,Lacta
+4075,Cobertura Chocolate Leite,31.5,Dr. Oetker
+4077,Pack Biscoito Recheado Chocolate,8.79,Oreo
+4087,Chocolate Snickers 45g,2.79,Snickers
+4104,Barra Chocolate,5.59,Garoto
+4108,Bolo Chocolate Casa Suíça,5.99,Casa Suíça
+4116,Barra Chocolate,4.39,Neugebauer
+4168,Biscoito Palito Chocolate Zezé,7.59,Zezé
+4183,Biscoito Wafer Recheio Chocolate,1.39,Isabela
+4190,Barra Chocolate Amargo,7.09,Hershey's
+4200,Bebida Láctea UHT Chocolate,1.29,Showkinho
+4212,Biscoito Cobertura Chocolate Meio,5.49,Bauducco
+4220,Trufas Chocolate Recheadas,17.5,Lacta
+4273,Bolo Mesclado Chocolate,4.59,Santa Edwiges
+4275,Bombom Chocolate Italiano,29.99,Di Costa
+4296,Barra Chocolate,5.99,Garoto
+4302,Biscoito Chocolate Recheado,1.99,Marilan
+4340,Cereal Matinal Chocolate Nestlé,5.49,Nestlé
+4374,Biscoito Wafer Recheio Chocolate,3.89,Piraquê
+4381,Sorvete Nata Chocolate,14.99,Nobrelli
+4384,Biscoito Chocolate Recheio Baunilha,2.29,Nestlé
+4390,Barra Chocolate,4.39,Neugebauer
+4414,Barra Chocolate,2.49,Garoto
+4424,Barra Chocolate,7.89,Nestlé
+4433,Mini Brownie Chocolate Jacquet,2.89,Jacquet
+4448,Barra Chocolate,4.59,Hershey's
+4490,Mini Brownie Chocolate Jacquet,10.5,Jacquet
+4498,Bebida Láctea UHT Chocolate,0.98,Italac
+4543,Chocolate Amargo 53% Cacau,6.39,Arcor
+4566,Barra Chocolate Amargo,10.99,Swiss Alps
+4604,Mousse Chocolate Leite,13.99,Mr. Bey
+4605,Barra Chocolate,4.89,Garoto
+4608,"Chocolate Snickers 21,5g",1.59,Snickers
+4622,Barra Chocolate,4.69,Lacta
+4628,Mingau Chocolate Cremogema,4.39,Maizena
+4681,Chocolate Leite Rocklets,3.99,Arcor
+4722,Biscoito Recheio Chocolate,2.99,Marilan
+4752,Bolo Suíço Chocolate Casa,22.49,Casa Suíça
+4798,Bebida Láctea UHT Chocolate,1.79,Piracanjuba
+4801,Sorvete Chocolate Cremosíssimo Kibon,26.99,Kibon
+4813,Cappuccino Solúvel Chocolate 3,14.99,3 Corações
+4828,Bombom Chocolate Tortuguita Arcor,7.29,Tortuguita
+4849,Barra Chocolate,6.19,Linea
+4861,Biscoito Wafer Recheio Chocolate,1.49,Marilan
+4866,Barra Chocolate,4.89,Nestlé
+4879,Creme Chocolate Cream,7.09,Io-Iô
+4903,Barra Chocolate Amargo,7.09,Hershey's
+4967,Barra Chocolate,3.99,Arcor
