@@ -5,7 +5,7 @@ from sklearn.cluster import DBSCAN
 from sklearn import metrics
 from sklearn.datasets import make_blobs
 from sklearn.preprocessing import StandardScaler 
-from organizer import features, dataframe  
+from organizer_kmeans import features, dataframe  
 
 db = DBSCAN(eps=0.3, min_samples=10).fit(features)
 core_samples_mask = np.zeros_like(db.labels_, dtype=bool)
