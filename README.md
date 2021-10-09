@@ -1,5 +1,7 @@
 # **Desafio Zaply: Desenvolvimento**
 ##### Link das instruções [aqui](https://ruddy-radius-5a5.notion.site/Desafio-Zaply-Machine-Learning-09-2021-a4783deab5534d5a89db06e530fcd690)
+##### Para ativar o ambiente: 
+    $ conda activate ./env
 ## **Candidato**: Cristian Figueiredo dos Santos
 
 
